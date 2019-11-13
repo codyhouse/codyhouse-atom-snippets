@@ -1,0 +1,18 @@
+{
+  "name": "codyhouse-snippets",
+  "main": "./codyhouse-atom-snippets/README.md",
+  "version": "0.0.1",
+  "description": "CodyHouse snippets for Atom",
+  "keywords": [
+    "sass",
+    "scss",
+    "css",
+    "snippets",
+    "codyhouse"
+  ],
+  "repository": "https://github.com/CodyHouse/codyhouse-atom-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

@@ -1,0 +1,330 @@
+'.source.scss':
+  'srHide':
+		'prefix': 'srHide'
+		'body': '@include srHide;'
+	'srShow':
+		'prefix': 'srShow'
+		'body': '@include srShow;'
+	'breakpoint (xs)':
+		'prefix': '@xs'
+		'body': """
+      @include breakpoint(xs) {
+			  ${1}
+			}
+    """
+  'breakpoint (sm)':
+		'prefix': '@sm'
+		'body': """
+      @include breakpoint(sm) {
+			  ${1}
+			}
+    """
+  'breakpoint (md)':
+		'prefix': '@md'
+		'body': """
+      @include breakpoint(md) {
+			  ${1}
+			}
+    """
+  'breakpoint (lg)':
+		'prefix': '@lg'
+		'body': """
+      @include breakpoint(lg) {
+			  ${1}
+			}
+    """
+  'breakpoint (xl)':
+		'prefix': '@xl'
+		'body': """
+      @include breakpoint(xl) {
+			  ${1}
+			}
+    """
+  'Color HSL Function':
+		'prefix': 'defineColorHSL'
+		'body': '@include defineColorHSL(--${1} ${2:220} ${3:90}% ${4:36}%);'
+  'color primary darker':
+		'prefix': '--color-primary-darker'
+		'body': 'var(--color-primary-darker)'
+  'color primary dark':
+		'prefix': '--color-primary-dark'
+		'body': 'var(--color-primary-dark)'
+  'color primary':
+		'prefix': '--color-primary'
+		'body': 'var(--color-primary)'
+  'color primary light':
+		'prefix': '--color-primary-light'
+		'body': 'var(--color-primary-light)'
+  'color primary lighter':
+		'prefix': '--color-primary-lighter'
+		'body': 'var(--color-primary-lighter)'
+  'color accent darker':
+		'prefix': '--color-accent-darker'
+		'body': 'var(--color-accent-darker)'
+  'color accent dark':
+		'prefix': '--color-accent-dark'
+		'body': 'var(--color-accent-dark)'
+  'color accent':
+		'prefix': '--color-accent'
+		'body': 'var(--color-accent)'
+  'color accent light':
+		'prefix': '--color-accent-light'
+		'body': 'var(--color-accent-light)'
+  'color accent lighter':
+		'prefix': '--color-accent-lighter'
+		'body': 'var(--color-accent-lighter)'
+  'color black':
+		'prefix': '--color-black'
+		'body': 'var(--color-black)'
+  'color white':
+		'prefix': '--color-white'
+		'body': 'var(--color-white)'
+  'color success darker':
+		'prefix': '--color-success-darker'
+		'body': 'var(--color-success-darker)'
+  'color success dark':
+		'prefix': '--color-success-dark'
+		'body': 'var(--color-success-dark)'
+  'color success':
+		'prefix': '--color-success'
+		'body': 'var(--color-success)'
+  'color success light':
+		'prefix': '--color-success-light'
+		'body': 'var(--color-success-light)'
+  'color success lighter':
+		'prefix': '--color-success-lighter'
+		'body': 'var(--color-success-lighter)'
+  'color error darker':
+		'prefix': '--color-error-darker'
+		'body': 'var(--color-error-darker)'
+  'color error dark':
+		'prefix': '--color-error-dark'
+		'body': 'var(--color-error-dark)'
+  'color error':
+		'prefix': '--color-error'
+		'body': 'var(--color-error)'
+  'color error light':
+		'prefix': '--color-error-light'
+		'body': 'var(--color-error-light)'
+  'color error lighter':
+		'prefix': '--color-error-lighter'
+		'body': 'var(--color-error-lighter)'
+  'color warning darker':
+		'prefix': '--color-warning-darker'
+		'body': 'var(--color-warning-darker)'
+  'color warning dark':
+		'prefix': '--color-warning-dark'
+		'body': 'var(--color-warning-dark)'
+  'color warning':
+		'prefix': '--color-warning'
+		'body': 'var(--color-warning)'
+  'color warning light':
+		'prefix': '--color-warning-light'
+		'body': 'var(--color-warning-light)'
+  'color warning lighter':
+		'prefix': '--color-warning-lighter'
+		'body': 'var(--color-warning-lighter)'
+  'color background':
+		'prefix': '--color-bg'
+		'body': 'var(--color-bg)'
+  'color contrast lower':
+		'prefix': '--color-contrast-lower'
+		'body': 'var(--color-contrast-lower)'
+  'color contrast low':
+		'prefix': '--color-contrast-low'
+		'body': 'var(--color-contrast-low)'
+  'color contrast medium':
+		'prefix': '--color-contrast-medium'
+		'body': 'var(--color-contrast-medium)'
+  'color contrast high':
+		'prefix': '--color-contrast-high'
+		'body': 'var(--color-contrast-high)'
+  'color contrast higher':
+		'prefix': '--color-contrast-higher'
+		'body': 'var(--color-contrast-higher)'
+  'fontSmooth':
+		'prefix': 'fontSmooth'
+		'body': '@include fontSmooth;'
+  'lhCrop':
+		'prefix': 'lhCrop'
+		'body': '@include lhCrop(${1:lineHeight} ${2:var(--font-primary-capital-letter): 1});'
+  'triangle':
+		'prefix': 'triangle'
+		'body': '@include triangle(${1:direction: up/down/left/right} ${2:width: 12px} ${3:color});'
+  'reset (mixin)':
+		'prefix': 'reset'
+		'body': '@include reset;'
+  'alpha':
+		'prefix': 'alpha'
+		'body': 'alpha(${1:color} ${2:opacity: 1});'
+  'lightness':
+		'prefix': 'lightness'
+		'body': 'lightness(${1:color} ${2:lightnessMultiplier: 1});'
+  'spaceUnit':
+		'prefix': 'spaceUnit'
+		'body': '@include spaceUnit(${1:spaceUnit});'
+	'textUnit':
+		'prefix': 'textUnit'
+		'body': '@include textUnit(${1:textUnit} ${2:textScaleRatio: 1.2});'
+  'bounce timing function':
+		'prefix': '--bounce timing function'
+		'body': 'var(--bounce)'
+  'ease-in-out timing function':
+		'prefix': '--ease-in-out timing function'
+		'body': 'var(--ease-in-out)'
+  'ease-in timing function':
+		'prefix': '--ease-in timing function'
+		'body': 'var(--ease-in)'
+  'ease-out timing function':
+		'prefix': '--ease-out timing function'
+		'body': 'var(--ease-out)'
+  'radius sm':
+		'prefix': '--radius-sm'
+		'body': 'var(--radius-sm)'
+  'radius md':
+		'prefix': '--radius-md'
+		'body': 'var(--radius-md)'
+  'radius lg':
+		'prefix': '--radius-lg'
+		'body': 'var(--radius-lg)'
+  'shadow xs':
+		'prefix': '--shadow-xs'
+		'body': 'var(--shadow-xs)'
+  'shadow sm':
+		'prefix': '--shadow-sm'
+		'body': 'var(--shadow-sm)'
+  'shadow md':
+		'prefix': '--shadow-md'
+		'body': 'var(--shadow-md)'
+  'shadow lg':
+		'prefix': '--shadow-lg'
+		'body': 'var(--shadow-lg)'
+  'shadow xl':
+		'prefix': '--shadow-xl'
+		'body': 'var(--shadow-xl)'
+  'space xxxxs':
+		'prefix': '--space-xxxxs'
+		'body': 'var(--space-xxxxs)'
+  'space xxxs':
+		'prefix': '--space-xxxs'
+		'body': 'var(--space-xxxs)'
+  'space xxs':
+		'prefix': '--space-xxs'
+		'body': 'var(--space-xxs)'
+  'space xs':
+		'prefix': '--space-xs'
+		'body': 'var(--space-xs)'
+  'space sm':
+		'prefix': '--space-sm'
+		'body': 'var(--space-sm)'
+  'space md':
+		'prefix': '--space-md'
+		'body': 'var(--space-md)'
+  'space lg':
+		'prefix': '--space-lg'
+		'body': 'var(--space-lg)'
+  'space xl':
+		'prefix': '--space-xl'
+		'body': 'var(--space-xl)'
+  'space xxl':
+		'prefix': '--space-xxl'
+		'body': 'var(--space-xxl)'
+  'space xxxl':
+		'prefix': '--space-xxxl'
+		'body': 'var(--space-xxxl)'
+  'space xxxxl':
+		'prefix': '--space-xxxxl'
+		'body': 'var(--space-xxxxl)'
+  'component padding':
+		'prefix': '--component-padding'
+		'body': 'var(--component-padding)'
+  'body line-height':
+		'prefix': '--body-line-height'
+		'body': 'var(--body-line-height)'
+	'heading line-height':
+		'prefix': '--heading-line-height'
+		'body': 'var(--heading-line-height)'
+	'line-height multiplier':
+		'prefix': '--line-height-multiplier'
+		'body': 'var(--line-height-multiplier)'
+	'text vertical space multiplier':
+		'prefix': '--text-vspace-multiplier'
+		'body': 'var(--text-vspace-multiplier)'
+	'primary font-family':
+		'prefix': '--font-primary'
+		'body': 'var(--font-primary)'
+	'body font-size':
+		'prefix': '--text-base-size'
+		'body': 'var(--text-base-size)'
+	'type scale':
+		'prefix': '--text-scale-ratio'
+		'body': 'var(--text-scale-ratio)'
+	'text xs':
+		'prefix': '--text-xs'
+		'body': 'var(--text-xs)'
+	'text sm':
+		'prefix': '--text-sm'
+		'body': 'var(--text-sm)'
+	'text md':
+		'prefix': '--text-md'
+		'body': 'var(--text-md)'
+	'text lg':
+		'prefix': '--text-lg'
+		'body': 'var(--text-lg)'
+	'text xl':
+		'prefix': '--text-xl'
+		'body': 'var(--text-xl)'
+	'text xxl':
+		'prefix': '--text-xxl'
+		'body': 'var(--text-xxl)'
+	'text xxxl':
+		'prefix': '--text-xxxl'
+		'body': 'var(--text-xxxl)'
+	'display value':
+		'prefix': '--display'
+		'body': 'var(--display)'
+	'z-index header':
+		'prefix': '--zindex-header'
+		'body': 'var(--zindex-header)'
+	'z-index popover':
+		'prefix': '--zindex-popover'
+		'body': 'var(--zindex-popover)'
+	'z-index fixed':
+		'prefix': '--zindex-fixed-element'
+		'body': 'var(--zindex-fixed-element)'
+	'z-index overlay':
+		'prefix': '--zindex-overlay'
+		'body': 'var(--zindex-overlay)'
+	'max-width xxxxs':
+		'prefix': '--max-width-xxxxs'
+		'body': 'var(--max-width-xxxxs)'
+	'max-width xxxs':
+		'prefix': '--max-width-xxxs'
+		'body': 'var(--max-width-xxxs)'
+	'max-width xxs':
+		'prefix': '--max-width-xxs'
+		'body': 'var(--max-width-xxs)'
+	'max-width xs':
+		'prefix': '--max-width-xs'
+		'body': 'var(--max-width-xs)'
+	'max-width sm':
+		'prefix': '--max-width-sm'
+		'body': 'var(--max-width-sm)'
+	'max-width md':
+		'prefix': '--max-width-md'
+		'body': 'var(--max-width-md)'
+	'max-width lg':
+		'prefix': '--max-width-lg'
+		'body': 'var(--max-width-lg)'
+	'max-width xl':
+		'prefix': '--max-width-xl'
+		'body': 'var(--max-width-xl)'
+	'max-width xxl':
+		'prefix': '--max-width-xxl'
+		'body': 'var(--max-width-xxl)'
+	'max-width xxxl':
+		'prefix': '--max-width-xxxl'
+		'body': 'var(--max-width-xxxl)'
+	'max-width xxxxl':
+		'prefix': '--max-width-xxxxl'
+		'body': 'var(--max-width-xxxxl)'
