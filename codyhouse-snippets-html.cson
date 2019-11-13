@@ -147,7 +147,7 @@
     'prefix': 'flex-column@xs'
     'body': 'flex-column@xs'
 
-	'flex-column-reverse@xs':
+  'flex-column-reverse@xs':
     'prefix': 'flex-column-reverse@xs'
     'body': 'flex-column-reverse@xs'
 
@@ -155,7 +155,7 @@
     'prefix': 'flex-row@xs'
     'body': 'flex-row@xs'
 
-	'flex-row-reverse@xs':
+  'flex-row-reverse@xs':
     'prefix': 'flex-row-reverse@xs'
     'body': 'flex-row-reverse@xs'
 
@@ -207,7 +207,7 @@
     'prefix': 'flex-column@sm'
     'body': 'flex-column@sm'
 
-	'flex-column-reverse@sm':
+  'flex-column-reverse@sm':
     'prefix': 'flex-column-reverse@sm'
     'body': 'flex-column-reverse@sm'
 
@@ -215,7 +215,7 @@
     'prefix': 'flex-row@sm'
     'body': 'flex-row@sm'
 
-	'flex-row-reverse@sm':
+  'flex-row-reverse@sm':
     'prefix': 'flex-row-reverse@sm'
     'body': 'flex-row-reverse@sm'
 
@@ -267,7 +267,7 @@
     'prefix': 'flex-column@md'
     'body': 'flex-column@md'
 
-	'flex-column-reverse@md':
+  'flex-column-reverse@md':
     'prefix': 'flex-column-reverse@md'
     'body': 'flex-column-reverse@md'
 
@@ -275,7 +275,7 @@
     'prefix': 'flex-row@md'
     'body': 'flex-row@md'
 
-	'flex-row-reverse@md':
+  'flex-row-reverse@md':
     'prefix': 'flex-row-reverse@md'
     'body': 'flex-row-reverse@md'
 
@@ -327,7 +327,7 @@
     'prefix': 'flex-column@lg'
     'body': 'flex-column@lg'
 
-	'flex-column-reverse@lg':
+  'flex-column-reverse@lg':
     'prefix': 'flex-column-reverse@lg'
     'body': 'flex-column-reverse@lg'
 
@@ -335,7 +335,7 @@
     'prefix': 'flex-row@lg'
     'body': 'flex-row@lg'
 
-	'flex-row-reverse@lg':
+  'flex-row-reverse@lg':
     'prefix': 'flex-row-reverse@lg'
     'body': 'flex-row-reverse@lg'
 
@@ -387,7 +387,7 @@
     'prefix': 'flex-column@xl'
     'body': 'flex-column@xl'
 
-	'flex-column-reverse@xl':
+  'flex-column-reverse@xl':
     'prefix': 'flex-column-reverse@xl'
     'body': 'flex-column-reverse@xl'
 
@@ -395,7 +395,7 @@
     'prefix': 'flex-row@xl'
     'body': 'flex-row@xl'
 
-	'flex-row-reverse@xl':
+  'flex-row-reverse@xl':
     'prefix': 'flex-row-reverse@xl'
     'body': 'flex-row-reverse@xl'
 
@@ -1191,19 +1191,19 @@
     'prefix': 'has-padding@xl'
     'body': 'has-padding@xl'
 
-	'align baseline':
+  'align baseline':
     'prefix': 'align-baseline'
     'body': 'align-baseline'
 
-	'align top':
+  'align top':
     'prefix': 'align-top'
     'body': 'align-top'
 
-	'align middle':
+  'align middle':
     'prefix': 'align-middle'
     'body': 'align-middle'
 
-	'align bottom':
+  'align bottom':
     'prefix': 'align-bottom'
     'body': 'align-bottom'
 
@@ -1211,871 +1211,871 @@
     'prefix': 'form-control'
     'body': 'form-control'
 
-	'form legend':
+  'form legend':
     'prefix': 'form-legend'
     'body': 'form-legend'
 
-	'form label':
+  'form label':
     'prefix': 'form-label'
     'body': 'form-label'
 
-	'form error message':
+  'form error message':
     'prefix': 'form-error-msg'
     'body': 'form-error-msg'
 
-	'radio list':
+  'radio list':
     'prefix': 'radio-list'
     'body': 'radio-list'
 
-	'checkbox list':
+  'checkbox list':
     'prefix': 'checkbox-list'
     'body': 'checkbox-list'
 
-	'container':
+  'container':
     'prefix': 'container'
     'body': 'container'
 
-	'max-width xxxxs':
+  'max-width xxxxs':
     'prefix': 'max-width-xxxxs'
     'body': 'max-width-xxxxs'
 
-	'max-width xxxs':
+  'max-width xxxs':
     'prefix': 'max-width-xxxs'
     'body': 'max-width-xxxs'
 
-	'max-width xxs':
+  'max-width xxs':
     'prefix': 'max-width-xxs'
     'body': 'max-width-xxs'
 
-	'max-width xs':
+  'max-width xs':
     'prefix': 'max-width-xs'
     'body': 'max-width-xs'
 
-	'max-width sm':
+  'max-width sm':
     'prefix': 'max-width-sm'
     'body': 'max-width-sm'
 
-	'max-width md':
+  'max-width md':
     'prefix': 'max-width-md'
     'body': 'max-width-md'
 
-	'max-width lg':
+  'max-width lg':
     'prefix': 'max-width-lg'
     'body': 'max-width-lg'
 
-	'max-width xl':
+  'max-width xl':
     'prefix': 'max-width-xl'
     'body': 'max-width-xl'
 
-	'max-width xxl':
+  'max-width xxl':
     'prefix': 'max-width-xxl'
     'body': 'max-width-xxl'
 
-	'max-width xxxl':
+  'max-width xxxl':
     'prefix': 'max-width-xxxl'
     'body': 'max-width-xxxl'
 
-	'max-width xxxxl':
+  'max-width xxxxl':
     'prefix': 'max-width-xxxxl'
     'body': 'max-width-xxxxl'
 
-	'max-width adaptive sm':
+  'max-width adaptive sm':
     'prefix': 'max-width-adaptive-sm'
     'body': 'max-width-adaptive-sm'
 
-	'max-width adaptive md':
+  'max-width adaptive md':
     'prefix': 'max-width-adaptive-md'
     'body': 'max-width-adaptive-md'
 
-	'max-width adaptive lg':
+  'max-width adaptive lg':
     'prefix': 'max-width-adaptive-lg'
     'body': 'max-width-adaptive-lg'
 
-	'max-width adaptive xl':
+  'max-width adaptive xl':
     'prefix': 'max-width-adaptive-xl'
     'body': 'max-width-adaptive-xl'
 
-	'grid':
+  'grid':
     'prefix': 'grid'
     'body': 'grid'
 
-	'grid gap xxxxs':
+  'grid gap xxxxs':
     'prefix': 'grid-gap-xxxxs'
     'body': 'grid-gap-xxxxs'
 
-	'grid gap xxxs':
+  'grid gap xxxs':
     'prefix': 'grid-gap-xxxs'
     'body': 'grid-gap-xxxs'
 
-	'grid gap xxs':
+  'grid gap xxs':
     'prefix': 'grid-gap-xxs'
     'body': 'grid-gap-xxs'
 
-	'grid gap xs':
+  'grid gap xs':
     'prefix': 'grid-gap-xs'
     'body': 'grid-gap-xs'
 
-	'grid gap sm':
+  'grid gap sm':
     'prefix': 'grid-gap-sm'
     'body': 'grid-gap-sm'
 
-	'grid gap md':
+  'grid gap md':
     'prefix': 'grid-gap-md'
     'body': 'grid-gap-md'
 
-	'grid gap lg':
+  'grid gap lg':
     'prefix': 'grid-gap-lg'
     'body': 'grid-gap-lg'
 
-	'grid gap xl':
+  'grid gap xl':
     'prefix': 'grid-gap-xl'
     'body': 'grid-gap-xl'
 
-	'grid gap xxl':
+  'grid gap xxl':
     'prefix': 'grid-gap-xxl'
     'body': 'grid-gap-xxl'
 
-	'grid gap xxxl':
+  'grid gap xxxl':
     'prefix': 'grid-gap-xxxl'
     'body': 'grid-gap-xxxl'
 
-	'grid gap xxxxl':
+  'grid gap xxxxl':
     'prefix': 'grid-gap-xxxxl'
     'body': 'grid-gap-xxxxl'
 
-	'col':
+  'col':
     'prefix': 'col'
     'body': 'col'
 
-	'col@xs':
+  'col@xs':
     'prefix': 'col@xs'
     'body': 'col@xs'
 
-	'col@sm':
+  'col@sm':
     'prefix': 'col@sm'
     'body': 'col@sm'
 
-	'col@md':
+  'col@md':
     'prefix': 'col@md'
     'body': 'col@md'
 
-	'col@lg':
+  'col@lg':
     'prefix': 'col@lg'
     'body': 'col@lg'
 
-	'col@xl':
+  'col@xl':
     'prefix': 'col@xl'
     'body': 'col@xl'
 
-	'col-1':
+  'col-1':
     'prefix': 'col-1'
     'body': 'col-1'
 
-	'col-1@xs':
+  'col-1@xs':
     'prefix': 'col-1@xs'
     'body': 'col-1@xs'
 
-	'col-1@sm':
+  'col-1@sm':
     'prefix': 'col-1@sm'
     'body': 'col-1@sm'
 
-	'col-1@md':
+  'col-1@md':
     'prefix': 'col-1@md'
     'body': 'col-1@md'
 
-	'col-1@lg':
+  'col-1@lg':
     'prefix': 'col-1@lg'
     'body': 'col-1@lg'
 
-	'col-1@xl':
+  'col-1@xl':
     'prefix': 'col-1@xl'
     'body': 'col-1@xl'
 
-	'col-2':
+  'col-2':
     'prefix': 'col-2'
     'body': 'col-2'
 
-	'col-2@xs':
+  'col-2@xs':
     'prefix': 'col-2@xs'
     'body': 'col-2@xs'
 
-	'col-2@sm':
+  'col-2@sm':
     'prefix': 'col-2@sm'
     'body': 'col-2@sm'
 
-	'col-2@md':
+  'col-2@md':
     'prefix': 'col-2@md'
     'body': 'col-2@md'
 
-	'col-2@lg':
+  'col-2@lg':
     'prefix': 'col-2@lg'
     'body': 'col-2@lg'
 
-	'col-2@xl':
+  'col-2@xl':
     'prefix': 'col-2@xl'
     'body': 'col-2@xl'
 
-	'col-3':
+  'col-3':
     'prefix': 'col-3'
     'body': 'col-3'
 
-	'col-3@xs':
+  'col-3@xs':
     'prefix': 'col-3@xs'
     'body': 'col-3@xs'
 
-	'col-3@sm':
+  'col-3@sm':
     'prefix': 'col-3@sm'
     'body': 'col-3@sm'
 
-	'col-3@md':
+  'col-3@md':
     'prefix': 'col-3@md'
     'body': 'col-3@md'
 
-	'col-3@lg':
+  'col-3@lg':
     'prefix': 'col-3@lg'
     'body': 'col-3@lg'
 
-	'col-3@xl':
+  'col-3@xl':
     'prefix': 'col-3@xl'
     'body': 'col-3@xl'
 
-	'col-4':
+  'col-4':
     'prefix': 'col-4'
     'body': 'col-4'
 
-	'col-4@xs':
+  'col-4@xs':
     'prefix': 'col-4@xs'
     'body': 'col-4@xs'
 
-	'col-4@sm':
+  'col-4@sm':
     'prefix': 'col-4@sm'
     'body': 'col-4@sm'
 
-	'col-4@md':
+  'col-4@md':
     'prefix': 'col-4@md'
     'body': 'col-4@md'
 
-	'col-4@lg':
+  'col-4@lg':
     'prefix': 'col-4@lg'
     'body': 'col-4@lg'
 
-	'col-4@xl':
+  'col-4@xl':
     'prefix': 'col-4@xl'
     'body': 'col-4@xl'
 
-	'col-5':
+  'col-5':
     'prefix': 'col-5'
     'body': 'col-5'
 
-	'col-5@xs':
+  'col-5@xs':
     'prefix': 'col-5@xs'
     'body': 'col-5@xs'
 
-	'col-5@sm':
+  'col-5@sm':
     'prefix': 'col-5@sm'
     'body': 'col-5@sm'
 
-	'col-5@md':
+  'col-5@md':
     'prefix': 'col-5@md'
     'body': 'col-5@md'
 
-	'col-5@lg':
+  'col-5@lg':
     'prefix': 'col-5@lg'
     'body': 'col-5@lg'
 
-	'col-5@xl':
+  'col-5@xl':
     'prefix': 'col-5@xl'
     'body': 'col-5@xl'
 
-	'col-6':
+  'col-6':
     'prefix': 'col-6'
     'body': 'col-6'
 
-	'col-6@xs':
+  'col-6@xs':
     'prefix': 'col-6@xs'
     'body': 'col-6@xs'
 
-	'col-6@sm':
+  'col-6@sm':
     'prefix': 'col-6@sm'
     'body': 'col-6@sm'
 
-	'col-6@md':
+  'col-6@md':
     'prefix': 'col-6@md'
     'body': 'col-6@md'
 
-	'col-6@lg':
+  'col-6@lg':
     'prefix': 'col-6@lg'
     'body': 'col-6@lg'
 
-	'col-6@xl':
+  'col-6@xl':
     'prefix': 'col-6@xl'
     'body': 'col-6@xl'
 
-	'col-7':
+  'col-7':
     'prefix': 'col-7'
     'body': 'col-7'
 
-	'col-7@xs':
+  'col-7@xs':
     'prefix': 'col-7@xs'
     'body': 'col-7@xs'
 
-	'col-7@sm':
+  'col-7@sm':
     'prefix': 'col-7@sm'
     'body': 'col-7@sm'
 
-	'col-7@md':
+  'col-7@md':
     'prefix': 'col-7@md'
     'body': 'col-7@md'
 
-	'col-7@lg':
+  'col-7@lg':
     'prefix': 'col-7@lg'
     'body': 'col-7@lg'
 
-	'col-7@xl':
+  'col-7@xl':
     'prefix': 'col-7@xl'
     'body': 'col-7@xl'
 
-	'col-8':
+  'col-8':
     'prefix': 'col-8'
     'body': 'col-8'
 
-	'col-8@xs':
+  'col-8@xs':
     'prefix': 'col-8@xs'
     'body': 'col-8@xs'
 
-	'col-8@sm':
+  'col-8@sm':
     'prefix': 'col-8@sm'
     'body': 'col-8@sm'
 
-	'col-8@md':
+  'col-8@md':
     'prefix': 'col-8@md'
     'body': 'col-8@md'
 
-	'col-8@lg':
+  'col-8@lg':
     'prefix': 'col-8@lg'
     'body': 'col-8@lg'
 
-	'col-8@xl':
+  'col-8@xl':
     'prefix': 'col-8@xl'
     'body': 'col-8@xl'
 
-	'col-9':
+  'col-9':
     'prefix': 'col-9'
     'body': 'col-9'
 
-	'col-9@xs':
+  'col-9@xs':
     'prefix': 'col-9@xs'
     'body': 'col-9@xs'
 
-	'col-9@sm':
+  'col-9@sm':
     'prefix': 'col-9@sm'
     'body': 'col-9@sm'
 
-	'col-9@md':
+  'col-9@md':
     'prefix': 'col-9@md'
     'body': 'col-9@md'
 
-	'col-9@lg':
+  'col-9@lg':
     'prefix': 'col-9@lg'
     'body': 'col-9@lg'
 
-	'col-9@xl':
+  'col-9@xl':
     'prefix': 'col-9@xl'
     'body': 'col-9@xl'
 
-	'col-10':
+  'col-10':
     'prefix': 'col-10'
     'body': 'col-10'
 
-	'col-10@xs':
+  'col-10@xs':
     'prefix': 'col-10@xs'
     'body': 'col-10@xs'
 
-	'col-10@sm':
+  'col-10@sm':
     'prefix': 'col-10@sm'
     'body': 'col-10@sm'
 
-	'col-10@md':
+  'col-10@md':
     'prefix': 'col-10@md'
     'body': 'col-10@md'
 
-	'col-10@lg':
+  'col-10@lg':
     'prefix': 'col-10@lg'
     'body': 'col-10@lg'
 
-	'col-10@xl':
+  'col-10@xl':
     'prefix': 'col-10@xl'
     'body': 'col-10@xl'
 
-	'col-11':
+  'col-11':
     'prefix': 'col-11'
     'body': 'col-11'
 
-	'col-11@xs':
+  'col-11@xs':
     'prefix': 'col-11@xs'
     'body': 'col-11@xs'
 
-	'col-11@sm':
+  'col-11@sm':
     'prefix': 'col-11@sm'
     'body': 'col-11@sm'
 
-	'col-11@md':
+  'col-11@md':
     'prefix': 'col-11@md'
     'body': 'col-11@md'
 
-	'col-11@lg':
+  'col-11@lg':
     'prefix': 'col-11@lg'
     'body': 'col-11@lg'
 
-	'col-11@xl':
+  'col-11@xl':
     'prefix': 'col-11@xl'
     'body': 'col-11@xl'
 
-	'col-12':
+  'col-12':
     'prefix': 'col-12'
     'body': 'col-12'
 
-	'col-12@xs':
+  'col-12@xs':
     'prefix': 'col-12@xs'
     'body': 'col-12@xs'
 
-	'col-12@sm':
+  'col-12@sm':
     'prefix': 'col-12@sm'
     'body': 'col-12@sm'
 
-	'col-12@md':
+  'col-12@md':
     'prefix': 'col-12@md'
     'body': 'col-12@md'
 
-	'col-12@lg':
+  'col-12@lg':
     'prefix': 'col-12@lg'
     'body': 'col-12@lg'
 
-	'col-12@xl':
+  'col-12@xl':
     'prefix': 'col-12@xl'
     'body': 'col-12@xl'
 
-	'col-1/2':
+  'col-1/2':
     'prefix': 'col-1/2'
     'body': 'col-6'
 
-	'col-1/2@xs':
+  'col-1/2@xs':
     'prefix': 'col-1/2@xs'
     'body': 'col-6@xs'
 
-	'col-1/2@sm':
+  'col-1/2@sm':
     'prefix': 'col-1/2@sm'
     'body': 'col-6@sm'
 
-	'col-1/2@md':
+  'col-1/2@md':
     'prefix': 'col-1/2@md'
     'body': 'col-6@md'
 
-	'col-1/2@lg':
+  'col-1/2@lg':
     'prefix': 'col-1/2@lg'
     'body': 'col-6@lg'
 
-	'col-1/2@xl':
+  'col-1/2@xl':
     'prefix': 'col-1/2@xl'
     'body': 'col-6@xl'
 
-	'col-1/3':
+  'col-1/3':
     'prefix': 'col-1/3'
     'body': 'col-4'
 
-	'col-1/3@xs':
+  'col-1/3@xs':
     'prefix': 'col-1/3@xs'
     'body': 'col-4@xs'
 
-	'col-1/3@sm':
+  'col-1/3@sm':
     'prefix': 'col-1/3@sm'
     'body': 'col-4@sm'
 
-	'col-1/3@md':
+  'col-1/3@md':
     'prefix': 'col-1/3@md'
     'body': 'col-4@md'
 
-	'col-1/3@lg':
+  'col-1/3@lg':
     'prefix': 'col-1/3@lg'
     'body': 'col-4@lg'
 
-	'col-1/3@xl':
+  'col-1/3@xl':
     'prefix': 'col-1/3@xl'
     'body': 'col-4@xl'
 
-	'col-2/3':
+  'col-2/3':
     'prefix': 'col-2/3'
     'body': 'col-8'
 
-	'col-2/3@xs':
+  'col-2/3@xs':
     'prefix': 'col-2/3@xs'
     'body': 'col-8@xs'
 
-	'col-2/3@sm':
+  'col-2/3@sm':
     'prefix': 'col-2/3@sm'
     'body': 'col-8@sm'
 
-	'col-2/3@md':
+  'col-2/3@md':
     'prefix': 'col-2/3@md'
     'body': 'col-8@md'
 
-	'col-2/3@lg':
+  'col-2/3@lg':
     'prefix': 'col-2/3@lg'
     'body': 'col-8@lg'
 
-	'col-2/3@xl':
+  'col-2/3@xl':
     'prefix': 'col-2/3@xl'
     'body': 'col-8@xl'
 
-	'col-1/4':
+  'col-1/4':
     'prefix': 'col-1/4'
     'body': 'col-3'
 
-	'col-1/4@xs':
+  'col-1/4@xs':
     'prefix': 'col-1/4@xs'
     'body': 'col-3@xs'
 
-	'col-1/4@sm':
+  'col-1/4@sm':
     'prefix': 'col-1/4@sm'
     'body': 'col-3@sm'
 
-	'col-1/4@md':
+  'col-1/4@md':
     'prefix': 'col-1/4@md'
     'body': 'col-3@md'
 
-	'col-1/4@lg':
+  'col-1/4@lg':
     'prefix': 'col-1/4@lg'
     'body': 'col-3@lg'
 
-	'col-1/4@xl':
+  'col-1/4@xl':
     'prefix': 'col-1/4@xl'
     'body': 'col-3@xl'
 
-	'col-3/4':
+  'col-3/4':
     'prefix': 'col-3/4'
     'body': 'col-9'
 
-	'col-3/4@xs':
+  'col-3/4@xs':
     'prefix': 'col-3/4@xs'
     'body': 'col-9@xs'
 
-	'col-3/4@sm':
+  'col-3/4@sm':
     'prefix': 'col-3/4@sm'
     'body': 'col-9@sm'
 
-	'col-3/4@md':
+  'col-3/4@md':
     'prefix': 'col-3/4@md'
     'body': 'col-9@md'
 
-	'col-3/4@lg':
+  'col-3/4@lg':
     'prefix': 'col-3/4@lg'
     'body': 'col-9@lg'
 
-	'col-3/4@xl':
+  'col-3/4@xl':
     'prefix': 'col-3/4@xl'
     'body': 'col-9@xl'
 
-	'text-xxxl':
+  'text-xxxl':
     'prefix': 'text-xxxl'
     'body': 'text-xxxl'
 
-	'text-xxl':
+  'text-xxl':
     'prefix': 'text-xxl'
     'body': 'text-xxl'
 
-	'text-xl':
+  'text-xl':
     'prefix': 'text-xl'
     'body': 'text-xl'
 
-	'text-lg':
+  'text-lg':
     'prefix': 'text-lg'
     'body': 'text-lg'
 
-	'text-md':
+  'text-md':
     'prefix': 'text-md'
     'body': 'text-md'
 
-	'text-base':
+  'text-base':
     'prefix': 'text-base'
     'body': 'text-base'
 
-	'text-sm':
+  'text-sm':
     'prefix': 'text-sm'
     'body': 'text-sm'
 
-	'text-xs':
+  'text-xs':
     'prefix': 'text-xs'
     'body': 'text-xs'
 
-	'link':
+  'link':
     'prefix': 'link'
     'body': 'link'
 
-	'text-bold':
+  'text-bold':
     'prefix': 'text-bold'
     'body': 'text-bold'
 
-	'text-underline':
+  'text-underline':
     'prefix': 'text-underline'
     'body': 'text-underline'
 
-	'text-component':
+  'text-component':
     'prefix': 'text-component'
     'body': 'text-component'
 
-	'article':
+  'article':
     'prefix': 'article'
     'body': 'article'
 
-	'text-component__block':
+  'text-component__block':
     'prefix': 'text-component__block'
     'body': 'text-component__block'
 
-	'text-component__block--full-width':
+  'text-component__block--full-width':
     'prefix': 'text-component__block--full-width'
     'body': 'text-component__block--full-width'
 
-	'text-component__block--left':
+  'text-component__block--left':
     'prefix': 'text-component__block--left'
     'body': 'text-component__block--left'
 
-	'text-component__block--right':
+  'text-component__block--right':
     'prefix': 'text-component__block--right'
     'body': 'text-component__block--right'
 
-	'text-component__block--outset':
+  'text-component__block--outset':
     'prefix': 'text-component__block--outset'
     'body': 'text-component__block--outset'
 
-	'display @xs':
+  'display @xs':
     'prefix': 'display@xs'
     'body': 'display@xs'
 
-	'display @sm':
+  'display @sm':
     'prefix': 'display@sm'
     'body': 'display@sm'
 
-	'display @md':
+  'display @md':
     'prefix': 'display@md'
     'body': 'display@md'
 
-	'display @lg':
+  'display @lg':
     'prefix': 'display@lg'
     'body': 'display@lg'
 
-	'hide @xs':
+  'hide @xs':
     'prefix': 'hide@xs'
     'body': 'hide@xs'
 
-	'hide @sm':
+  'hide @sm':
     'prefix': 'hide@sm'
     'body': 'hide@sm'
 
-	'hide @md':
+  'hide @md':
     'prefix': 'hide@md'
     'body': 'hide@md'
 
-	'hide @lg':
+  'hide @lg':
     'prefix': 'hide@lg'
     'body': 'hide@lg'
 
-	'hide @xl':
+  'hide @xl':
     'prefix': 'hide@xl'
     'body': 'hide@xl'
 
-	'is visible':
+  'is visible':
     'prefix': 'is-visible'
     'body': 'is-visible'
 
-	'is hidden':
+  'is hidden':
     'prefix': 'is-hidden'
     'body': 'is-hidden'
 
-	'truncate text':
+  'truncate text':
     'prefix': 'text-truncate'
     'body': 'text-truncate'
 
-	'replace text':
+  'replace text':
     'prefix': 'text-replace'
     'body': 'text-replace'
 
-	'remove text wrapping':
+  'remove text wrapping':
     'prefix': 'text-nowrap'
     'body': 'text-nowrap'
 
-	'text-align center':
+  'text-align center':
     'prefix': 'text-center'
     'body': 'text-center'
 
-	'text-align center @xs':
+  'text-align center @xs':
     'prefix': 'text-center@xs'
     'body': 'text-center@xs'
 
-	'text-align center @sm':
+  'text-align center @sm':
     'prefix': 'text-center@sm'
     'body': 'text-center@sm'
 
-	'text-align center @md':
+  'text-align center @md':
     'prefix': 'text-center@md'
     'body': 'text-center@md'
 
-	'text-align center @lg':
+  'text-align center @lg':
     'prefix': 'text-center@lg'
     'body': 'text-center@lg'
 
-	'text-align center @xl':
+  'text-align center @xl':
     'prefix': 'text-center@xl'
     'body': 'text-center@xl'
 
-	'text-align left':
+  'text-align left':
     'prefix': 'text-left'
     'body': 'text-left'
 
-	'text-align left @xs':
+  'text-align left @xs':
     'prefix': 'text-left@xs'
     'body': 'text-left@xs'
 
-	'text-align left @sm':
+  'text-align left @sm':
     'prefix': 'text-left@sm'
     'body': 'text-left@sm'
 
-	'text-align left @md':
+  'text-align left @md':
     'prefix': 'text-left@md'
     'body': 'text-left@md'
 
-	'text-align left @lg':
+  'text-align left @lg':
     'prefix': 'text-left@lg'
     'body': 'text-left@lg'
 
-	'text-align left @xl':
+  'text-align left @xl':
     'prefix': 'text-left@xl'
     'body': 'text-left@xl'
 
-	'text-align right':
+  'text-align right':
     'prefix': 'text-right'
     'body': 'text-right'
 
-	'text-align right @xs':
+  'text-align right @xs':
     'prefix': 'text-right@xs'
     'body': 'text-right@xs'
 
-	'text-align right @sm':
+  'text-align right @sm':
     'prefix': 'text-right@sm'
     'body': 'text-right@sm'
 
-	'text-align right @md':
+  'text-align right @md':
     'prefix': 'text-right@md'
     'body': 'text-right@md'
 
-	'text-align right @lg':
+  'text-align right @lg':
     'prefix': 'text-right@lg'
     'body': 'text-right@lg'
 
-	'text-align right @xl':
+  'text-align right @xl':
     'prefix': 'text-right@xl'
     'body': 'text-right@xl'
 
-	'color inherit':
+  'color inherit':
     'prefix': 'color-inherit'
     'body': 'color-inherit'
 
-	'color bg':
+  'color bg':
     'prefix': 'color-bg'
     'body': 'color-bg'
 
-	'color contrast lower':
+  'color contrast lower':
     'prefix': 'color-contrast-lower'
     'body': 'color-contrast-lower'
 
-	'color contrast low':
+  'color contrast low':
     'prefix': 'color-contrast-low'
     'body': 'color-contrast-low'
 
-	'color contrast medium':
+  'color contrast medium':
     'prefix': 'color-contrast-medium'
     'body': 'color-contrast-medium'
 
-	'color contrast high':
+  'color contrast high':
     'prefix': 'color-contrast-high'
     'body': 'color-contrast-high'
 
-	'color contrast higher':
+  'color contrast higher':
     'prefix': 'color-contrast-higher'
     'body': 'color-contrast-higher'
 
-	'color primary':
+  'color primary':
     'prefix': 'color-primary'
     'body': 'color-primary'
 
-	'color accent':
+  'color accent':
     'prefix': 'color-accent'
     'body': 'color-accent'
 
-	'color success':
+  'color success':
     'prefix': 'color-success'
     'body': 'color-success'
 
-	'color warning':
+  'color warning':
     'prefix': 'color-warning'
     'body': 'color-warning'
 
-	'color error':
+  'color error':
     'prefix': 'color-error'
     'body': 'color-error'
 
-	'width xxxxs':
+  'width xxxxs':
     'prefix': 'width-xxxxs'
     'body': 'width-xxxxs'
 
-	'width xxxs':
+  'width xxxs':
     'prefix': 'width-xxxs'
     'body': 'width-xxxs'
 
-	'width xxs':
+  'width xxs':
     'prefix': 'width-xxs'
     'body': 'width-xxs'
 
-	'width xs':
+  'width xs':
     'prefix': 'width-xs'
     'body': 'width-xs'
 
-	'width sm':
+  'width sm':
     'prefix': 'width-sm'
     'body': 'width-sm'
 
-	'width md':
+  'width md':
     'prefix': 'width-md'
     'body': 'width-md'
 
-	'width lg':
+  'width lg':
     'prefix': 'width-lg'
     'body': 'width-lg'
 
-	'width xl':
+  'width xl':
     'prefix': 'width-xl'
     'body': 'width-xl'
 
-	'width xxl':
+  'width xxl':
     'prefix': 'width-xxl'
     'body': 'width-xxl'
 
-	'width xxxl':
+  'width xxxl':
     'prefix': 'width-xxxl'
     'body': 'width-xxxl'
 
-	'width xxxxl':
+  'width xxxxl':
     'prefix': 'width-xxxxl'
     'body': 'width-xxxxl'
 
-	'width 10%':
+  'width 10%':
     'prefix': 'width-10%'
     'body': 'width-10%'
 
-	'width 20%':
+  'width 20%':
     'prefix': 'width-20%'
     'body': 'width-20%'
 
-	'width 25%':
+  'width 25%':
     'prefix': 'width-25%'
     'body': 'width-25%'
 
@@ -2083,7 +2083,7 @@
     'prefix': 'width-30%'
     'body': 'width-30%'
 
-	'width 33%':
+  'width 33%':
     'prefix': 'width-33%'
     'body': 'width-33%'
 
@@ -2091,7 +2091,7 @@
     'prefix': 'width-40%'
     'body': 'width-40%'
 
-	'width 50%':
+  'width 50%':
     'prefix': 'width-50%'
     'body': 'width-50%'
 
@@ -2099,7 +2099,7 @@
     'prefix': 'width-60%'
     'body': 'width-60%'
 
-	'width 66%':
+  'width 66%':
     'prefix': 'width-66%'
     'body': 'width-66%'
 
@@ -2107,7 +2107,7 @@
     'prefix': 'width-70%'
     'body': 'width-70%'
 
-	'width 75%':
+  'width 75%':
     'prefix': 'width-75%'
     'body': 'width-75%'
 
@@ -2119,67 +2119,67 @@
     'prefix': 'width-90%'
     'body': 'width-90%'
 
-	'width 100%':
+  'width 100%':
     'prefix': 'width-100%'
     'body': 'width-100%'
 
-	'width 100vw':
+  'width 100vw':
     'prefix': 'width-100vw'
     'body': 'width-100vw'
 
-	'height xxxxs':
+  'height xxxxs':
     'prefix': 'height-xxxxs'
     'body': 'height-xxxxs'
 
-	'height xxxs':
+  'height xxxs':
     'prefix': 'height-xxxs'
     'body': 'height-xxxs'
 
-	'height xxs':
+  'height xxs':
     'prefix': 'height-xxs'
     'body': 'height-xxs'
 
-	'height xs':
+  'height xs':
     'prefix': 'height-xs'
     'body': 'height-xs'
 
-	'height sm':
+  'height sm':
     'prefix': 'height-sm'
     'body': 'height-sm'
 
-	'height md':
+  'height md':
     'prefix': 'height-md'
     'body': 'height-md'
 
-	'height lg':
+  'height lg':
     'prefix': 'height-lg'
     'body': 'height-lg'
 
-	'height xl':
+  'height xl':
     'prefix': 'height-xl'
     'body': 'height-xl'
 
-	'height xxl':
+  'height xxl':
     'prefix': 'height-xxl'
     'body': 'height-xxl'
 
-	'height xxxl':
+  'height xxxl':
     'prefix': 'height-xxxl'
     'body': 'height-xxxl'
 
-	'height xxxxl':
+  'height xxxxl':
     'prefix': 'height-xxxxl'
     'body': 'height-xxxxl'
 
-	'height 10%':
+  'height 10%':
     'prefix': 'height-10%'
     'body': 'height-10%'
 
-	'height 20%':
+  'height 20%':
     'prefix': 'height-20%'
     'body': 'height-20%'
 
-	'height 25%':
+  'height 25%':
     'prefix': 'height-25%'
     'body': 'height-25%'
 
@@ -2187,7 +2187,7 @@
     'prefix': 'height-30%'
     'body': 'height-30%'
 
-	'height 33%':
+  'height 33%':
     'prefix': 'height-33%'
     'body': 'height-33%'
 
@@ -2195,7 +2195,7 @@
     'prefix': 'height-40%'
     'body': 'height-40%'
 
-	'height 50%':
+  'height 50%':
     'prefix': 'height-50%'
     'body': 'height-50%'
 
@@ -2203,7 +2203,7 @@
     'prefix': 'height-60%'
     'body': 'height-60%'
 
-	'height 66%':
+  'height 66%':
     'prefix': 'height-66%'
     'body': 'height-66%'
 
@@ -2211,7 +2211,7 @@
     'prefix': 'height-70%'
     'body': 'height-70%'
 
-	'height 75%':
+  'height 75%':
     'prefix': 'height-75%'
     'body': 'height-75%'
 
@@ -2223,35 +2223,35 @@
     'prefix': 'height-90%'
     'body': 'height-90%'
 
-	'height 100%':
+  'height 100%':
     'prefix': 'height-100%'
     'body': 'height-100%'
 
-	'height 100vh':
+  'height 100vh':
     'prefix': 'height-100vh'
     'body': 'height-100vh'
 
-	'media/iframe wrapper':
+  'media/iframe wrapper':
     'prefix': 'media-wrapper'
     'body': 'media-wrapper'
 
-	'media/iframe wrapper 4:3':
+  'media/iframe wrapper 4:3':
     'prefix': 'media-wrapper--4:3'
     'body': 'media-wrapper--4:3'
 
-	'media/iframe wrapper 1:1':
+  'media/iframe wrapper 1:1':
     'prefix': 'media-wrapper--1:1'
     'body': 'media-wrapper--1:1'
 
-	'float left':
+  'float left':
     'prefix': 'float-left'
     'body': 'float-left'
 
-	'float right':
+  'float right':
     'prefix': 'float-right'
     'body': 'float-right'
 
-	'clearfix':
+  'clearfix':
     'prefix': 'clearfix'
     'body': 'clearfix'
 
@@ -2527,26 +2527,26 @@
     'prefix': 'min-width-100%'
     'body': 'min-width-100%'
 
-	'position relative':
+  'position relative':
     'prefix': 'position-relative'
     'body': 'position-relative'
 
-	'position absolute':
+  'position absolute':
     'prefix': 'position-absolute'
     'body': 'position-absolute'
 
-	'position fixed':
+  'position fixed':
     'prefix': 'position-fixed'
     'body': 'position-fixed'
 
-	'position sticky':
+  'position sticky':
     'prefix': 'position-sticky'
     'body': 'position-sticky'
 
-	'overflow hidden':
+  'overflow hidden':
     'prefix': 'overflow-hidden'
     'body': 'overflow-hidden'
 
-	'overflow auto':
+  'overflow auto':
     'prefix': 'overflow-auto'
     'body': 'overflow-auto'
