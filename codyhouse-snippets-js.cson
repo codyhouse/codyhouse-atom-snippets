@@ -1,0 +1,32 @@
+'.source.js':
+  'addClass':
+    'prefix': 'addClass',
+    'body': 'Util.addClass(${1:element}, \'${2:className}\');'
+
+  'removeClass':
+    'prefix': 'removeClass',
+    'body': 'Util.removeClass(${1:element}, \'${2:className}\');'
+
+  'hasClass':
+    'prefix': 'hasClass',
+    'body': 'Util.hasClass(${1:element}, \'${2:className}\');'
+
+  'toggleClass':
+    'prefix': 'toggleClass',
+    'body': 'Util.toggleClass(${1:element}, \'${2:className}\', ${3:bool});'
+
+  'cssSupports':
+    'prefix': 'supports',
+    'body': 'Util.cssSupports(\'${1:display}\', \'${2:block}\');'
+
+  'focus':
+    'prefix': 'focus',
+    'body': 'Util.moveFocus(${1:element});'
+
+  'children':
+    'prefix': 'children',
+    'body': 'Util.getChildrenByClassName(${1:element}, \'${2:className}\');'
+
+  'index':
+    'prefix': 'index',
+    'body': 'Util.getIndexInArray(${1:array}, ${2:element});'
