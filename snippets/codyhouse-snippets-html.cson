@@ -2550,3 +2550,11 @@
   'overflow auto':
     'prefix': 'overflow-auto'
     'body': 'overflow-auto'
+
+  'object contain':
+    'prefix': 'object-contain'
+    'body': 'object-contain'
+
+  'object cover':
+    'prefix': 'object-cover'
+    'body': 'object-cover'
