@@ -1991,11 +1991,11 @@
     'prefix': 'text-replace'
     'body': 'text-replace'
 
-  'remove text wrapping':
+  'disable text wrapping':
     'prefix': 'text-nowrap'
     'body': 'text-nowrap'
 
-  'remove text wrapping':
+  'white-space nowrap':
     'prefix': 'ws-nowrap'
     'body': 'ws-nowrap'
 
