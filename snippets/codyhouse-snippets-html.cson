@@ -1944,8 +1944,8 @@
     'body': 'offset-4@xl'
 
   'offset-5':
-  'prefix': 'offset-5'
-  'body': 'offset-5'
+    'prefix': 'offset-5'
+    'body': 'offset-5'
 
   'offset-5@xs':
     'prefix': 'offset-5@xs'
