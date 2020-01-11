@@ -515,6 +515,78 @@
     'prefix': 'flex-basis-0'
     'body': 'flex-basis-0'
 
+  'flex-grow-0@xs':
+    'prefix': 'flex-grow-0@xs'
+    'body': 'flex-grow-0@xs'
+
+  'flex-shrink@xs':
+    'prefix': 'flex-shrink@xs'
+    'body': 'flex-shrink@xs'
+
+  'flex-grow-0@sm':
+    'prefix': 'flex-grow-0@sm'
+    'body': 'flex-grow-0@sm'
+
+  'flex-grow@sm':
+    'prefix': 'flex-grow@sm'
+    'body': 'flex-grow@sm'
+
+  'flex-shrink-0@sm':
+    'prefix': 'flex-shrink-0@sm'
+    'body': 'flex-shrink-0@sm'
+
+  'flex-shrink@sm':
+    'prefix': 'flex-shrink@sm'
+    'body': 'flex-shrink@sm'
+
+  'flex-grow-0@md':
+    'prefix': 'flex-grow-0@md'
+    'body': 'flex-grow-0@md'
+
+  'flex-grow@md':
+    'prefix': 'flex-grow@md'
+    'body': 'flex-grow@md'
+
+  'flex-shrink-0@md':
+    'prefix': 'flex-shrink-0@md'
+    'body': 'flex-shrink-0@md'
+
+  'flex-shrink@md':
+    'prefix': 'flex-shrink@md'
+    'body': 'flex-shrink@md'
+
+  'flex-grow-0@lg':
+    'prefix': 'flex-grow-0@lg'
+    'body': 'flex-grow-0@lg'
+
+  'flex-grow@lg':
+    'prefix': 'flex-grow@lg'
+    'body': 'flex-grow@lg'
+
+  'flex-shrink-0@lg':
+    'prefix': 'flex-shrink-0@lg'
+    'body': 'flex-shrink-0@lg'
+
+  'flex-shrink@lg':
+    'prefix': 'flex-shrink@lg'
+    'body': 'flex-shrink@lg'
+
+  'flex-grow-0@xl':
+    'prefix': 'flex-grow-0@xl'
+    'body': 'flex-grow-0@xl'
+
+  'flex-grow@xl':
+    'prefix': 'flex-grow@xl'
+    'body': 'flex-grow@xl'
+
+  'flex-shrink-0@xl':
+    'prefix': 'flex-shrink-0@xl'
+    'body': 'flex-shrink-0@xl'
+
+  'flex-shrink@xl':
+    'prefix': 'flex-shrink@xl'
+    'body': 'flex-shrink@xl'
+
   'flex gap xxxs':
     'prefix': 'flex-gap-xxxs'
     'body': 'flex-gap-xxxs'
@@ -2171,9 +2243,17 @@
     'prefix': 'text-bold'
     'body': 'text-bold'
 
-  'text-underline':
+  'text-decoration underline':
     'prefix': 'text-underline'
     'body': 'text-underline'
+
+  'text-decoration line-through':
+    'prefix': 'text-line-through'
+    'body': 'text-line-through'
+
+  'text-decoration none':
+    'prefix': 'text-decoration-none'
+    'body': 'text-decoration-none'
 
   'text-component':
     'prefix': 'text-component'
@@ -2334,6 +2414,26 @@
   'text-align right @xl':
     'prefix': 'text-right@xl'
     'body': 'text-right@xl'
+
+  'text-transform uppercase':
+    'prefix': 'text-uppercase'
+    'body': 'text-uppercase'
+
+  'text-transform capitalize':
+    'prefix': 'text-capitalize'
+    'body': 'text-capitalize'
+
+  'letter-spacing sm':
+    'prefix': 'letter-spacing-sm'
+    'body': 'letter-spacing-sm'
+
+  'letter-spacing md':
+    'prefix': 'letter-spacing-md'
+    'body': 'letter-spacing-md'
+
+  'letter-spacing lg':
+    'prefix': 'letter-spacing-lg'
+    'body': 'letter-spacing-lg'
 
   'color inherit':
     'prefix': 'color-inherit'
