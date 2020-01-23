@@ -2243,6 +2243,10 @@
     'prefix': 'text-bold'
     'body': 'text-bold'
 
+  'font-smooth':
+    'prefix': 'font-smooth'
+    'body': 'font-smooth'
+
   'text-decoration underline':
     'prefix': 'text-underline'
     'body': 'text-underline'
