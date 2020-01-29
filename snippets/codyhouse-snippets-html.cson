@@ -587,6 +587,10 @@
     'prefix': 'flex-shrink@xl'
     'body': 'flex-shrink@xl'
 
+  'flex gap xxxxs':
+    'prefix': 'flex-gap-xxxxs'
+    'body': 'flex-gap-xxxxs'
+
   'flex gap xxxs':
     'prefix': 'flex-gap-xxxs'
     'body': 'flex-gap-xxxs'
@@ -622,6 +626,10 @@
   'flex gap xxxl':
     'prefix': 'flex-gap-xxxl'
     'body': 'flex-gap-xxxl'
+
+  'flex gap xxxxl':
+    'prefix': 'flex-gap-xxxxl'
+    'body': 'flex-gap-xxxxl'
 
   'margin xxxxs':
     'prefix': 'margin-xxxxs'
@@ -2187,33 +2195,193 @@
     'prefix': 'text-xxxl'
     'body': 'text-xxxl'
 
+  'text-xxxl @xs':
+    'prefix': 'text-xxxl@xs'
+    'body': 'text-xxxl@xs'
+
+  'text-xxxl @sm':
+    'prefix': 'text-xxxl@sm'
+    'body': 'text-xxxl@sm'
+
+  'text-xxxl @md':
+    'prefix': 'text-xxxl@md'
+    'body': 'text-xxxl@md'
+
+  'text-xxxl @lg':
+    'prefix': 'text-xxxl@lg'
+    'body': 'text-xxxl@lg'
+
+  'text-xxxl @xl':
+    'prefix': 'text-xxxl@xl'
+    'body': 'text-xxxl@xl'
+
   'text-xxl':
     'prefix': 'text-xxl'
     'body': 'text-xxl'
+
+  'text-xxl @xs':
+    'prefix': 'text-xxl@xs'
+    'body': 'text-xxl@xs'
+
+  'text-xxl @sm':
+    'prefix': 'text-xxl@sm'
+    'body': 'text-xxl@sm'
+
+  'text-xxl @md':
+    'prefix': 'text-xxl@md'
+    'body': 'text-xxl@md'
+
+  'text-xxl @lg':
+    'prefix': 'text-xxl@lg'
+    'body': 'text-xxl@lg'
+
+  'text-xxl @xl':
+    'prefix': 'text-xxl@xl'
+    'body': 'text-xxl@xl'
 
   'text-xl':
     'prefix': 'text-xl'
     'body': 'text-xl'
 
+  'text-xl @xs':
+    'prefix': 'text-xl@xs'
+    'body': 'text-xl@xs'
+
+  'text-xl @sm':
+    'prefix': 'text-xl@sm'
+    'body': 'text-xl@sm'
+
+  'text-xl @md':
+    'prefix': 'text-xl@md'
+    'body': 'text-xl@md'
+
+  'text-xl @lg':
+    'prefix': 'text-xl@lg'
+    'body': 'text-xl@lg'
+
+  'text-xl @xl':
+    'prefix': 'text-xl@xl'
+    'body': 'text-xl@xl'
+
   'text-lg':
     'prefix': 'text-lg'
     'body': 'text-lg'
+
+  'text-lg @xs':
+    'prefix': 'text-lg@xs'
+    'body': 'text-lg@xs'
+
+  'text-lg @sm':
+    'prefix': 'text-lg@sm'
+    'body': 'text-lg@sm'
+
+  'text-lg @md':
+    'prefix': 'text-lg@md'
+    'body': 'text-lg@md'
+
+  'text-lg @lg':
+    'prefix': 'text-lg@lg'
+    'body': 'text-lg@lg'
+
+  'text-lg @xl':
+    'prefix': 'text-lg@xl'
+    'body': 'text-lg@xl'
 
   'text-md':
     'prefix': 'text-md'
     'body': 'text-md'
 
+  'text-md @xs':
+    'prefix': 'text-md@xs'
+    'body': 'text-md@xs'
+
+  'text-md @sm':
+    'prefix': 'text-md@sm'
+    'body': 'text-md@sm'
+
+  'text-md @md':
+    'prefix': 'text-md@md'
+    'body': 'text-md@md'
+
+  'text-md @lg':
+    'prefix': 'text-md@lg'
+    'body': 'text-md@lg'
+
+  'text-md @xl':
+    'prefix': 'text-md@xl'
+    'body': 'text-md@xl'
+
   'text-base':
     'prefix': 'text-base'
     'body': 'text-base'
+
+  'text-base @xs':
+    'prefix': 'text-base@xs'
+    'body': 'text-base@xs'
+
+  'text-base @sm':
+    'prefix': 'text-base@sm'
+    'body': 'text-base@sm'
+
+  'text-base @md':
+    'prefix': 'text-base@md'
+    'body': 'text-base@md'
+
+  'text-base @lg':
+    'prefix': 'text-base@lg'
+    'body': 'text-base@lg'
+
+  'text-base @xl':
+    'prefix': 'text-base@xl'
+    'body': 'text-base@xl'
 
   'text-sm':
     'prefix': 'text-sm'
     'body': 'text-sm'
 
+  'text-sm @xs':
+    'prefix': 'text-sm@xs'
+    'body': 'text-sm@xs'
+
+  'text-sm @sm':
+    'prefix': 'text-sm@sm'
+    'body': 'text-sm@sm'
+
+  'text-sm @md':
+    'prefix': 'text-sm@md'
+    'body': 'text-sm@md'
+
+  'text-sm @lg':
+    'prefix': 'text-sm@lg'
+    'body': 'text-sm@lg'
+
+  'text-sm @xl':
+    'prefix': 'text-sm@xl'
+    'body': 'text-sm@xl'
+
   'text-xs':
     'prefix': 'text-xs'
     'body': 'text-xs'
+
+  'text-xs @xs':
+    'prefix': 'text-xs@xs'
+    'body': 'text-xs@xs'
+
+  'text-xs @sm':
+    'prefix': 'text-xs@sm'
+    'body': 'text-xs@sm'
+
+  'text-xs @md':
+    'prefix': 'text-xs@md'
+    'body': 'text-xs@md'
+
+  'text-xs @lg':
+    'prefix': 'text-xs@lg'
+    'body': 'text-xs@lg'
+
+  'text-xs @xl':
+    'prefix': 'text-xs@xl'
+    'body': 'text-xs@xl'
 
   'link':
     'prefix': 'link'
