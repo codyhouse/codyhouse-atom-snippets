@@ -3143,6 +3143,1826 @@
     'prefix': 'padding-y-component'
     'body': 'padding-y-component'
 
+  'padding xxxxs @xs':
+    'prefix': 'padding-xxxxs@xs'
+    'body': 'padding-xxxxs@xs'
+
+  'padding xxxs @xs':
+    'prefix': 'padding-xxxs@xs'
+    'body': 'padding-xxxs@xs'
+
+  'padding xxs @xs':
+    'prefix': 'padding-xxs@xs'
+    'body': 'padding-xxs@xs'
+
+  'padding xs @xs':
+    'prefix': 'padding-xs@xs'
+    'body': 'padding-xs@xs'
+
+  'padding sm @xs':
+    'prefix': 'padding-sm@xs'
+    'body': 'padding-sm@xs'
+
+  'padding md @xs':
+    'prefix': 'padding-md@xs'
+    'body': 'padding-md@xs'
+
+  'padding lg @xs':
+    'prefix': 'padding-lg@xs'
+    'body': 'padding-lg@xs'
+
+  'padding xl @xs':
+    'prefix': 'padding-xl@xs'
+    'body': 'padding-xl@xs'
+
+  'padding xxl @xs':
+    'prefix': 'padding-xxl@xs'
+    'body': 'padding-xxl@xs'
+
+  'padding xxxl @xs':
+    'prefix': 'padding-xxxl@xs'
+    'body': 'padding-xxxl@xs'
+
+  'padding xxxxl @xs':
+    'prefix': 'padding-xxxxl@xs'
+    'body': 'padding-xxxxl@xs'
+
+  'padding component @xs':
+    'prefix': 'padding-component@xs'
+    'body': 'padding-component@xs'
+
+  'padding 0 @xs':
+    'prefix': 'padding-0@xs'
+    'body': 'padding-0@xs'
+
+  'padding top xxxxs @xs':
+    'prefix': 'padding-top-xxxxs@xs'
+    'body': 'padding-top-xxxxs@xs'
+
+  'padding top xxxs @xs':
+    'prefix': 'padding-top-xxxs@xs'
+    'body': 'padding-top-xxxs@xs'
+
+  'padding top xxs @xs':
+    'prefix': 'padding-top-xxs@xs'
+    'body': 'padding-top-xxs@xs'
+
+  'padding top xs @xs':
+    'prefix': 'padding-top-xs@xs'
+    'body': 'padding-top-xs@xs'
+
+  'padding top sm @xs':
+    'prefix': 'padding-top-sm@xs'
+    'body': 'padding-top-sm@xs'
+
+  'padding top md @xs':
+    'prefix': 'padding-top-md@xs'
+    'body': 'padding-top-md@xs'
+
+  'padding top lg @xs':
+    'prefix': 'padding-top-lg@xs'
+    'body': 'padding-top-lg@xs'
+
+  'padding top xl @xs':
+    'prefix': 'padding-top-xl@xs'
+    'body': 'padding-top-xl@xs'
+
+  'padding top xxl @xs':
+    'prefix': 'padding-top-xxl@xs'
+    'body': 'padding-top-xxl@xs'
+
+  'padding top xxxl @xs':
+    'prefix': 'padding-top-xxxl@xs'
+    'body': 'padding-top-xxxl@xs'
+
+  'padding top xxxxl @xs':
+    'prefix': 'padding-top-xxxxl@xs'
+    'body': 'padding-top-xxxxl@xs'
+
+  'padding top component @xs':
+    'prefix': 'padding-top-component@xs'
+    'body': 'padding-top-component@xs'
+
+  'padding top 0 @xs':
+    'prefix': 'padding-top-0@xs'
+    'body': 'padding-top-0@xs'
+
+  'padding bottom xxxxs @xs':
+    'prefix': 'padding-bottom-xxxxs@xs'
+    'body': 'padding-bottom-xxxxs@xs'
+
+  'padding bottom xxxs @xs':
+    'prefix': 'padding-bottom-xxxs@xs'
+    'body': 'padding-bottom-xxxs@xs'
+
+  'padding bottom xxs @xs':
+    'prefix': 'padding-bottom-xxs@xs'
+    'body': 'padding-bottom-xxs@xs'
+
+  'padding bottom xs @xs':
+    'prefix': 'padding-bottom-xs@xs'
+    'body': 'padding-bottom-xs@xs'
+
+  'padding bottom sm @xs':
+    'prefix': 'padding-bottom-sm@xs'
+    'body': 'padding-bottom-sm@xs'
+
+  'padding bottom md @xs':
+    'prefix': 'padding-bottom-md@xs'
+    'body': 'padding-bottom-md@xs'
+
+  'padding bottom lg @xs':
+    'prefix': 'padding-bottom-lg@xs'
+    'body': 'padding-bottom-lg@xs'
+
+  'padding bottom xl @xs':
+    'prefix': 'padding-bottom-xl@xs'
+    'body': 'padding-bottom-xl@xs'
+
+  'padding bottom xxl @xs':
+    'prefix': 'padding-bottom-xxl@xs'
+    'body': 'padding-bottom-xxl@xs'
+
+  'padding bottom xxxl @xs':
+    'prefix': 'padding-bottom-xxxl@xs'
+    'body': 'padding-bottom-xxxl@xs'
+
+  'padding bottom xxxxl @xs':
+    'prefix': 'padding-bottom-xxxxl@xs'
+    'body': 'padding-bottom-xxxxl@xs'
+
+  'padding bottom component @xs':
+    'prefix': 'padding-bottom-component@xs'
+    'body': 'padding-bottom-component@xs'
+
+  'padding bottom 0 @xs':
+    'prefix': 'padding-bottom-0@xs'
+    'body': 'padding-bottom-0@xs'
+
+  'padding right xxxxs @xs':
+    'prefix': 'padding-right-xxxxs@xs'
+    'body': 'padding-right-xxxxs@xs'
+
+  'padding right xxxs @xs':
+    'prefix': 'padding-right-xxxs@xs'
+    'body': 'padding-right-xxxs@xs'
+
+  'padding right xxs @xs':
+    'prefix': 'padding-right-xxs@xs'
+    'body': 'padding-right-xxs@xs'
+
+  'padding right xs @xs':
+    'prefix': 'padding-right-xs@xs'
+    'body': 'padding-right-xs@xs'
+
+  'padding right sm @xs':
+    'prefix': 'padding-right-sm@xs'
+    'body': 'padding-right-sm@xs'
+
+  'padding right md @xs':
+    'prefix': 'padding-right-md@xs'
+    'body': 'padding-right-md@xs'
+
+  'padding right lg @xs':
+    'prefix': 'padding-right-lg@xs'
+    'body': 'padding-right-lg@xs'
+
+  'padding right xl @xs':
+    'prefix': 'padding-right-xl@xs'
+    'body': 'padding-right-xl@xs'
+
+  'padding right xxl @xs':
+    'prefix': 'padding-right-xxl@xs'
+    'body': 'padding-right-xxl@xs'
+
+  'padding right xxxl @xs':
+    'prefix': 'padding-right-xxxl@xs'
+    'body': 'padding-right-xxxl@xs'
+
+  'padding right xxxxl @xs':
+    'prefix': 'padding-right-xxxxl@xs'
+    'body': 'padding-right-xxxxl@xs'
+
+  'padding right component @xs':
+    'prefix': 'padding-right-component@xs'
+    'body': 'padding-right-component@xs'
+
+  'padding right 0 @xs':
+    'prefix': 'padding-right-0@xs'
+    'body': 'padding-right-0@xs'
+
+  'padding left xxxxs @xs':
+    'prefix': 'padding-left-xxxxs@xs'
+    'body': 'padding-left-xxxxs@xs'
+
+  'padding left xxxs @xs':
+    'prefix': 'padding-left-xxxs@xs'
+    'body': 'padding-left-xxxs@xs'
+
+  'padding left xxs @xs':
+    'prefix': 'padding-left-xxs@xs'
+    'body': 'padding-left-xxs@xs'
+
+  'padding left xs @xs':
+    'prefix': 'padding-left-xs@xs'
+    'body': 'padding-left-xs@xs'
+
+  'padding left sm @xs':
+    'prefix': 'padding-left-sm@xs'
+    'body': 'padding-left-sm@xs'
+
+  'padding left md @xs':
+    'prefix': 'padding-left-md@xs'
+    'body': 'padding-left-md@xs'
+
+  'padding left lg @xs':
+    'prefix': 'padding-left-lg@xs'
+    'body': 'padding-left-lg@xs'
+
+  'padding left xl @xs':
+    'prefix': 'padding-left-xl@xs'
+    'body': 'padding-left-xl@xs'
+
+  'padding left xxl @xs':
+    'prefix': 'padding-left-xxl@xs'
+    'body': 'padding-left-xxl@xs'
+
+  'padding left xxxl @xs':
+    'prefix': 'padding-left-xxxl@xs'
+    'body': 'padding-left-xxxl@xs'
+
+  'padding left xxxxl @xs':
+    'prefix': 'padding-left-xxxxl@xs'
+    'body': 'padding-left-xxxxl@xs'
+
+  'padding left component @xs':
+    'prefix': 'padding-left-component@xs'
+    'body': 'padding-left-component@xs'
+
+  'padding left 0 @xs':
+    'prefix': 'padding-left-0@xs'
+    'body': 'padding-left-0@xs'
+
+  'padding x xxxxs @xs':
+    'prefix': 'padding-x-xxxxs@xs'
+    'body': 'padding-x-xxxxs@xs'
+
+  'padding x xxxs @xs':
+    'prefix': 'padding-x-xxxs@xs'
+    'body': 'padding-x-xxxs@xs'
+
+  'padding x xxs @xs':
+    'prefix': 'padding-x-xxs@xs'
+    'body': 'padding-x-xxs@xs'
+
+  'padding x xs @xs':
+    'prefix': 'padding-x-xs@xs'
+    'body': 'padding-x-xs@xs'
+
+  'padding x sm @xs':
+    'prefix': 'padding-x-sm@xs'
+    'body': 'padding-x-sm@xs'
+
+  'padding x md @xs':
+    'prefix': 'padding-x-md@xs'
+    'body': 'padding-x-md@xs'
+
+  'padding x lg @xs':
+    'prefix': 'padding-x-lg@xs'
+    'body': 'padding-x-lg@xs'
+
+  'padding x xl @xs':
+    'prefix': 'padding-x-xl@xs'
+    'body': 'padding-x-xl@xs'
+
+  'padding x xxl @xs':
+    'prefix': 'padding-x-xxl@xs'
+    'body': 'padding-x-xxl@xs'
+
+  'padding x xxxl @xs':
+    'prefix': 'padding-x-xxxl@xs'
+    'body': 'padding-x-xxxl@xs'
+
+  'padding x xxxxl @xs':
+    'prefix': 'padding-x-xxxxl@xs'
+    'body': 'padding-x-xxxxl@xs'
+
+  'padding x component @xs':
+    'prefix': 'padding-x-component@xs'
+    'body': 'padding-x-component@xs'
+
+  'padding x 0 @xs':
+    'prefix': 'padding-x-0@xs'
+    'body': 'padding-x-0@xs'
+
+  'padding y xxxxs @xs':
+    'prefix': 'padding-y-xxxxs@xs'
+    'body': 'padding-y-xxxxs@xs'
+
+  'padding y xxxs @xs':
+    'prefix': 'padding-y-xxxs@xs'
+    'body': 'padding-y-xxxs@xs'
+
+  'padding y xxs @xs':
+    'prefix': 'padding-y-xxs@xs'
+    'body': 'padding-y-xxs@xs'
+
+  'padding y xs @xs':
+    'prefix': 'padding-y-xs@xs'
+    'body': 'padding-y-xs@xs'
+
+  'padding y sm @xs':
+    'prefix': 'padding-y-sm@xs'
+    'body': 'padding-y-sm@xs'
+
+  'padding y md @xs':
+    'prefix': 'padding-y-md@xs'
+    'body': 'padding-y-md@xs'
+
+  'padding y lg @xs':
+    'prefix': 'padding-y-lg@xs'
+    'body': 'padding-y-lg@xs'
+
+  'padding y xl @xs':
+    'prefix': 'padding-y-xl@xs'
+    'body': 'padding-y-xl@xs'
+
+  'padding y xxl @xs':
+    'prefix': 'padding-y-xxl@xs'
+    'body': 'padding-y-xxl@xs'
+
+  'padding y xxxl @xs':
+    'prefix': 'padding-y-xxxl@xs'
+    'body': 'padding-y-xxxl@xs'
+
+  'padding y xxxxl @xs':
+    'prefix': 'padding-y-xxxxl@xs'
+    'body': 'padding-y-xxxxl@xs'
+
+  'padding y component @xs':
+    'prefix': 'padding-y-component@xs'
+    'body': 'padding-y-component@xs'
+
+  'padding y 0 @xs':
+    'prefix': 'padding-y-0@xs'
+    'body': 'padding-y-0@xs'
+  
+  'padding xxxxs @sm':
+    'prefix': 'padding-xxxxs@sm'
+    'body': 'padding-xxxxs@sm'
+
+  'padding xxxs @sm':
+    'prefix': 'padding-xxxs@sm'
+    'body': 'padding-xxxs@sm'
+
+  'padding xxs @sm':
+    'prefix': 'padding-xxs@sm'
+    'body': 'padding-xxs@sm'
+
+  'padding xs @sm':
+    'prefix': 'padding-xs@sm'
+    'body': 'padding-xs@sm'
+
+  'padding sm @sm':
+    'prefix': 'padding-sm@sm'
+    'body': 'padding-sm@sm'
+
+  'padding md @sm':
+    'prefix': 'padding-md@sm'
+    'body': 'padding-md@sm'
+
+  'padding lg @sm':
+    'prefix': 'padding-lg@sm'
+    'body': 'padding-lg@sm'
+
+  'padding xl @sm':
+    'prefix': 'padding-xl@sm'
+    'body': 'padding-xl@sm'
+
+  'padding xxl @sm':
+    'prefix': 'padding-xxl@sm'
+    'body': 'padding-xxl@sm'
+
+  'padding xxxl @sm':
+    'prefix': 'padding-xxxl@sm'
+    'body': 'padding-xxxl@sm'
+
+  'padding xxxxl @sm':
+    'prefix': 'padding-xxxxl@sm'
+    'body': 'padding-xxxxl@sm'
+
+  'padding component @sm':
+    'prefix': 'padding-component@sm'
+    'body': 'padding-component@sm'
+
+  'padding 0 @sm':
+    'prefix': 'padding-0@sm'
+    'body': 'padding-0@sm'
+
+  'padding top xxxxs @sm':
+    'prefix': 'padding-top-xxxxs@sm'
+    'body': 'padding-top-xxxxs@sm'
+
+  'padding top xxxs @sm':
+    'prefix': 'padding-top-xxxs@sm'
+    'body': 'padding-top-xxxs@sm'
+
+  'padding top xxs @sm':
+    'prefix': 'padding-top-xxs@sm'
+    'body': 'padding-top-xxs@sm'
+
+  'padding top xs @sm':
+    'prefix': 'padding-top-xs@sm'
+    'body': 'padding-top-xs@sm'
+
+  'padding top sm @sm':
+    'prefix': 'padding-top-sm@sm'
+    'body': 'padding-top-sm@sm'
+
+  'padding top md @sm':
+    'prefix': 'padding-top-md@sm'
+    'body': 'padding-top-md@sm'
+
+  'padding top lg @sm':
+    'prefix': 'padding-top-lg@sm'
+    'body': 'padding-top-lg@sm'
+
+  'padding top xl @sm':
+    'prefix': 'padding-top-xl@sm'
+    'body': 'padding-top-xl@sm'
+
+  'padding top xxl @sm':
+    'prefix': 'padding-top-xxl@sm'
+    'body': 'padding-top-xxl@sm'
+
+  'padding top xxxl @sm':
+    'prefix': 'padding-top-xxxl@sm'
+    'body': 'padding-top-xxxl@sm'
+
+  'padding top xxxxl @sm':
+    'prefix': 'padding-top-xxxxl@sm'
+    'body': 'padding-top-xxxxl@sm'
+
+  'padding top component @sm':
+    'prefix': 'padding-top-component@sm'
+    'body': 'padding-top-component@sm'
+
+  'padding top 0 @sm':
+    'prefix': 'padding-top-0@sm'
+    'body': 'padding-top-0@sm'
+
+  'padding bottom xxxxs @sm':
+    'prefix': 'padding-bottom-xxxxs@sm'
+    'body': 'padding-bottom-xxxxs@sm'
+
+  'padding bottom xxxs @sm':
+    'prefix': 'padding-bottom-xxxs@sm'
+    'body': 'padding-bottom-xxxs@sm'
+
+  'padding bottom xxs @sm':
+    'prefix': 'padding-bottom-xxs@sm'
+    'body': 'padding-bottom-xxs@sm'
+
+  'padding bottom xs @sm':
+    'prefix': 'padding-bottom-xs@sm'
+    'body': 'padding-bottom-xs@sm'
+
+  'padding bottom sm @sm':
+    'prefix': 'padding-bottom-sm@sm'
+    'body': 'padding-bottom-sm@sm'
+
+  'padding bottom md @sm':
+    'prefix': 'padding-bottom-md@sm'
+    'body': 'padding-bottom-md@sm'
+
+  'padding bottom lg @sm':
+    'prefix': 'padding-bottom-lg@sm'
+    'body': 'padding-bottom-lg@sm'
+
+  'padding bottom xl @sm':
+    'prefix': 'padding-bottom-xl@sm'
+    'body': 'padding-bottom-xl@sm'
+
+  'padding bottom xxl @sm':
+    'prefix': 'padding-bottom-xxl@sm'
+    'body': 'padding-bottom-xxl@sm'
+
+  'padding bottom xxxl @sm':
+    'prefix': 'padding-bottom-xxxl@sm'
+    'body': 'padding-bottom-xxxl@sm'
+
+  'padding bottom xxxxl @sm':
+    'prefix': 'padding-bottom-xxxxl@sm'
+    'body': 'padding-bottom-xxxxl@sm'
+
+  'padding bottom component @sm':
+    'prefix': 'padding-bottom-component@sm'
+    'body': 'padding-bottom-component@sm'
+
+  'padding bottom 0 @sm':
+    'prefix': 'padding-bottom-0@sm'
+    'body': 'padding-bottom-0@sm'
+
+  'padding right xxxxs @sm':
+    'prefix': 'padding-right-xxxxs@sm'
+    'body': 'padding-right-xxxxs@sm'
+
+  'padding right xxxs @sm':
+    'prefix': 'padding-right-xxxs@sm'
+    'body': 'padding-right-xxxs@sm'
+
+  'padding right xxs @sm':
+    'prefix': 'padding-right-xxs@sm'
+    'body': 'padding-right-xxs@sm'
+
+  'padding right xs @sm':
+    'prefix': 'padding-right-xs@sm'
+    'body': 'padding-right-xs@sm'
+
+  'padding right sm @sm':
+    'prefix': 'padding-right-sm@sm'
+    'body': 'padding-right-sm@sm'
+
+  'padding right md @sm':
+    'prefix': 'padding-right-md@sm'
+    'body': 'padding-right-md@sm'
+
+  'padding right lg @sm':
+    'prefix': 'padding-right-lg@sm'
+    'body': 'padding-right-lg@sm'
+
+  'padding right xl @sm':
+    'prefix': 'padding-right-xl@sm'
+    'body': 'padding-right-xl@sm'
+
+  'padding right xxl @sm':
+    'prefix': 'padding-right-xxl@sm'
+    'body': 'padding-right-xxl@sm'
+
+  'padding right xxxl @sm':
+    'prefix': 'padding-right-xxxl@sm'
+    'body': 'padding-right-xxxl@sm'
+
+  'padding right xxxxl @sm':
+    'prefix': 'padding-right-xxxxl@sm'
+    'body': 'padding-right-xxxxl@sm'
+
+  'padding right component @sm':
+    'prefix': 'padding-right-component@sm'
+    'body': 'padding-right-component@sm'
+
+  'padding right 0 @sm':
+    'prefix': 'padding-right-0@sm'
+    'body': 'padding-right-0@sm'
+
+  'padding left xxxxs @sm':
+    'prefix': 'padding-left-xxxxs@sm'
+    'body': 'padding-left-xxxxs@sm'
+
+  'padding left xxxs @sm':
+    'prefix': 'padding-left-xxxs@sm'
+    'body': 'padding-left-xxxs@sm'
+
+  'padding left xxs @sm':
+    'prefix': 'padding-left-xxs@sm'
+    'body': 'padding-left-xxs@sm'
+
+  'padding left xs @sm':
+    'prefix': 'padding-left-xs@sm'
+    'body': 'padding-left-xs@sm'
+
+  'padding left sm @sm':
+    'prefix': 'padding-left-sm@sm'
+    'body': 'padding-left-sm@sm'
+
+  'padding left md @sm':
+    'prefix': 'padding-left-md@sm'
+    'body': 'padding-left-md@sm'
+
+  'padding left lg @sm':
+    'prefix': 'padding-left-lg@sm'
+    'body': 'padding-left-lg@sm'
+
+  'padding left xl @sm':
+    'prefix': 'padding-left-xl@sm'
+    'body': 'padding-left-xl@sm'
+
+  'padding left xxl @sm':
+    'prefix': 'padding-left-xxl@sm'
+    'body': 'padding-left-xxl@sm'
+
+  'padding left xxxl @sm':
+    'prefix': 'padding-left-xxxl@sm'
+    'body': 'padding-left-xxxl@sm'
+
+  'padding left xxxxl @sm':
+    'prefix': 'padding-left-xxxxl@sm'
+    'body': 'padding-left-xxxxl@sm'
+
+  'padding left component @sm':
+    'prefix': 'padding-left-component@sm'
+    'body': 'padding-left-component@sm'
+
+  'padding left 0 @sm':
+    'prefix': 'padding-left-0@sm'
+    'body': 'padding-left-0@sm'
+
+  'padding x xxxxs @sm':
+    'prefix': 'padding-x-xxxxs@sm'
+    'body': 'padding-x-xxxxs@sm'
+
+  'padding x xxxs @sm':
+    'prefix': 'padding-x-xxxs@sm'
+    'body': 'padding-x-xxxs@sm'
+
+  'padding x xxs @sm':
+    'prefix': 'padding-x-xxs@sm'
+    'body': 'padding-x-xxs@sm'
+
+  'padding x xs @sm':
+    'prefix': 'padding-x-xs@sm'
+    'body': 'padding-x-xs@sm'
+
+  'padding x sm @sm':
+    'prefix': 'padding-x-sm@sm'
+    'body': 'padding-x-sm@sm'
+
+  'padding x md @sm':
+    'prefix': 'padding-x-md@sm'
+    'body': 'padding-x-md@sm'
+
+  'padding x lg @sm':
+    'prefix': 'padding-x-lg@sm'
+    'body': 'padding-x-lg@sm'
+
+  'padding x xl @sm':
+    'prefix': 'padding-x-xl@sm'
+    'body': 'padding-x-xl@sm'
+
+  'padding x xxl @sm':
+    'prefix': 'padding-x-xxl@sm'
+    'body': 'padding-x-xxl@sm'
+
+  'padding x xxxl @sm':
+    'prefix': 'padding-x-xxxl@sm'
+    'body': 'padding-x-xxxl@sm'
+
+  'padding x xxxxl @sm':
+    'prefix': 'padding-x-xxxxl@sm'
+    'body': 'padding-x-xxxxl@sm'
+
+  'padding x component @sm':
+    'prefix': 'padding-x-component@sm'
+    'body': 'padding-x-component@sm'
+
+  'padding x 0 @sm':
+    'prefix': 'padding-x-0@sm'
+    'body': 'padding-x-0@sm'
+
+  'padding y xxxxs @sm':
+    'prefix': 'padding-y-xxxxs@sm'
+    'body': 'padding-y-xxxxs@sm'
+
+  'padding y xxxs @sm':
+    'prefix': 'padding-y-xxxs@sm'
+    'body': 'padding-y-xxxs@sm'
+
+  'padding y xxs @sm':
+    'prefix': 'padding-y-xxs@sm'
+    'body': 'padding-y-xxs@sm'
+
+  'padding y xs @sm':
+    'prefix': 'padding-y-xs@sm'
+    'body': 'padding-y-xs@sm'
+
+  'padding y sm @sm':
+    'prefix': 'padding-y-sm@sm'
+    'body': 'padding-y-sm@sm'
+
+  'padding y md @sm':
+    'prefix': 'padding-y-md@sm'
+    'body': 'padding-y-md@sm'
+
+  'padding y lg @sm':
+    'prefix': 'padding-y-lg@sm'
+    'body': 'padding-y-lg@sm'
+
+  'padding y xl @sm':
+    'prefix': 'padding-y-xl@sm'
+    'body': 'padding-y-xl@sm'
+
+  'padding y xxl @sm':
+    'prefix': 'padding-y-xxl@sm'
+    'body': 'padding-y-xxl@sm'
+
+  'padding y xxxl @sm':
+    'prefix': 'padding-y-xxxl@sm'
+    'body': 'padding-y-xxxl@sm'
+
+  'padding y xxxxl @sm':
+    'prefix': 'padding-y-xxxxl@sm'
+    'body': 'padding-y-xxxxl@sm'
+
+  'padding y component @sm':
+    'prefix': 'padding-y-component@sm'
+    'body': 'padding-y-component@sm'
+
+  'padding y 0 @sm':
+    'prefix': 'padding-y-0@sm'
+    'body': 'padding-y-0@sm'
+  
+  'padding xxxxs @md':
+    'prefix': 'padding-xxxxs@md'
+    'body': 'padding-xxxxs@md'
+
+  'padding xxxs @md':
+    'prefix': 'padding-xxxs@md'
+    'body': 'padding-xxxs@md'
+
+  'padding xxs @md':
+    'prefix': 'padding-xxs@md'
+    'body': 'padding-xxs@md'
+
+  'padding xs @md':
+    'prefix': 'padding-xs@md'
+    'body': 'padding-xs@md'
+
+  'padding sm @md':
+    'prefix': 'padding-sm@md'
+    'body': 'padding-sm@md'
+
+  'padding md @md':
+    'prefix': 'padding-md@md'
+    'body': 'padding-md@md'
+
+  'padding lg @md':
+    'prefix': 'padding-lg@md'
+    'body': 'padding-lg@md'
+
+  'padding xl @md':
+    'prefix': 'padding-xl@md'
+    'body': 'padding-xl@md'
+
+  'padding xxl @md':
+    'prefix': 'padding-xxl@md'
+    'body': 'padding-xxl@md'
+
+  'padding xxxl @md':
+    'prefix': 'padding-xxxl@md'
+    'body': 'padding-xxxl@md'
+
+  'padding xxxxl @md':
+    'prefix': 'padding-xxxxl@md'
+    'body': 'padding-xxxxl@md'
+
+  'padding component @md':
+    'prefix': 'padding-component@md'
+    'body': 'padding-component@md'
+
+  'padding 0 @md':
+    'prefix': 'padding-0@md'
+    'body': 'padding-0@md'
+
+  'padding top xxxxs @md':
+    'prefix': 'padding-top-xxxxs@md'
+    'body': 'padding-top-xxxxs@md'
+
+  'padding top xxxs @md':
+    'prefix': 'padding-top-xxxs@md'
+    'body': 'padding-top-xxxs@md'
+
+  'padding top xxs @md':
+    'prefix': 'padding-top-xxs@md'
+    'body': 'padding-top-xxs@md'
+
+  'padding top xs @md':
+    'prefix': 'padding-top-xs@md'
+    'body': 'padding-top-xs@md'
+
+  'padding top sm @md':
+    'prefix': 'padding-top-sm@md'
+    'body': 'padding-top-sm@md'
+
+  'padding top md @md':
+    'prefix': 'padding-top-md@md'
+    'body': 'padding-top-md@md'
+
+  'padding top lg @md':
+    'prefix': 'padding-top-lg@md'
+    'body': 'padding-top-lg@md'
+
+  'padding top xl @md':
+    'prefix': 'padding-top-xl@md'
+    'body': 'padding-top-xl@md'
+
+  'padding top xxl @md':
+    'prefix': 'padding-top-xxl@md'
+    'body': 'padding-top-xxl@md'
+
+  'padding top xxxl @md':
+    'prefix': 'padding-top-xxxl@md'
+    'body': 'padding-top-xxxl@md'
+
+  'padding top xxxxl @md':
+    'prefix': 'padding-top-xxxxl@md'
+    'body': 'padding-top-xxxxl@md'
+
+  'padding top component @md':
+    'prefix': 'padding-top-component@md'
+    'body': 'padding-top-component@md'
+
+  'padding top 0 @md':
+    'prefix': 'padding-top-0@md'
+    'body': 'padding-top-0@md'
+
+  'padding bottom xxxxs @md':
+    'prefix': 'padding-bottom-xxxxs@md'
+    'body': 'padding-bottom-xxxxs@md'
+
+  'padding bottom xxxs @md':
+    'prefix': 'padding-bottom-xxxs@md'
+    'body': 'padding-bottom-xxxs@md'
+
+  'padding bottom xxs @md':
+    'prefix': 'padding-bottom-xxs@md'
+    'body': 'padding-bottom-xxs@md'
+
+  'padding bottom xs @md':
+    'prefix': 'padding-bottom-xs@md'
+    'body': 'padding-bottom-xs@md'
+
+  'padding bottom sm @md':
+    'prefix': 'padding-bottom-sm@md'
+    'body': 'padding-bottom-sm@md'
+
+  'padding bottom md @md':
+    'prefix': 'padding-bottom-md@md'
+    'body': 'padding-bottom-md@md'
+
+  'padding bottom lg @md':
+    'prefix': 'padding-bottom-lg@md'
+    'body': 'padding-bottom-lg@md'
+
+  'padding bottom xl @md':
+    'prefix': 'padding-bottom-xl@md'
+    'body': 'padding-bottom-xl@md'
+
+  'padding bottom xxl @md':
+    'prefix': 'padding-bottom-xxl@md'
+    'body': 'padding-bottom-xxl@md'
+
+  'padding bottom xxxl @md':
+    'prefix': 'padding-bottom-xxxl@md'
+    'body': 'padding-bottom-xxxl@md'
+
+  'padding bottom xxxxl @md':
+    'prefix': 'padding-bottom-xxxxl@md'
+    'body': 'padding-bottom-xxxxl@md'
+
+  'padding bottom component @md':
+    'prefix': 'padding-bottom-component@md'
+    'body': 'padding-bottom-component@md'
+
+  'padding bottom 0 @md':
+    'prefix': 'padding-bottom-0@md'
+    'body': 'padding-bottom-0@md'
+
+  'padding right xxxxs @md':
+    'prefix': 'padding-right-xxxxs@md'
+    'body': 'padding-right-xxxxs@md'
+
+  'padding right xxxs @md':
+    'prefix': 'padding-right-xxxs@md'
+    'body': 'padding-right-xxxs@md'
+
+  'padding right xxs @md':
+    'prefix': 'padding-right-xxs@md'
+    'body': 'padding-right-xxs@md'
+
+  'padding right xs @md':
+    'prefix': 'padding-right-xs@md'
+    'body': 'padding-right-xs@md'
+
+  'padding right sm @md':
+    'prefix': 'padding-right-sm@md'
+    'body': 'padding-right-sm@md'
+
+  'padding right md @md':
+    'prefix': 'padding-right-md@md'
+    'body': 'padding-right-md@md'
+
+  'padding right lg @md':
+    'prefix': 'padding-right-lg@md'
+    'body': 'padding-right-lg@md'
+
+  'padding right xl @md':
+    'prefix': 'padding-right-xl@md'
+    'body': 'padding-right-xl@md'
+
+  'padding right xxl @md':
+    'prefix': 'padding-right-xxl@md'
+    'body': 'padding-right-xxl@md'
+
+  'padding right xxxl @md':
+    'prefix': 'padding-right-xxxl@md'
+    'body': 'padding-right-xxxl@md'
+
+  'padding right xxxxl @md':
+    'prefix': 'padding-right-xxxxl@md'
+    'body': 'padding-right-xxxxl@md'
+
+  'padding right component @md':
+    'prefix': 'padding-right-component@md'
+    'body': 'padding-right-component@md'
+
+  'padding right 0 @md':
+    'prefix': 'padding-right-0@md'
+    'body': 'padding-right-0@md'
+
+  'padding left xxxxs @md':
+    'prefix': 'padding-left-xxxxs@md'
+    'body': 'padding-left-xxxxs@md'
+
+  'padding left xxxs @md':
+    'prefix': 'padding-left-xxxs@md'
+    'body': 'padding-left-xxxs@md'
+
+  'padding left xxs @md':
+    'prefix': 'padding-left-xxs@md'
+    'body': 'padding-left-xxs@md'
+
+  'padding left xs @md':
+    'prefix': 'padding-left-xs@md'
+    'body': 'padding-left-xs@md'
+
+  'padding left sm @md':
+    'prefix': 'padding-left-sm@md'
+    'body': 'padding-left-sm@md'
+
+  'padding left md @md':
+    'prefix': 'padding-left-md@md'
+    'body': 'padding-left-md@md'
+
+  'padding left lg @md':
+    'prefix': 'padding-left-lg@md'
+    'body': 'padding-left-lg@md'
+
+  'padding left xl @md':
+    'prefix': 'padding-left-xl@md'
+    'body': 'padding-left-xl@md'
+
+  'padding left xxl @md':
+    'prefix': 'padding-left-xxl@md'
+    'body': 'padding-left-xxl@md'
+
+  'padding left xxxl @md':
+    'prefix': 'padding-left-xxxl@md'
+    'body': 'padding-left-xxxl@md'
+
+  'padding left xxxxl @md':
+    'prefix': 'padding-left-xxxxl@md'
+    'body': 'padding-left-xxxxl@md'
+
+  'padding left component @md':
+    'prefix': 'padding-left-component@md'
+    'body': 'padding-left-component@md'
+
+  'padding left 0 @md':
+    'prefix': 'padding-left-0@md'
+    'body': 'padding-left-0@md'
+
+  'padding x xxxxs @md':
+    'prefix': 'padding-x-xxxxs@md'
+    'body': 'padding-x-xxxxs@md'
+
+  'padding x xxxs @md':
+    'prefix': 'padding-x-xxxs@md'
+    'body': 'padding-x-xxxs@md'
+
+  'padding x xxs @md':
+    'prefix': 'padding-x-xxs@md'
+    'body': 'padding-x-xxs@md'
+
+  'padding x xs @md':
+    'prefix': 'padding-x-xs@md'
+    'body': 'padding-x-xs@md'
+
+  'padding x sm @md':
+    'prefix': 'padding-x-sm@md'
+    'body': 'padding-x-sm@md'
+
+  'padding x md @md':
+    'prefix': 'padding-x-md@md'
+    'body': 'padding-x-md@md'
+
+  'padding x lg @md':
+    'prefix': 'padding-x-lg@md'
+    'body': 'padding-x-lg@md'
+
+  'padding x xl @md':
+    'prefix': 'padding-x-xl@md'
+    'body': 'padding-x-xl@md'
+
+  'padding x xxl @md':
+    'prefix': 'padding-x-xxl@md'
+    'body': 'padding-x-xxl@md'
+
+  'padding x xxxl @md':
+    'prefix': 'padding-x-xxxl@md'
+    'body': 'padding-x-xxxl@md'
+
+  'padding x xxxxl @md':
+    'prefix': 'padding-x-xxxxl@md'
+    'body': 'padding-x-xxxxl@md'
+
+  'padding x component @md':
+    'prefix': 'padding-x-component@md'
+    'body': 'padding-x-component@md'
+
+  'padding x 0 @md':
+    'prefix': 'padding-x-0@md'
+    'body': 'padding-x-0@md'
+
+  'padding y xxxxs @md':
+    'prefix': 'padding-y-xxxxs@md'
+    'body': 'padding-y-xxxxs@md'
+
+  'padding y xxxs @md':
+    'prefix': 'padding-y-xxxs@md'
+    'body': 'padding-y-xxxs@md'
+
+  'padding y xxs @md':
+    'prefix': 'padding-y-xxs@md'
+    'body': 'padding-y-xxs@md'
+
+  'padding y xs @md':
+    'prefix': 'padding-y-xs@md'
+    'body': 'padding-y-xs@md'
+
+  'padding y sm @md':
+    'prefix': 'padding-y-sm@md'
+    'body': 'padding-y-sm@md'
+
+  'padding y md @md':
+    'prefix': 'padding-y-md@md'
+    'body': 'padding-y-md@md'
+
+  'padding y lg @md':
+    'prefix': 'padding-y-lg@md'
+    'body': 'padding-y-lg@md'
+
+  'padding y xl @md':
+    'prefix': 'padding-y-xl@md'
+    'body': 'padding-y-xl@md'
+
+  'padding y xxl @md':
+    'prefix': 'padding-y-xxl@md'
+    'body': 'padding-y-xxl@md'
+
+  'padding y xxxl @md':
+    'prefix': 'padding-y-xxxl@md'
+    'body': 'padding-y-xxxl@md'
+
+  'padding y xxxxl @md':
+    'prefix': 'padding-y-xxxxl@md'
+    'body': 'padding-y-xxxxl@md'
+
+  'padding y component @md':
+    'prefix': 'padding-y-component@md'
+    'body': 'padding-y-component@md'
+
+  'padding y 0 @md':
+    'prefix': 'padding-y-0@md'
+    'body': 'padding-y-0@md'
+
+  'padding xxxxs @lg':
+    'prefix': 'padding-xxxxs@lg'
+    'body': 'padding-xxxxs@lg'
+
+  'padding xxxs @lg':
+    'prefix': 'padding-xxxs@lg'
+    'body': 'padding-xxxs@lg'
+
+  'padding xxs @lg':
+    'prefix': 'padding-xxs@lg'
+    'body': 'padding-xxs@lg'
+
+  'padding xs @lg':
+    'prefix': 'padding-xs@lg'
+    'body': 'padding-xs@lg'
+
+  'padding sm @lg':
+    'prefix': 'padding-sm@lg'
+    'body': 'padding-sm@lg'
+
+  'padding md @lg':
+    'prefix': 'padding-md@lg'
+    'body': 'padding-md@lg'
+
+  'padding lg @lg':
+    'prefix': 'padding-lg@lg'
+    'body': 'padding-lg@lg'
+
+  'padding xl @lg':
+    'prefix': 'padding-xl@lg'
+    'body': 'padding-xl@lg'
+
+  'padding xxl @lg':
+    'prefix': 'padding-xxl@lg'
+    'body': 'padding-xxl@lg'
+
+  'padding xxxl @lg':
+    'prefix': 'padding-xxxl@lg'
+    'body': 'padding-xxxl@lg'
+
+  'padding xxxxl @lg':
+    'prefix': 'padding-xxxxl@lg'
+    'body': 'padding-xxxxl@lg'
+
+  'padding component @lg':
+    'prefix': 'padding-component@lg'
+    'body': 'padding-component@lg'
+
+  'padding 0 @lg':
+    'prefix': 'padding-0@lg'
+    'body': 'padding-0@lg'
+
+  'padding top xxxxs @lg':
+    'prefix': 'padding-top-xxxxs@lg'
+    'body': 'padding-top-xxxxs@lg'
+
+  'padding top xxxs @lg':
+    'prefix': 'padding-top-xxxs@lg'
+    'body': 'padding-top-xxxs@lg'
+
+  'padding top xxs @lg':
+    'prefix': 'padding-top-xxs@lg'
+    'body': 'padding-top-xxs@lg'
+
+  'padding top xs @lg':
+    'prefix': 'padding-top-xs@lg'
+    'body': 'padding-top-xs@lg'
+
+  'padding top sm @lg':
+    'prefix': 'padding-top-sm@lg'
+    'body': 'padding-top-sm@lg'
+
+  'padding top md @lg':
+    'prefix': 'padding-top-md@lg'
+    'body': 'padding-top-md@lg'
+
+  'padding top lg @lg':
+    'prefix': 'padding-top-lg@lg'
+    'body': 'padding-top-lg@lg'
+
+  'padding top xl @lg':
+    'prefix': 'padding-top-xl@lg'
+    'body': 'padding-top-xl@lg'
+
+  'padding top xxl @lg':
+    'prefix': 'padding-top-xxl@lg'
+    'body': 'padding-top-xxl@lg'
+
+  'padding top xxxl @lg':
+    'prefix': 'padding-top-xxxl@lg'
+    'body': 'padding-top-xxxl@lg'
+
+  'padding top xxxxl @lg':
+    'prefix': 'padding-top-xxxxl@lg'
+    'body': 'padding-top-xxxxl@lg'
+
+  'padding top component @lg':
+    'prefix': 'padding-top-component@lg'
+    'body': 'padding-top-component@lg'
+
+  'padding top 0 @lg':
+    'prefix': 'padding-top-0@lg'
+    'body': 'padding-top-0@lg'
+
+  'padding bottom xxxxs @lg':
+    'prefix': 'padding-bottom-xxxxs@lg'
+    'body': 'padding-bottom-xxxxs@lg'
+
+  'padding bottom xxxs @lg':
+    'prefix': 'padding-bottom-xxxs@lg'
+    'body': 'padding-bottom-xxxs@lg'
+
+  'padding bottom xxs @lg':
+    'prefix': 'padding-bottom-xxs@lg'
+    'body': 'padding-bottom-xxs@lg'
+
+  'padding bottom xs @lg':
+    'prefix': 'padding-bottom-xs@lg'
+    'body': 'padding-bottom-xs@lg'
+
+  'padding bottom sm @lg':
+    'prefix': 'padding-bottom-sm@lg'
+    'body': 'padding-bottom-sm@lg'
+
+  'padding bottom md @lg':
+    'prefix': 'padding-bottom-md@lg'
+    'body': 'padding-bottom-md@lg'
+
+  'padding bottom lg @lg':
+    'prefix': 'padding-bottom-lg@lg'
+    'body': 'padding-bottom-lg@lg'
+
+  'padding bottom xl @lg':
+    'prefix': 'padding-bottom-xl@lg'
+    'body': 'padding-bottom-xl@lg'
+
+  'padding bottom xxl @lg':
+    'prefix': 'padding-bottom-xxl@lg'
+    'body': 'padding-bottom-xxl@lg'
+
+  'padding bottom xxxl @lg':
+    'prefix': 'padding-bottom-xxxl@lg'
+    'body': 'padding-bottom-xxxl@lg'
+
+  'padding bottom xxxxl @lg':
+    'prefix': 'padding-bottom-xxxxl@lg'
+    'body': 'padding-bottom-xxxxl@lg'
+
+  'padding bottom component @lg':
+    'prefix': 'padding-bottom-component@lg'
+    'body': 'padding-bottom-component@lg'
+
+  'padding bottom 0 @lg':
+    'prefix': 'padding-bottom-0@lg'
+    'body': 'padding-bottom-0@lg'
+
+  'padding right xxxxs @lg':
+    'prefix': 'padding-right-xxxxs@lg'
+    'body': 'padding-right-xxxxs@lg'
+
+  'padding right xxxs @lg':
+    'prefix': 'padding-right-xxxs@lg'
+    'body': 'padding-right-xxxs@lg'
+
+  'padding right xxs @lg':
+    'prefix': 'padding-right-xxs@lg'
+    'body': 'padding-right-xxs@lg'
+
+  'padding right xs @lg':
+    'prefix': 'padding-right-xs@lg'
+    'body': 'padding-right-xs@lg'
+
+  'padding right sm @lg':
+    'prefix': 'padding-right-sm@lg'
+    'body': 'padding-right-sm@lg'
+
+  'padding right md @lg':
+    'prefix': 'padding-right-md@lg'
+    'body': 'padding-right-md@lg'
+
+  'padding right lg @lg':
+    'prefix': 'padding-right-lg@lg'
+    'body': 'padding-right-lg@lg'
+
+  'padding right xl @lg':
+    'prefix': 'padding-right-xl@lg'
+    'body': 'padding-right-xl@lg'
+
+  'padding right xxl @lg':
+    'prefix': 'padding-right-xxl@lg'
+    'body': 'padding-right-xxl@lg'
+
+  'padding right xxxl @lg':
+    'prefix': 'padding-right-xxxl@lg'
+    'body': 'padding-right-xxxl@lg'
+
+  'padding right xxxxl @lg':
+    'prefix': 'padding-right-xxxxl@lg'
+    'body': 'padding-right-xxxxl@lg'
+
+  'padding right component @lg':
+    'prefix': 'padding-right-component@lg'
+    'body': 'padding-right-component@lg'
+
+  'padding right 0 @lg':
+    'prefix': 'padding-right-0@lg'
+    'body': 'padding-right-0@lg'
+
+  'padding left xxxxs @lg':
+    'prefix': 'padding-left-xxxxs@lg'
+    'body': 'padding-left-xxxxs@lg'
+
+  'padding left xxxs @lg':
+    'prefix': 'padding-left-xxxs@lg'
+    'body': 'padding-left-xxxs@lg'
+
+  'padding left xxs @lg':
+    'prefix': 'padding-left-xxs@lg'
+    'body': 'padding-left-xxs@lg'
+
+  'padding left xs @lg':
+    'prefix': 'padding-left-xs@lg'
+    'body': 'padding-left-xs@lg'
+
+  'padding left sm @lg':
+    'prefix': 'padding-left-sm@lg'
+    'body': 'padding-left-sm@lg'
+
+  'padding left md @lg':
+    'prefix': 'padding-left-md@lg'
+    'body': 'padding-left-md@lg'
+
+  'padding left lg @lg':
+    'prefix': 'padding-left-lg@lg'
+    'body': 'padding-left-lg@lg'
+
+  'padding left xl @lg':
+    'prefix': 'padding-left-xl@lg'
+    'body': 'padding-left-xl@lg'
+
+  'padding left xxl @lg':
+    'prefix': 'padding-left-xxl@lg'
+    'body': 'padding-left-xxl@lg'
+
+  'padding left xxxl @lg':
+    'prefix': 'padding-left-xxxl@lg'
+    'body': 'padding-left-xxxl@lg'
+
+  'padding left xxxxl @lg':
+    'prefix': 'padding-left-xxxxl@lg'
+    'body': 'padding-left-xxxxl@lg'
+
+  'padding left component @lg':
+    'prefix': 'padding-left-component@lg'
+    'body': 'padding-left-component@lg'
+
+  'padding left 0 @lg':
+    'prefix': 'padding-left-0@lg'
+    'body': 'padding-left-0@lg'
+
+  'padding x xxxxs @lg':
+    'prefix': 'padding-x-xxxxs@lg'
+    'body': 'padding-x-xxxxs@lg'
+
+  'padding x xxxs @lg':
+    'prefix': 'padding-x-xxxs@lg'
+    'body': 'padding-x-xxxs@lg'
+
+  'padding x xxs @lg':
+    'prefix': 'padding-x-xxs@lg'
+    'body': 'padding-x-xxs@lg'
+
+  'padding x xs @lg':
+    'prefix': 'padding-x-xs@lg'
+    'body': 'padding-x-xs@lg'
+
+  'padding x sm @lg':
+    'prefix': 'padding-x-sm@lg'
+    'body': 'padding-x-sm@lg'
+
+  'padding x md @lg':
+    'prefix': 'padding-x-md@lg'
+    'body': 'padding-x-md@lg'
+
+  'padding x lg @lg':
+    'prefix': 'padding-x-lg@lg'
+    'body': 'padding-x-lg@lg'
+
+  'padding x xl @lg':
+    'prefix': 'padding-x-xl@lg'
+    'body': 'padding-x-xl@lg'
+
+  'padding x xxl @lg':
+    'prefix': 'padding-x-xxl@lg'
+    'body': 'padding-x-xxl@lg'
+
+  'padding x xxxl @lg':
+    'prefix': 'padding-x-xxxl@lg'
+    'body': 'padding-x-xxxl@lg'
+
+  'padding x xxxxl @lg':
+    'prefix': 'padding-x-xxxxl@lg'
+    'body': 'padding-x-xxxxl@lg'
+
+  'padding x component @lg':
+    'prefix': 'padding-x-component@lg'
+    'body': 'padding-x-component@lg'
+
+  'padding x 0 @lg':
+    'prefix': 'padding-x-0@lg'
+    'body': 'padding-x-0@lg'
+
+  'padding y xxxxs @lg':
+    'prefix': 'padding-y-xxxxs@lg'
+    'body': 'padding-y-xxxxs@lg'
+
+  'padding y xxxs @lg':
+    'prefix': 'padding-y-xxxs@lg'
+    'body': 'padding-y-xxxs@lg'
+
+  'padding y xxs @lg':
+    'prefix': 'padding-y-xxs@lg'
+    'body': 'padding-y-xxs@lg'
+
+  'padding y xs @lg':
+    'prefix': 'padding-y-xs@lg'
+    'body': 'padding-y-xs@lg'
+
+  'padding y sm @lg':
+    'prefix': 'padding-y-sm@lg'
+    'body': 'padding-y-sm@lg'
+
+  'padding y md @lg':
+    'prefix': 'padding-y-md@lg'
+    'body': 'padding-y-md@lg'
+
+  'padding y lg @lg':
+    'prefix': 'padding-y-lg@lg'
+    'body': 'padding-y-lg@lg'
+
+  'padding y xl @lg':
+    'prefix': 'padding-y-xl@lg'
+    'body': 'padding-y-xl@lg'
+
+  'padding y xxl @lg':
+    'prefix': 'padding-y-xxl@lg'
+    'body': 'padding-y-xxl@lg'
+
+  'padding y xxxl @lg':
+    'prefix': 'padding-y-xxxl@lg'
+    'body': 'padding-y-xxxl@lg'
+
+  'padding y xxxxl @lg':
+    'prefix': 'padding-y-xxxxl@lg'
+    'body': 'padding-y-xxxxl@lg'
+
+  'padding y component @lg':
+    'prefix': 'padding-y-component@lg'
+    'body': 'padding-y-component@lg'
+
+  'padding y 0 @lg':
+    'prefix': 'padding-y-0@lg'
+    'body': 'padding-y-0@lg'
+
+  'padding xxxxs @xl':
+    'prefix': 'padding-xxxxs@xl'
+    'body': 'padding-xxxxs@xl'
+
+  'padding xxxs @xl':
+    'prefix': 'padding-xxxs@xl'
+    'body': 'padding-xxxs@xl'
+
+  'padding xxs @xl':
+    'prefix': 'padding-xxs@xl'
+    'body': 'padding-xxs@xl'
+
+  'padding xs @xl':
+    'prefix': 'padding-xs@xl'
+    'body': 'padding-xs@xl'
+
+  'padding sm @xl':
+    'prefix': 'padding-sm@xl'
+    'body': 'padding-sm@xl'
+
+  'padding md @xl':
+    'prefix': 'padding-md@xl'
+    'body': 'padding-md@xl'
+
+  'padding lg @xl':
+    'prefix': 'padding-lg@xl'
+    'body': 'padding-lg@xl'
+
+  'padding xl @xl':
+    'prefix': 'padding-xl@xl'
+    'body': 'padding-xl@xl'
+
+  'padding xxl @xl':
+    'prefix': 'padding-xxl@xl'
+    'body': 'padding-xxl@xl'
+
+  'padding xxxl @xl':
+    'prefix': 'padding-xxxl@xl'
+    'body': 'padding-xxxl@xl'
+
+  'padding xxxxl @xl':
+    'prefix': 'padding-xxxxl@xl'
+    'body': 'padding-xxxxl@xl'
+
+  'padding component @xl':
+    'prefix': 'padding-component@xl'
+    'body': 'padding-component@xl'
+
+  'padding 0 @xl':
+    'prefix': 'padding-0@xl'
+    'body': 'padding-0@xl'
+
+  'padding top xxxxs @xl':
+    'prefix': 'padding-top-xxxxs@xl'
+    'body': 'padding-top-xxxxs@xl'
+
+  'padding top xxxs @xl':
+    'prefix': 'padding-top-xxxs@xl'
+    'body': 'padding-top-xxxs@xl'
+
+  'padding top xxs @xl':
+    'prefix': 'padding-top-xxs@xl'
+    'body': 'padding-top-xxs@xl'
+
+  'padding top xs @xl':
+    'prefix': 'padding-top-xs@xl'
+    'body': 'padding-top-xs@xl'
+
+  'padding top sm @xl':
+    'prefix': 'padding-top-sm@xl'
+    'body': 'padding-top-sm@xl'
+
+  'padding top md @xl':
+    'prefix': 'padding-top-md@xl'
+    'body': 'padding-top-md@xl'
+
+  'padding top lg @xl':
+    'prefix': 'padding-top-lg@xl'
+    'body': 'padding-top-lg@xl'
+
+  'padding top xl @xl':
+    'prefix': 'padding-top-xl@xl'
+    'body': 'padding-top-xl@xl'
+
+  'padding top xxl @xl':
+    'prefix': 'padding-top-xxl@xl'
+    'body': 'padding-top-xxl@xl'
+
+  'padding top xxxl @xl':
+    'prefix': 'padding-top-xxxl@xl'
+    'body': 'padding-top-xxxl@xl'
+
+  'padding top xxxxl @xl':
+    'prefix': 'padding-top-xxxxl@xl'
+    'body': 'padding-top-xxxxl@xl'
+
+  'padding top component @xl':
+    'prefix': 'padding-top-component@xl'
+    'body': 'padding-top-component@xl'
+
+  'padding top 0 @xl':
+    'prefix': 'padding-top-0@xl'
+    'body': 'padding-top-0@xl'
+
+  'padding bottom xxxxs @xl':
+    'prefix': 'padding-bottom-xxxxs@xl'
+    'body': 'padding-bottom-xxxxs@xl'
+
+  'padding bottom xxxs @xl':
+    'prefix': 'padding-bottom-xxxs@xl'
+    'body': 'padding-bottom-xxxs@xl'
+
+  'padding bottom xxs @xl':
+    'prefix': 'padding-bottom-xxs@xl'
+    'body': 'padding-bottom-xxs@xl'
+
+  'padding bottom xs @xl':
+    'prefix': 'padding-bottom-xs@xl'
+    'body': 'padding-bottom-xs@xl'
+
+  'padding bottom sm @xl':
+    'prefix': 'padding-bottom-sm@xl'
+    'body': 'padding-bottom-sm@xl'
+
+  'padding bottom md @xl':
+    'prefix': 'padding-bottom-md@xl'
+    'body': 'padding-bottom-md@xl'
+
+  'padding bottom lg @xl':
+    'prefix': 'padding-bottom-lg@xl'
+    'body': 'padding-bottom-lg@xl'
+
+  'padding bottom xl @xl':
+    'prefix': 'padding-bottom-xl@xl'
+    'body': 'padding-bottom-xl@xl'
+
+  'padding bottom xxl @xl':
+    'prefix': 'padding-bottom-xxl@xl'
+    'body': 'padding-bottom-xxl@xl'
+
+  'padding bottom xxxl @xl':
+    'prefix': 'padding-bottom-xxxl@xl'
+    'body': 'padding-bottom-xxxl@xl'
+
+  'padding bottom xxxxl @xl':
+    'prefix': 'padding-bottom-xxxxl@xl'
+    'body': 'padding-bottom-xxxxl@xl'
+
+  'padding bottom component @xl':
+    'prefix': 'padding-bottom-component@xl'
+    'body': 'padding-bottom-component@xl'
+
+  'padding bottom 0 @xl':
+    'prefix': 'padding-bottom-0@xl'
+    'body': 'padding-bottom-0@xl'
+
+  'padding right xxxxs @xl':
+    'prefix': 'padding-right-xxxxs@xl'
+    'body': 'padding-right-xxxxs@xl'
+
+  'padding right xxxs @xl':
+    'prefix': 'padding-right-xxxs@xl'
+    'body': 'padding-right-xxxs@xl'
+
+  'padding right xxs @xl':
+    'prefix': 'padding-right-xxs@xl'
+    'body': 'padding-right-xxs@xl'
+
+  'padding right xs @xl':
+    'prefix': 'padding-right-xs@xl'
+    'body': 'padding-right-xs@xl'
+
+  'padding right sm @xl':
+    'prefix': 'padding-right-sm@xl'
+    'body': 'padding-right-sm@xl'
+
+  'padding right md @xl':
+    'prefix': 'padding-right-md@xl'
+    'body': 'padding-right-md@xl'
+
+  'padding right lg @xl':
+    'prefix': 'padding-right-lg@xl'
+    'body': 'padding-right-lg@xl'
+
+  'padding right xl @xl':
+    'prefix': 'padding-right-xl@xl'
+    'body': 'padding-right-xl@xl'
+
+  'padding right xxl @xl':
+    'prefix': 'padding-right-xxl@xl'
+    'body': 'padding-right-xxl@xl'
+
+  'padding right xxxl @xl':
+    'prefix': 'padding-right-xxxl@xl'
+    'body': 'padding-right-xxxl@xl'
+
+  'padding right xxxxl @xl':
+    'prefix': 'padding-right-xxxxl@xl'
+    'body': 'padding-right-xxxxl@xl'
+
+  'padding right component @xl':
+    'prefix': 'padding-right-component@xl'
+    'body': 'padding-right-component@xl'
+
+  'padding right 0 @xl':
+    'prefix': 'padding-right-0@xl'
+    'body': 'padding-right-0@xl'
+
+  'padding left xxxxs @xl':
+    'prefix': 'padding-left-xxxxs@xl'
+    'body': 'padding-left-xxxxs@xl'
+
+  'padding left xxxs @xl':
+    'prefix': 'padding-left-xxxs@xl'
+    'body': 'padding-left-xxxs@xl'
+
+  'padding left xxs @xl':
+    'prefix': 'padding-left-xxs@xl'
+    'body': 'padding-left-xxs@xl'
+
+  'padding left xs @xl':
+    'prefix': 'padding-left-xs@xl'
+    'body': 'padding-left-xs@xl'
+
+  'padding left sm @xl':
+    'prefix': 'padding-left-sm@xl'
+    'body': 'padding-left-sm@xl'
+
+  'padding left md @xl':
+    'prefix': 'padding-left-md@xl'
+    'body': 'padding-left-md@xl'
+
+  'padding left lg @xl':
+    'prefix': 'padding-left-lg@xl'
+    'body': 'padding-left-lg@xl'
+
+  'padding left xl @xl':
+    'prefix': 'padding-left-xl@xl'
+    'body': 'padding-left-xl@xl'
+
+  'padding left xxl @xl':
+    'prefix': 'padding-left-xxl@xl'
+    'body': 'padding-left-xxl@xl'
+
+  'padding left xxxl @xl':
+    'prefix': 'padding-left-xxxl@xl'
+    'body': 'padding-left-xxxl@xl'
+
+  'padding left xxxxl @xl':
+    'prefix': 'padding-left-xxxxl@xl'
+    'body': 'padding-left-xxxxl@xl'
+
+  'padding left component @xl':
+    'prefix': 'padding-left-component@xl'
+    'body': 'padding-left-component@xl'
+
+  'padding left 0 @xl':
+    'prefix': 'padding-left-0@xl'
+    'body': 'padding-left-0@xl'
+
+  'padding x xxxxs @xl':
+    'prefix': 'padding-x-xxxxs@xl'
+    'body': 'padding-x-xxxxs@xl'
+
+  'padding x xxxs @xl':
+    'prefix': 'padding-x-xxxs@xl'
+    'body': 'padding-x-xxxs@xl'
+
+  'padding x xxs @xl':
+    'prefix': 'padding-x-xxs@xl'
+    'body': 'padding-x-xxs@xl'
+
+  'padding x xs @xl':
+    'prefix': 'padding-x-xs@xl'
+    'body': 'padding-x-xs@xl'
+
+  'padding x sm @xl':
+    'prefix': 'padding-x-sm@xl'
+    'body': 'padding-x-sm@xl'
+
+  'padding x md @xl':
+    'prefix': 'padding-x-md@xl'
+    'body': 'padding-x-md@xl'
+
+  'padding x lg @xl':
+    'prefix': 'padding-x-lg@xl'
+    'body': 'padding-x-lg@xl'
+
+  'padding x xl @xl':
+    'prefix': 'padding-x-xl@xl'
+    'body': 'padding-x-xl@xl'
+
+  'padding x xxl @xl':
+    'prefix': 'padding-x-xxl@xl'
+    'body': 'padding-x-xxl@xl'
+
+  'padding x xxxl @xl':
+    'prefix': 'padding-x-xxxl@xl'
+    'body': 'padding-x-xxxl@xl'
+
+  'padding x xxxxl @xl':
+    'prefix': 'padding-x-xxxxl@xl'
+    'body': 'padding-x-xxxxl@xl'
+
+  'padding x component @xl':
+    'prefix': 'padding-x-component@xl'
+    'body': 'padding-x-component@xl'
+
+  'padding x 0 @xl':
+    'prefix': 'padding-x-0@xl'
+    'body': 'padding-x-0@xl'
+
+  'padding y xxxxs @xl':
+    'prefix': 'padding-y-xxxxs@xl'
+    'body': 'padding-y-xxxxs@xl'
+
+  'padding y xxxs @xl':
+    'prefix': 'padding-y-xxxs@xl'
+    'body': 'padding-y-xxxs@xl'
+
+  'padding y xxs @xl':
+    'prefix': 'padding-y-xxs@xl'
+    'body': 'padding-y-xxs@xl'
+
+  'padding y xs @xl':
+    'prefix': 'padding-y-xs@xl'
+    'body': 'padding-y-xs@xl'
+
+  'padding y sm @xl':
+    'prefix': 'padding-y-sm@xl'
+    'body': 'padding-y-sm@xl'
+
+  'padding y md @xl':
+    'prefix': 'padding-y-md@xl'
+    'body': 'padding-y-md@xl'
+
+  'padding y lg @xl':
+    'prefix': 'padding-y-lg@xl'
+    'body': 'padding-y-lg@xl'
+
+  'padding y xl @xl':
+    'prefix': 'padding-y-xl@xl'
+    'body': 'padding-y-xl@xl'
+
+  'padding y xxl @xl':
+    'prefix': 'padding-y-xxl@xl'
+    'body': 'padding-y-xxl@xl'
+
+  'padding y xxxl @xl':
+    'prefix': 'padding-y-xxxl@xl'
+    'body': 'padding-y-xxxl@xl'
+
+  'padding y xxxxl @xl':
+    'prefix': 'padding-y-xxxxl@xl'
+    'body': 'padding-y-xxxxl@xl'
+
+  'padding y component @xl':
+    'prefix': 'padding-y-component@xl'
+    'body': 'padding-y-component@xl'
+
+  'padding y 0 @xl':
+    'prefix': 'padding-y-0@xl'
+    'body': 'padding-y-0@xl'
+
   'has-padding @xs':
     'prefix': 'has-padding@xs'
     'body': 'has-padding@xs'
