@@ -967,6 +967,1826 @@
     'prefix': 'margin-y-auto'
     'body': 'margin-y-auto'
 
+  'margin xxxxs @xs':
+    'prefix': 'margin-xxxxs@xs'
+    'body': 'margin-xxxxs@xs'
+
+  'margin xxxs @xs':
+    'prefix': 'margin-xxxs@xs'
+    'body': 'margin-xxxs@xs'
+
+  'margin xxs @xs':
+    'prefix': 'margin-xxs@xs'
+    'body': 'margin-xxs@xs'
+
+  'margin xs @xs':
+    'prefix': 'margin-xs@xs'
+    'body': 'margin-xs@xs'
+
+  'margin sm @xs':
+    'prefix': 'margin-sm@xs'
+    'body': 'margin-sm@xs'
+
+  'margin md @xs':
+    'prefix': 'margin-md@xs'
+    'body': 'margin-md@xs'
+
+  'margin lg @xs':
+    'prefix': 'margin-lg@xs'
+    'body': 'margin-lg@xs'
+
+  'margin xl @xs':
+    'prefix': 'margin-xl@xs'
+    'body': 'margin-xl@xs'
+
+  'margin xxl @xs':
+    'prefix': 'margin-xxl@xs'
+    'body': 'margin-xxl@xs'
+
+  'margin xxxl @xs':
+    'prefix': 'margin-xxxl@xs'
+    'body': 'margin-xxxl@xs'
+
+  'margin xxxxl @xs':
+    'prefix': 'margin-xxxxl@xs'
+    'body': 'margin-xxxxl@xs'
+
+  'margin auto @xs':
+    'prefix': 'margin-auto@xs'
+    'body': 'margin-auto@xs'
+
+  'margin 0 @xs':
+    'prefix': 'margin-0@xs'
+    'body': 'margin-0@xs'
+
+  'margin top xxxxs @xs':
+    'prefix': 'margin-top-xxxxs@xs'
+    'body': 'margin-top-xxxxs@xs'
+
+  'margin top xxxs @xs':
+    'prefix': 'margin-top-xxxs@xs'
+    'body': 'margin-top-xxxs@xs'
+
+  'margin top xxs @xs':
+    'prefix': 'margin-top-xxs@xs'
+    'body': 'margin-top-xxs@xs'
+
+  'margin top xs @xs':
+    'prefix': 'margin-top-xs@xs'
+    'body': 'margin-top-xs@xs'
+
+  'margin top sm @xs':
+    'prefix': 'margin-top-sm@xs'
+    'body': 'margin-top-sm@xs'
+
+  'margin top md @xs':
+    'prefix': 'margin-top-md@xs'
+    'body': 'margin-top-md@xs'
+
+  'margin top lg @xs':
+    'prefix': 'margin-top-lg@xs'
+    'body': 'margin-top-lg@xs'
+
+  'margin top xl @xs':
+    'prefix': 'margin-top-xl@xs'
+    'body': 'margin-top-xl@xs'
+
+  'margin top xxl @xs':
+    'prefix': 'margin-top-xxl@xs'
+    'body': 'margin-top-xxl@xs'
+
+  'margin top xxxl @xs':
+    'prefix': 'margin-top-xxxl@xs'
+    'body': 'margin-top-xxxl@xs'
+
+  'margin top xxxxl @xs':
+    'prefix': 'margin-top-xxxxl@xs'
+    'body': 'margin-top-xxxxl@xs'
+
+  'margin top auto @xs':
+    'prefix': 'margin-top-auto@xs'
+    'body': 'margin-top-auto@xs'
+
+  'margin top 0 @xs':
+    'prefix': 'margin-top-0@xs'
+    'body': 'margin-top-0@xs'
+
+  'margin bottom xxxxs @xs':
+    'prefix': 'margin-bottom-xxxxs@xs'
+    'body': 'margin-bottom-xxxxs@xs'
+
+  'margin bottom xxxs @xs':
+    'prefix': 'margin-bottom-xxxs@xs'
+    'body': 'margin-bottom-xxxs@xs'
+
+  'margin bottom xxs @xs':
+    'prefix': 'margin-bottom-xxs@xs'
+    'body': 'margin-bottom-xxs@xs'
+
+  'margin bottom xs @xs':
+    'prefix': 'margin-bottom-xs@xs'
+    'body': 'margin-bottom-xs@xs'
+
+  'margin bottom sm @xs':
+    'prefix': 'margin-bottom-sm@xs'
+    'body': 'margin-bottom-sm@xs'
+
+  'margin bottom md @xs':
+    'prefix': 'margin-bottom-md@xs'
+    'body': 'margin-bottom-md@xs'
+
+  'margin bottom lg @xs':
+    'prefix': 'margin-bottom-lg@xs'
+    'body': 'margin-bottom-lg@xs'
+
+  'margin bottom xl @xs':
+    'prefix': 'margin-bottom-xl@xs'
+    'body': 'margin-bottom-xl@xs'
+
+  'margin bottom xxl @xs':
+    'prefix': 'margin-bottom-xxl@xs'
+    'body': 'margin-bottom-xxl@xs'
+
+  'margin bottom xxxl @xs':
+    'prefix': 'margin-bottom-xxxl@xs'
+    'body': 'margin-bottom-xxxl@xs'
+
+  'margin bottom xxxxl @xs':
+    'prefix': 'margin-bottom-xxxxl@xs'
+    'body': 'margin-bottom-xxxxl@xs'
+
+  'margin bottom auto @xs':
+    'prefix': 'margin-bottom-auto@xs'
+    'body': 'margin-bottom-auto@xs'
+
+  'margin bottom 0 @xs':
+    'prefix': 'margin-bottom-0@xs'
+    'body': 'margin-bottom-0@xs'
+
+  'margin right xxxxs @xs':
+    'prefix': 'margin-right-xxxxs@xs'
+    'body': 'margin-right-xxxxs@xs'
+
+  'margin right xxxs @xs':
+    'prefix': 'margin-right-xxxs@xs'
+    'body': 'margin-right-xxxs@xs'
+
+  'margin right xxs @xs':
+    'prefix': 'margin-right-xxs@xs'
+    'body': 'margin-right-xxs@xs'
+
+  'margin right xs @xs':
+    'prefix': 'margin-right-xs@xs'
+    'body': 'margin-right-xs@xs'
+
+  'margin right sm @xs':
+    'prefix': 'margin-right-sm@xs'
+    'body': 'margin-right-sm@xs'
+
+  'margin right md @xs':
+    'prefix': 'margin-right-md@xs'
+    'body': 'margin-right-md@xs'
+
+  'margin right lg @xs':
+    'prefix': 'margin-right-lg@xs'
+    'body': 'margin-right-lg@xs'
+
+  'margin right xl @xs':
+    'prefix': 'margin-right-xl@xs'
+    'body': 'margin-right-xl@xs'
+
+  'margin right xxl @xs':
+    'prefix': 'margin-right-xxl@xs'
+    'body': 'margin-right-xxl@xs'
+
+  'margin right xxxl @xs':
+    'prefix': 'margin-right-xxxl@xs'
+    'body': 'margin-right-xxxl@xs'
+
+  'margin right xxxxl @xs':
+    'prefix': 'margin-right-xxxxl@xs'
+    'body': 'margin-right-xxxxl@xs'
+
+  'margin right auto @xs':
+    'prefix': 'margin-right-auto@xs'
+    'body': 'margin-right-auto@xs'
+
+  'margin right 0 @xs':
+    'prefix': 'margin-right-0@xs'
+    'body': 'margin-right-0@xs'
+
+  'margin left xxxxs @xs':
+    'prefix': 'margin-left-xxxxs@xs'
+    'body': 'margin-left-xxxxs@xs'
+
+  'margin left xxxs @xs':
+    'prefix': 'margin-left-xxxs@xs'
+    'body': 'margin-left-xxxs@xs'
+
+  'margin left xxs @xs':
+    'prefix': 'margin-left-xxs@xs'
+    'body': 'margin-left-xxs@xs'
+
+  'margin left xs @xs':
+    'prefix': 'margin-left-xs@xs'
+    'body': 'margin-left-xs@xs'
+
+  'margin left sm @xs':
+    'prefix': 'margin-left-sm@xs'
+    'body': 'margin-left-sm@xs'
+
+  'margin left md @xs':
+    'prefix': 'margin-left-md@xs'
+    'body': 'margin-left-md@xs'
+
+  'margin left lg @xs':
+    'prefix': 'margin-left-lg@xs'
+    'body': 'margin-left-lg@xs'
+
+  'margin left xl @xs':
+    'prefix': 'margin-left-xl@xs'
+    'body': 'margin-left-xl@xs'
+
+  'margin left xxl @xs':
+    'prefix': 'margin-left-xxl@xs'
+    'body': 'margin-left-xxl@xs'
+
+  'margin left xxxl @xs':
+    'prefix': 'margin-left-xxxl@xs'
+    'body': 'margin-left-xxxl@xs'
+
+  'margin left xxxxl @xs':
+    'prefix': 'margin-left-xxxxl@xs'
+    'body': 'margin-left-xxxxl@xs'
+
+  'margin left auto @xs':
+    'prefix': 'margin-left-auto@xs'
+    'body': 'margin-left-auto@xs'
+
+  'margin left 0 @xs':
+    'prefix': 'margin-left-0@xs'
+    'body': 'margin-left-0@xs'
+
+  'margin x xxxxs @xs':
+    'prefix': 'margin-x-xxxxs@xs'
+    'body': 'margin-x-xxxxs@xs'
+
+  'margin x xxxs @xs':
+    'prefix': 'margin-x-xxxs@xs'
+    'body': 'margin-x-xxxs@xs'
+
+  'margin x xxs @xs':
+    'prefix': 'margin-x-xxs@xs'
+    'body': 'margin-x-xxs@xs'
+
+  'margin x xs @xs':
+    'prefix': 'margin-x-xs@xs'
+    'body': 'margin-x-xs@xs'
+
+  'margin x sm @xs':
+    'prefix': 'margin-x-sm@xs'
+    'body': 'margin-x-sm@xs'
+
+  'margin x md @xs':
+    'prefix': 'margin-x-md@xs'
+    'body': 'margin-x-md@xs'
+
+  'margin x lg @xs':
+    'prefix': 'margin-x-lg@xs'
+    'body': 'margin-x-lg@xs'
+
+  'margin x xl @xs':
+    'prefix': 'margin-x-xl@xs'
+    'body': 'margin-x-xl@xs'
+
+  'margin x xxl @xs':
+    'prefix': 'margin-x-xxl@xs'
+    'body': 'margin-x-xxl@xs'
+
+  'margin x xxxl @xs':
+    'prefix': 'margin-x-xxxl@xs'
+    'body': 'margin-x-xxxl@xs'
+
+  'margin x xxxxl @xs':
+    'prefix': 'margin-x-xxxxl@xs'
+    'body': 'margin-x-xxxxl@xs'
+
+  'margin x auto @xs':
+    'prefix': 'margin-x-auto@xs'
+    'body': 'margin-x-auto@xs'
+
+  'margin x 0 @xs':
+    'prefix': 'margin-x-0@xs'
+    'body': 'margin-x-0@xs'
+
+  'margin y xxxxs @xs':
+    'prefix': 'margin-y-xxxxs@xs'
+    'body': 'margin-y-xxxxs@xs'
+
+  'margin y xxxs @xs':
+    'prefix': 'margin-y-xxxs@xs'
+    'body': 'margin-y-xxxs@xs'
+
+  'margin y xxs @xs':
+    'prefix': 'margin-y-xxs@xs'
+    'body': 'margin-y-xxs@xs'
+
+  'margin y xs @xs':
+    'prefix': 'margin-y-xs@xs'
+    'body': 'margin-y-xs@xs'
+
+  'margin y sm @xs':
+    'prefix': 'margin-y-sm@xs'
+    'body': 'margin-y-sm@xs'
+
+  'margin y md @xs':
+    'prefix': 'margin-y-md@xs'
+    'body': 'margin-y-md@xs'
+
+  'margin y lg @xs':
+    'prefix': 'margin-y-lg@xs'
+    'body': 'margin-y-lg@xs'
+
+  'margin y xl @xs':
+    'prefix': 'margin-y-xl@xs'
+    'body': 'margin-y-xl@xs'
+
+  'margin y xxl @xs':
+    'prefix': 'margin-y-xxl@xs'
+    'body': 'margin-y-xxl@xs'
+
+  'margin y xxxl @xs':
+    'prefix': 'margin-y-xxxl@xs'
+    'body': 'margin-y-xxxl@xs'
+
+  'margin y xxxxl @xs':
+    'prefix': 'margin-y-xxxxl@xs'
+    'body': 'margin-y-xxxxl@xs'
+
+  'margin y auto @xs':
+    'prefix': 'margin-y-auto@xs'
+    'body': 'margin-y-auto@xs'
+
+  'margin y 0 @xs':
+    'prefix': 'margin-y-0@xs'
+    'body': 'margin-y-0@xs'
+
+  'margin xxxxs @sm':
+    'prefix': 'margin-xxxxs@sm'
+    'body': 'margin-xxxxs@sm'
+
+  'margin xxxs @sm':
+    'prefix': 'margin-xxxs@sm'
+    'body': 'margin-xxxs@sm'
+
+  'margin xxs @sm':
+    'prefix': 'margin-xxs@sm'
+    'body': 'margin-xxs@sm'
+
+  'margin xs @sm':
+    'prefix': 'margin-xs@sm'
+    'body': 'margin-xs@sm'
+
+  'margin sm @sm':
+    'prefix': 'margin-sm@sm'
+    'body': 'margin-sm@sm'
+
+  'margin md @sm':
+    'prefix': 'margin-md@sm'
+    'body': 'margin-md@sm'
+
+  'margin lg @sm':
+    'prefix': 'margin-lg@sm'
+    'body': 'margin-lg@sm'
+
+  'margin xl @sm':
+    'prefix': 'margin-xl@sm'
+    'body': 'margin-xl@sm'
+
+  'margin xxl @sm':
+    'prefix': 'margin-xxl@sm'
+    'body': 'margin-xxl@sm'
+
+  'margin xxxl @sm':
+    'prefix': 'margin-xxxl@sm'
+    'body': 'margin-xxxl@sm'
+
+  'margin xxxxl @sm':
+    'prefix': 'margin-xxxxl@sm'
+    'body': 'margin-xxxxl@sm'
+
+  'margin auto @sm':
+    'prefix': 'margin-auto@sm'
+    'body': 'margin-auto@sm'
+
+  'margin 0 @sm':
+    'prefix': 'margin-0@sm'
+    'body': 'margin-0@sm'
+
+  'margin top xxxxs @sm':
+    'prefix': 'margin-top-xxxxs@sm'
+    'body': 'margin-top-xxxxs@sm'
+
+  'margin top xxxs @sm':
+    'prefix': 'margin-top-xxxs@sm'
+    'body': 'margin-top-xxxs@sm'
+
+  'margin top xxs @sm':
+    'prefix': 'margin-top-xxs@sm'
+    'body': 'margin-top-xxs@sm'
+
+  'margin top xs @sm':
+    'prefix': 'margin-top-xs@sm'
+    'body': 'margin-top-xs@sm'
+
+  'margin top sm @sm':
+    'prefix': 'margin-top-sm@sm'
+    'body': 'margin-top-sm@sm'
+
+  'margin top md @sm':
+    'prefix': 'margin-top-md@sm'
+    'body': 'margin-top-md@sm'
+
+  'margin top lg @sm':
+    'prefix': 'margin-top-lg@sm'
+    'body': 'margin-top-lg@sm'
+
+  'margin top xl @sm':
+    'prefix': 'margin-top-xl@sm'
+    'body': 'margin-top-xl@sm'
+
+  'margin top xxl @sm':
+    'prefix': 'margin-top-xxl@sm'
+    'body': 'margin-top-xxl@sm'
+
+  'margin top xxxl @sm':
+    'prefix': 'margin-top-xxxl@sm'
+    'body': 'margin-top-xxxl@sm'
+
+  'margin top xxxxl @sm':
+    'prefix': 'margin-top-xxxxl@sm'
+    'body': 'margin-top-xxxxl@sm'
+
+  'margin top auto @sm':
+    'prefix': 'margin-top-auto@sm'
+    'body': 'margin-top-auto@sm'
+
+  'margin top 0 @sm':
+    'prefix': 'margin-top-0@sm'
+    'body': 'margin-top-0@sm'
+
+  'margin bottom xxxxs @sm':
+    'prefix': 'margin-bottom-xxxxs@sm'
+    'body': 'margin-bottom-xxxxs@sm'
+
+  'margin bottom xxxs @sm':
+    'prefix': 'margin-bottom-xxxs@sm'
+    'body': 'margin-bottom-xxxs@sm'
+
+  'margin bottom xxs @sm':
+    'prefix': 'margin-bottom-xxs@sm'
+    'body': 'margin-bottom-xxs@sm'
+
+  'margin bottom xs @sm':
+    'prefix': 'margin-bottom-xs@sm'
+    'body': 'margin-bottom-xs@sm'
+
+  'margin bottom sm @sm':
+    'prefix': 'margin-bottom-sm@sm'
+    'body': 'margin-bottom-sm@sm'
+
+  'margin bottom md @sm':
+    'prefix': 'margin-bottom-md@sm'
+    'body': 'margin-bottom-md@sm'
+
+  'margin bottom lg @sm':
+    'prefix': 'margin-bottom-lg@sm'
+    'body': 'margin-bottom-lg@sm'
+
+  'margin bottom xl @sm':
+    'prefix': 'margin-bottom-xl@sm'
+    'body': 'margin-bottom-xl@sm'
+
+  'margin bottom xxl @sm':
+    'prefix': 'margin-bottom-xxl@sm'
+    'body': 'margin-bottom-xxl@sm'
+
+  'margin bottom xxxl @sm':
+    'prefix': 'margin-bottom-xxxl@sm'
+    'body': 'margin-bottom-xxxl@sm'
+
+  'margin bottom xxxxl @sm':
+    'prefix': 'margin-bottom-xxxxl@sm'
+    'body': 'margin-bottom-xxxxl@sm'
+
+  'margin bottom auto @sm':
+    'prefix': 'margin-bottom-auto@sm'
+    'body': 'margin-bottom-auto@sm'
+
+  'margin bottom 0 @sm':
+    'prefix': 'margin-bottom-0@sm'
+    'body': 'margin-bottom-0@sm'
+
+  'margin right xxxxs @sm':
+    'prefix': 'margin-right-xxxxs@sm'
+    'body': 'margin-right-xxxxs@sm'
+
+  'margin right xxxs @sm':
+    'prefix': 'margin-right-xxxs@sm'
+    'body': 'margin-right-xxxs@sm'
+
+  'margin right xxs @sm':
+    'prefix': 'margin-right-xxs@sm'
+    'body': 'margin-right-xxs@sm'
+
+  'margin right xs @sm':
+    'prefix': 'margin-right-xs@sm'
+    'body': 'margin-right-xs@sm'
+
+  'margin right sm @sm':
+    'prefix': 'margin-right-sm@sm'
+    'body': 'margin-right-sm@sm'
+
+  'margin right md @sm':
+    'prefix': 'margin-right-md@sm'
+    'body': 'margin-right-md@sm'
+
+  'margin right lg @sm':
+    'prefix': 'margin-right-lg@sm'
+    'body': 'margin-right-lg@sm'
+
+  'margin right xl @sm':
+    'prefix': 'margin-right-xl@sm'
+    'body': 'margin-right-xl@sm'
+
+  'margin right xxl @sm':
+    'prefix': 'margin-right-xxl@sm'
+    'body': 'margin-right-xxl@sm'
+
+  'margin right xxxl @sm':
+    'prefix': 'margin-right-xxxl@sm'
+    'body': 'margin-right-xxxl@sm'
+
+  'margin right xxxxl @sm':
+    'prefix': 'margin-right-xxxxl@sm'
+    'body': 'margin-right-xxxxl@sm'
+
+  'margin right auto @sm':
+    'prefix': 'margin-right-auto@sm'
+    'body': 'margin-right-auto@sm'
+
+  'margin right 0 @sm':
+    'prefix': 'margin-right-0@sm'
+    'body': 'margin-right-0@sm'
+
+  'margin left xxxxs @sm':
+    'prefix': 'margin-left-xxxxs@sm'
+    'body': 'margin-left-xxxxs@sm'
+
+  'margin left xxxs @sm':
+    'prefix': 'margin-left-xxxs@sm'
+    'body': 'margin-left-xxxs@sm'
+
+  'margin left xxs @sm':
+    'prefix': 'margin-left-xxs@sm'
+    'body': 'margin-left-xxs@sm'
+
+  'margin left xs @sm':
+    'prefix': 'margin-left-xs@sm'
+    'body': 'margin-left-xs@sm'
+
+  'margin left sm @sm':
+    'prefix': 'margin-left-sm@sm'
+    'body': 'margin-left-sm@sm'
+
+  'margin left md @sm':
+    'prefix': 'margin-left-md@sm'
+    'body': 'margin-left-md@sm'
+
+  'margin left lg @sm':
+    'prefix': 'margin-left-lg@sm'
+    'body': 'margin-left-lg@sm'
+
+  'margin left xl @sm':
+    'prefix': 'margin-left-xl@sm'
+    'body': 'margin-left-xl@sm'
+
+  'margin left xxl @sm':
+    'prefix': 'margin-left-xxl@sm'
+    'body': 'margin-left-xxl@sm'
+
+  'margin left xxxl @sm':
+    'prefix': 'margin-left-xxxl@sm'
+    'body': 'margin-left-xxxl@sm'
+
+  'margin left xxxxl @sm':
+    'prefix': 'margin-left-xxxxl@sm'
+    'body': 'margin-left-xxxxl@sm'
+
+  'margin left auto @sm':
+    'prefix': 'margin-left-auto@sm'
+    'body': 'margin-left-auto@sm'
+
+  'margin left 0 @sm':
+    'prefix': 'margin-left-0@sm'
+    'body': 'margin-left-0@sm'
+
+  'margin x xxxxs @sm':
+    'prefix': 'margin-x-xxxxs@sm'
+    'body': 'margin-x-xxxxs@sm'
+
+  'margin x xxxs @sm':
+    'prefix': 'margin-x-xxxs@sm'
+    'body': 'margin-x-xxxs@sm'
+
+  'margin x xxs @sm':
+    'prefix': 'margin-x-xxs@sm'
+    'body': 'margin-x-xxs@sm'
+
+  'margin x xs @sm':
+    'prefix': 'margin-x-xs@sm'
+    'body': 'margin-x-xs@sm'
+
+  'margin x sm @sm':
+    'prefix': 'margin-x-sm@sm'
+    'body': 'margin-x-sm@sm'
+
+  'margin x md @sm':
+    'prefix': 'margin-x-md@sm'
+    'body': 'margin-x-md@sm'
+
+  'margin x lg @sm':
+    'prefix': 'margin-x-lg@sm'
+    'body': 'margin-x-lg@sm'
+
+  'margin x xl @sm':
+    'prefix': 'margin-x-xl@sm'
+    'body': 'margin-x-xl@sm'
+
+  'margin x xxl @sm':
+    'prefix': 'margin-x-xxl@sm'
+    'body': 'margin-x-xxl@sm'
+
+  'margin x xxxl @sm':
+    'prefix': 'margin-x-xxxl@sm'
+    'body': 'margin-x-xxxl@sm'
+
+  'margin x xxxxl @sm':
+    'prefix': 'margin-x-xxxxl@sm'
+    'body': 'margin-x-xxxxl@sm'
+
+  'margin x auto @sm':
+    'prefix': 'margin-x-auto@sm'
+    'body': 'margin-x-auto@sm'
+
+  'margin x 0 @sm':
+    'prefix': 'margin-x-0@sm'
+    'body': 'margin-x-0@sm'
+
+  'margin y xxxxs @sm':
+    'prefix': 'margin-y-xxxxs@sm'
+    'body': 'margin-y-xxxxs@sm'
+
+  'margin y xxxs @sm':
+    'prefix': 'margin-y-xxxs@sm'
+    'body': 'margin-y-xxxs@sm'
+
+  'margin y xxs @sm':
+    'prefix': 'margin-y-xxs@sm'
+    'body': 'margin-y-xxs@sm'
+
+  'margin y xs @sm':
+    'prefix': 'margin-y-xs@sm'
+    'body': 'margin-y-xs@sm'
+
+  'margin y sm @sm':
+    'prefix': 'margin-y-sm@sm'
+    'body': 'margin-y-sm@sm'
+
+  'margin y md @sm':
+    'prefix': 'margin-y-md@sm'
+    'body': 'margin-y-md@sm'
+
+  'margin y lg @sm':
+    'prefix': 'margin-y-lg@sm'
+    'body': 'margin-y-lg@sm'
+
+  'margin y xl @sm':
+    'prefix': 'margin-y-xl@sm'
+    'body': 'margin-y-xl@sm'
+
+  'margin y xxl @sm':
+    'prefix': 'margin-y-xxl@sm'
+    'body': 'margin-y-xxl@sm'
+
+  'margin y xxxl @sm':
+    'prefix': 'margin-y-xxxl@sm'
+    'body': 'margin-y-xxxl@sm'
+
+  'margin y xxxxl @sm':
+    'prefix': 'margin-y-xxxxl@sm'
+    'body': 'margin-y-xxxxl@sm'
+
+  'margin y auto @sm':
+    'prefix': 'margin-y-auto@sm'
+    'body': 'margin-y-auto@sm'
+
+  'margin y 0 @sm':
+    'prefix': 'margin-y-0@sm'
+    'body': 'margin-y-0@sm'
+
+  'margin xxxxs @md':
+    'prefix': 'margin-xxxxs@md'
+    'body': 'margin-xxxxs@md'
+
+  'margin xxxs @md':
+    'prefix': 'margin-xxxs@md'
+    'body': 'margin-xxxs@md'
+
+  'margin xxs @md':
+    'prefix': 'margin-xxs@md'
+    'body': 'margin-xxs@md'
+
+  'margin xs @md':
+    'prefix': 'margin-xs@md'
+    'body': 'margin-xs@md'
+
+  'margin sm @md':
+    'prefix': 'margin-sm@md'
+    'body': 'margin-sm@md'
+
+  'margin md @md':
+    'prefix': 'margin-md@md'
+    'body': 'margin-md@md'
+
+  'margin lg @md':
+    'prefix': 'margin-lg@md'
+    'body': 'margin-lg@md'
+
+  'margin xl @md':
+    'prefix': 'margin-xl@md'
+    'body': 'margin-xl@md'
+
+  'margin xxl @md':
+    'prefix': 'margin-xxl@md'
+    'body': 'margin-xxl@md'
+
+  'margin xxxl @md':
+    'prefix': 'margin-xxxl@md'
+    'body': 'margin-xxxl@md'
+
+  'margin xxxxl @md':
+    'prefix': 'margin-xxxxl@md'
+    'body': 'margin-xxxxl@md'
+
+  'margin auto @md':
+    'prefix': 'margin-auto@md'
+    'body': 'margin-auto@md'
+
+  'margin 0 @md':
+    'prefix': 'margin-0@md'
+    'body': 'margin-0@md'
+
+  'margin top xxxxs @md':
+    'prefix': 'margin-top-xxxxs@md'
+    'body': 'margin-top-xxxxs@md'
+
+  'margin top xxxs @md':
+    'prefix': 'margin-top-xxxs@md'
+    'body': 'margin-top-xxxs@md'
+
+  'margin top xxs @md':
+    'prefix': 'margin-top-xxs@md'
+    'body': 'margin-top-xxs@md'
+
+  'margin top xs @md':
+    'prefix': 'margin-top-xs@md'
+    'body': 'margin-top-xs@md'
+
+  'margin top sm @md':
+    'prefix': 'margin-top-sm@md'
+    'body': 'margin-top-sm@md'
+
+  'margin top md @md':
+    'prefix': 'margin-top-md@md'
+    'body': 'margin-top-md@md'
+
+  'margin top lg @md':
+    'prefix': 'margin-top-lg@md'
+    'body': 'margin-top-lg@md'
+
+  'margin top xl @md':
+    'prefix': 'margin-top-xl@md'
+    'body': 'margin-top-xl@md'
+
+  'margin top xxl @md':
+    'prefix': 'margin-top-xxl@md'
+    'body': 'margin-top-xxl@md'
+
+  'margin top xxxl @md':
+    'prefix': 'margin-top-xxxl@md'
+    'body': 'margin-top-xxxl@md'
+
+  'margin top xxxxl @md':
+    'prefix': 'margin-top-xxxxl@md'
+    'body': 'margin-top-xxxxl@md'
+
+  'margin top auto @md':
+    'prefix': 'margin-top-auto@md'
+    'body': 'margin-top-auto@md'
+
+  'margin top 0 @md':
+    'prefix': 'margin-top-0@md'
+    'body': 'margin-top-0@md'
+
+  'margin bottom xxxxs @md':
+    'prefix': 'margin-bottom-xxxxs@md'
+    'body': 'margin-bottom-xxxxs@md'
+
+  'margin bottom xxxs @md':
+    'prefix': 'margin-bottom-xxxs@md'
+    'body': 'margin-bottom-xxxs@md'
+
+  'margin bottom xxs @md':
+    'prefix': 'margin-bottom-xxs@md'
+    'body': 'margin-bottom-xxs@md'
+
+  'margin bottom xs @md':
+    'prefix': 'margin-bottom-xs@md'
+    'body': 'margin-bottom-xs@md'
+
+  'margin bottom sm @md':
+    'prefix': 'margin-bottom-sm@md'
+    'body': 'margin-bottom-sm@md'
+
+  'margin bottom md @md':
+    'prefix': 'margin-bottom-md@md'
+    'body': 'margin-bottom-md@md'
+
+  'margin bottom lg @md':
+    'prefix': 'margin-bottom-lg@md'
+    'body': 'margin-bottom-lg@md'
+
+  'margin bottom xl @md':
+    'prefix': 'margin-bottom-xl@md'
+    'body': 'margin-bottom-xl@md'
+
+  'margin bottom xxl @md':
+    'prefix': 'margin-bottom-xxl@md'
+    'body': 'margin-bottom-xxl@md'
+
+  'margin bottom xxxl @md':
+    'prefix': 'margin-bottom-xxxl@md'
+    'body': 'margin-bottom-xxxl@md'
+
+  'margin bottom xxxxl @md':
+    'prefix': 'margin-bottom-xxxxl@md'
+    'body': 'margin-bottom-xxxxl@md'
+
+  'margin bottom auto @md':
+    'prefix': 'margin-bottom-auto@md'
+    'body': 'margin-bottom-auto@md'
+
+  'margin bottom 0 @md':
+    'prefix': 'margin-bottom-0@md'
+    'body': 'margin-bottom-0@md'
+
+  'margin right xxxxs @md':
+    'prefix': 'margin-right-xxxxs@md'
+    'body': 'margin-right-xxxxs@md'
+
+  'margin right xxxs @md':
+    'prefix': 'margin-right-xxxs@md'
+    'body': 'margin-right-xxxs@md'
+
+  'margin right xxs @md':
+    'prefix': 'margin-right-xxs@md'
+    'body': 'margin-right-xxs@md'
+
+  'margin right xs @md':
+    'prefix': 'margin-right-xs@md'
+    'body': 'margin-right-xs@md'
+
+  'margin right sm @md':
+    'prefix': 'margin-right-sm@md'
+    'body': 'margin-right-sm@md'
+
+  'margin right md @md':
+    'prefix': 'margin-right-md@md'
+    'body': 'margin-right-md@md'
+
+  'margin right lg @md':
+    'prefix': 'margin-right-lg@md'
+    'body': 'margin-right-lg@md'
+
+  'margin right xl @md':
+    'prefix': 'margin-right-xl@md'
+    'body': 'margin-right-xl@md'
+
+  'margin right xxl @md':
+    'prefix': 'margin-right-xxl@md'
+    'body': 'margin-right-xxl@md'
+
+  'margin right xxxl @md':
+    'prefix': 'margin-right-xxxl@md'
+    'body': 'margin-right-xxxl@md'
+
+  'margin right xxxxl @md':
+    'prefix': 'margin-right-xxxxl@md'
+    'body': 'margin-right-xxxxl@md'
+
+  'margin right auto @md':
+    'prefix': 'margin-right-auto@md'
+    'body': 'margin-right-auto@md'
+
+  'margin right 0 @md':
+    'prefix': 'margin-right-0@md'
+    'body': 'margin-right-0@md'
+
+  'margin left xxxxs @md':
+    'prefix': 'margin-left-xxxxs@md'
+    'body': 'margin-left-xxxxs@md'
+
+  'margin left xxxs @md':
+    'prefix': 'margin-left-xxxs@md'
+    'body': 'margin-left-xxxs@md'
+
+  'margin left xxs @md':
+    'prefix': 'margin-left-xxs@md'
+    'body': 'margin-left-xxs@md'
+
+  'margin left xs @md':
+    'prefix': 'margin-left-xs@md'
+    'body': 'margin-left-xs@md'
+
+  'margin left sm @md':
+    'prefix': 'margin-left-sm@md'
+    'body': 'margin-left-sm@md'
+
+  'margin left md @md':
+    'prefix': 'margin-left-md@md'
+    'body': 'margin-left-md@md'
+
+  'margin left lg @md':
+    'prefix': 'margin-left-lg@md'
+    'body': 'margin-left-lg@md'
+
+  'margin left xl @md':
+    'prefix': 'margin-left-xl@md'
+    'body': 'margin-left-xl@md'
+
+  'margin left xxl @md':
+    'prefix': 'margin-left-xxl@md'
+    'body': 'margin-left-xxl@md'
+
+  'margin left xxxl @md':
+    'prefix': 'margin-left-xxxl@md'
+    'body': 'margin-left-xxxl@md'
+
+  'margin left xxxxl @md':
+    'prefix': 'margin-left-xxxxl@md'
+    'body': 'margin-left-xxxxl@md'
+
+  'margin left auto @md':
+    'prefix': 'margin-left-auto@md'
+    'body': 'margin-left-auto@md'
+
+  'margin left 0 @md':
+    'prefix': 'margin-left-0@md'
+    'body': 'margin-left-0@md'
+
+  'margin x xxxxs @md':
+    'prefix': 'margin-x-xxxxs@md'
+    'body': 'margin-x-xxxxs@md'
+
+  'margin x xxxs @md':
+    'prefix': 'margin-x-xxxs@md'
+    'body': 'margin-x-xxxs@md'
+
+  'margin x xxs @md':
+    'prefix': 'margin-x-xxs@md'
+    'body': 'margin-x-xxs@md'
+
+  'margin x xs @md':
+    'prefix': 'margin-x-xs@md'
+    'body': 'margin-x-xs@md'
+
+  'margin x sm @md':
+    'prefix': 'margin-x-sm@md'
+    'body': 'margin-x-sm@md'
+
+  'margin x md @md':
+    'prefix': 'margin-x-md@md'
+    'body': 'margin-x-md@md'
+
+  'margin x lg @md':
+    'prefix': 'margin-x-lg@md'
+    'body': 'margin-x-lg@md'
+
+  'margin x xl @md':
+    'prefix': 'margin-x-xl@md'
+    'body': 'margin-x-xl@md'
+
+  'margin x xxl @md':
+    'prefix': 'margin-x-xxl@md'
+    'body': 'margin-x-xxl@md'
+
+  'margin x xxxl @md':
+    'prefix': 'margin-x-xxxl@md'
+    'body': 'margin-x-xxxl@md'
+
+  'margin x xxxxl @md':
+    'prefix': 'margin-x-xxxxl@md'
+    'body': 'margin-x-xxxxl@md'
+
+  'margin x auto @md':
+    'prefix': 'margin-x-auto@md'
+    'body': 'margin-x-auto@md'
+
+  'margin x 0 @md':
+    'prefix': 'margin-x-0@md'
+    'body': 'margin-x-0@md'
+
+  'margin y xxxxs @md':
+    'prefix': 'margin-y-xxxxs@md'
+    'body': 'margin-y-xxxxs@md'
+
+  'margin y xxxs @md':
+    'prefix': 'margin-y-xxxs@md'
+    'body': 'margin-y-xxxs@md'
+
+  'margin y xxs @md':
+    'prefix': 'margin-y-xxs@md'
+    'body': 'margin-y-xxs@md'
+
+  'margin y xs @md':
+    'prefix': 'margin-y-xs@md'
+    'body': 'margin-y-xs@md'
+
+  'margin y sm @md':
+    'prefix': 'margin-y-sm@md'
+    'body': 'margin-y-sm@md'
+
+  'margin y md @md':
+    'prefix': 'margin-y-md@md'
+    'body': 'margin-y-md@md'
+
+  'margin y lg @md':
+    'prefix': 'margin-y-lg@md'
+    'body': 'margin-y-lg@md'
+
+  'margin y xl @md':
+    'prefix': 'margin-y-xl@md'
+    'body': 'margin-y-xl@md'
+
+  'margin y xxl @md':
+    'prefix': 'margin-y-xxl@md'
+    'body': 'margin-y-xxl@md'
+
+  'margin y xxxl @md':
+    'prefix': 'margin-y-xxxl@md'
+    'body': 'margin-y-xxxl@md'
+
+  'margin y xxxxl @md':
+    'prefix': 'margin-y-xxxxl@md'
+    'body': 'margin-y-xxxxl@md'
+
+  'margin y auto @md':
+    'prefix': 'margin-y-auto@md'
+    'body': 'margin-y-auto@md'
+
+  'margin y 0 @md':
+    'prefix': 'margin-y-0@md'
+    'body': 'margin-y-0@md'
+  
+  'margin xxxxs @lg':
+    'prefix': 'margin-xxxxs@lg'
+    'body': 'margin-xxxxs@lg'
+
+  'margin xxxs @lg':
+    'prefix': 'margin-xxxs@lg'
+    'body': 'margin-xxxs@lg'
+
+  'margin xxs @lg':
+    'prefix': 'margin-xxs@lg'
+    'body': 'margin-xxs@lg'
+
+  'margin xs @lg':
+    'prefix': 'margin-xs@lg'
+    'body': 'margin-xs@lg'
+
+  'margin sm @lg':
+    'prefix': 'margin-sm@lg'
+    'body': 'margin-sm@lg'
+
+  'margin md @lg':
+    'prefix': 'margin-md@lg'
+    'body': 'margin-md@lg'
+
+  'margin lg @lg':
+    'prefix': 'margin-lg@lg'
+    'body': 'margin-lg@lg'
+
+  'margin xl @lg':
+    'prefix': 'margin-xl@lg'
+    'body': 'margin-xl@lg'
+
+  'margin xxl @lg':
+    'prefix': 'margin-xxl@lg'
+    'body': 'margin-xxl@lg'
+
+  'margin xxxl @lg':
+    'prefix': 'margin-xxxl@lg'
+    'body': 'margin-xxxl@lg'
+
+  'margin xxxxl @lg':
+    'prefix': 'margin-xxxxl@lg'
+    'body': 'margin-xxxxl@lg'
+
+  'margin auto @lg':
+    'prefix': 'margin-auto@lg'
+    'body': 'margin-auto@lg'
+
+  'margin 0 @lg':
+    'prefix': 'margin-0@lg'
+    'body': 'margin-0@lg'
+
+  'margin top xxxxs @lg':
+    'prefix': 'margin-top-xxxxs@lg'
+    'body': 'margin-top-xxxxs@lg'
+
+  'margin top xxxs @lg':
+    'prefix': 'margin-top-xxxs@lg'
+    'body': 'margin-top-xxxs@lg'
+
+  'margin top xxs @lg':
+    'prefix': 'margin-top-xxs@lg'
+    'body': 'margin-top-xxs@lg'
+
+  'margin top xs @lg':
+    'prefix': 'margin-top-xs@lg'
+    'body': 'margin-top-xs@lg'
+
+  'margin top sm @lg':
+    'prefix': 'margin-top-sm@lg'
+    'body': 'margin-top-sm@lg'
+
+  'margin top md @lg':
+    'prefix': 'margin-top-md@lg'
+    'body': 'margin-top-md@lg'
+
+  'margin top lg @lg':
+    'prefix': 'margin-top-lg@lg'
+    'body': 'margin-top-lg@lg'
+
+  'margin top xl @lg':
+    'prefix': 'margin-top-xl@lg'
+    'body': 'margin-top-xl@lg'
+
+  'margin top xxl @lg':
+    'prefix': 'margin-top-xxl@lg'
+    'body': 'margin-top-xxl@lg'
+
+  'margin top xxxl @lg':
+    'prefix': 'margin-top-xxxl@lg'
+    'body': 'margin-top-xxxl@lg'
+
+  'margin top xxxxl @lg':
+    'prefix': 'margin-top-xxxxl@lg'
+    'body': 'margin-top-xxxxl@lg'
+
+  'margin top auto @lg':
+    'prefix': 'margin-top-auto@lg'
+    'body': 'margin-top-auto@lg'
+
+  'margin top 0 @lg':
+    'prefix': 'margin-top-0@lg'
+    'body': 'margin-top-0@lg'
+
+  'margin bottom xxxxs @lg':
+    'prefix': 'margin-bottom-xxxxs@lg'
+    'body': 'margin-bottom-xxxxs@lg'
+
+  'margin bottom xxxs @lg':
+    'prefix': 'margin-bottom-xxxs@lg'
+    'body': 'margin-bottom-xxxs@lg'
+
+  'margin bottom xxs @lg':
+    'prefix': 'margin-bottom-xxs@lg'
+    'body': 'margin-bottom-xxs@lg'
+
+  'margin bottom xs @lg':
+    'prefix': 'margin-bottom-xs@lg'
+    'body': 'margin-bottom-xs@lg'
+
+  'margin bottom sm @lg':
+    'prefix': 'margin-bottom-sm@lg'
+    'body': 'margin-bottom-sm@lg'
+
+  'margin bottom md @lg':
+    'prefix': 'margin-bottom-md@lg'
+    'body': 'margin-bottom-md@lg'
+
+  'margin bottom lg @lg':
+    'prefix': 'margin-bottom-lg@lg'
+    'body': 'margin-bottom-lg@lg'
+
+  'margin bottom xl @lg':
+    'prefix': 'margin-bottom-xl@lg'
+    'body': 'margin-bottom-xl@lg'
+
+  'margin bottom xxl @lg':
+    'prefix': 'margin-bottom-xxl@lg'
+    'body': 'margin-bottom-xxl@lg'
+
+  'margin bottom xxxl @lg':
+    'prefix': 'margin-bottom-xxxl@lg'
+    'body': 'margin-bottom-xxxl@lg'
+
+  'margin bottom xxxxl @lg':
+    'prefix': 'margin-bottom-xxxxl@lg'
+    'body': 'margin-bottom-xxxxl@lg'
+
+  'margin bottom auto @lg':
+    'prefix': 'margin-bottom-auto@lg'
+    'body': 'margin-bottom-auto@lg'
+
+  'margin bottom 0 @lg':
+    'prefix': 'margin-bottom-0@lg'
+    'body': 'margin-bottom-0@lg'
+
+  'margin right xxxxs @lg':
+    'prefix': 'margin-right-xxxxs@lg'
+    'body': 'margin-right-xxxxs@lg'
+
+  'margin right xxxs @lg':
+    'prefix': 'margin-right-xxxs@lg'
+    'body': 'margin-right-xxxs@lg'
+
+  'margin right xxs @lg':
+    'prefix': 'margin-right-xxs@lg'
+    'body': 'margin-right-xxs@lg'
+
+  'margin right xs @lg':
+    'prefix': 'margin-right-xs@lg'
+    'body': 'margin-right-xs@lg'
+
+  'margin right sm @lg':
+    'prefix': 'margin-right-sm@lg'
+    'body': 'margin-right-sm@lg'
+
+  'margin right md @lg':
+    'prefix': 'margin-right-md@lg'
+    'body': 'margin-right-md@lg'
+
+  'margin right lg @lg':
+    'prefix': 'margin-right-lg@lg'
+    'body': 'margin-right-lg@lg'
+
+  'margin right xl @lg':
+    'prefix': 'margin-right-xl@lg'
+    'body': 'margin-right-xl@lg'
+
+  'margin right xxl @lg':
+    'prefix': 'margin-right-xxl@lg'
+    'body': 'margin-right-xxl@lg'
+
+  'margin right xxxl @lg':
+    'prefix': 'margin-right-xxxl@lg'
+    'body': 'margin-right-xxxl@lg'
+
+  'margin right xxxxl @lg':
+    'prefix': 'margin-right-xxxxl@lg'
+    'body': 'margin-right-xxxxl@lg'
+
+  'margin right auto @lg':
+    'prefix': 'margin-right-auto@lg'
+    'body': 'margin-right-auto@lg'
+
+  'margin right 0 @lg':
+    'prefix': 'margin-right-0@lg'
+    'body': 'margin-right-0@lg'
+
+  'margin left xxxxs @lg':
+    'prefix': 'margin-left-xxxxs@lg'
+    'body': 'margin-left-xxxxs@lg'
+
+  'margin left xxxs @lg':
+    'prefix': 'margin-left-xxxs@lg'
+    'body': 'margin-left-xxxs@lg'
+
+  'margin left xxs @lg':
+    'prefix': 'margin-left-xxs@lg'
+    'body': 'margin-left-xxs@lg'
+
+  'margin left xs @lg':
+    'prefix': 'margin-left-xs@lg'
+    'body': 'margin-left-xs@lg'
+
+  'margin left sm @lg':
+    'prefix': 'margin-left-sm@lg'
+    'body': 'margin-left-sm@lg'
+
+  'margin left md @lg':
+    'prefix': 'margin-left-md@lg'
+    'body': 'margin-left-md@lg'
+
+  'margin left lg @lg':
+    'prefix': 'margin-left-lg@lg'
+    'body': 'margin-left-lg@lg'
+
+  'margin left xl @lg':
+    'prefix': 'margin-left-xl@lg'
+    'body': 'margin-left-xl@lg'
+
+  'margin left xxl @lg':
+    'prefix': 'margin-left-xxl@lg'
+    'body': 'margin-left-xxl@lg'
+
+  'margin left xxxl @lg':
+    'prefix': 'margin-left-xxxl@lg'
+    'body': 'margin-left-xxxl@lg'
+
+  'margin left xxxxl @lg':
+    'prefix': 'margin-left-xxxxl@lg'
+    'body': 'margin-left-xxxxl@lg'
+
+  'margin left auto @lg':
+    'prefix': 'margin-left-auto@lg'
+    'body': 'margin-left-auto@lg'
+
+  'margin left 0 @lg':
+    'prefix': 'margin-left-0@lg'
+    'body': 'margin-left-0@lg'
+
+  'margin x xxxxs @lg':
+    'prefix': 'margin-x-xxxxs@lg'
+    'body': 'margin-x-xxxxs@lg'
+
+  'margin x xxxs @lg':
+    'prefix': 'margin-x-xxxs@lg'
+    'body': 'margin-x-xxxs@lg'
+
+  'margin x xxs @lg':
+    'prefix': 'margin-x-xxs@lg'
+    'body': 'margin-x-xxs@lg'
+
+  'margin x xs @lg':
+    'prefix': 'margin-x-xs@lg'
+    'body': 'margin-x-xs@lg'
+
+  'margin x sm @lg':
+    'prefix': 'margin-x-sm@lg'
+    'body': 'margin-x-sm@lg'
+
+  'margin x md @lg':
+    'prefix': 'margin-x-md@lg'
+    'body': 'margin-x-md@lg'
+
+  'margin x lg @lg':
+    'prefix': 'margin-x-lg@lg'
+    'body': 'margin-x-lg@lg'
+
+  'margin x xl @lg':
+    'prefix': 'margin-x-xl@lg'
+    'body': 'margin-x-xl@lg'
+
+  'margin x xxl @lg':
+    'prefix': 'margin-x-xxl@lg'
+    'body': 'margin-x-xxl@lg'
+
+  'margin x xxxl @lg':
+    'prefix': 'margin-x-xxxl@lg'
+    'body': 'margin-x-xxxl@lg'
+
+  'margin x xxxxl @lg':
+    'prefix': 'margin-x-xxxxl@lg'
+    'body': 'margin-x-xxxxl@lg'
+
+  'margin x auto @lg':
+    'prefix': 'margin-x-auto@lg'
+    'body': 'margin-x-auto@lg'
+
+  'margin x 0 @lg':
+    'prefix': 'margin-x-0@lg'
+    'body': 'margin-x-0@lg'
+
+  'margin y xxxxs @lg':
+    'prefix': 'margin-y-xxxxs@lg'
+    'body': 'margin-y-xxxxs@lg'
+
+  'margin y xxxs @lg':
+    'prefix': 'margin-y-xxxs@lg'
+    'body': 'margin-y-xxxs@lg'
+
+  'margin y xxs @lg':
+    'prefix': 'margin-y-xxs@lg'
+    'body': 'margin-y-xxs@lg'
+
+  'margin y xs @lg':
+    'prefix': 'margin-y-xs@lg'
+    'body': 'margin-y-xs@lg'
+
+  'margin y sm @lg':
+    'prefix': 'margin-y-sm@lg'
+    'body': 'margin-y-sm@lg'
+
+  'margin y md @lg':
+    'prefix': 'margin-y-md@lg'
+    'body': 'margin-y-md@lg'
+
+  'margin y lg @lg':
+    'prefix': 'margin-y-lg@lg'
+    'body': 'margin-y-lg@lg'
+
+  'margin y xl @lg':
+    'prefix': 'margin-y-xl@lg'
+    'body': 'margin-y-xl@lg'
+
+  'margin y xxl @lg':
+    'prefix': 'margin-y-xxl@lg'
+    'body': 'margin-y-xxl@lg'
+
+  'margin y xxxl @lg':
+    'prefix': 'margin-y-xxxl@lg'
+    'body': 'margin-y-xxxl@lg'
+
+  'margin y xxxxl @lg':
+    'prefix': 'margin-y-xxxxl@lg'
+    'body': 'margin-y-xxxxl@lg'
+
+  'margin y auto @lg':
+    'prefix': 'margin-y-auto@lg'
+    'body': 'margin-y-auto@lg'
+
+  'margin y 0 @lg':
+    'prefix': 'margin-y-0@lg'
+    'body': 'margin-y-0@lg'
+
+  'margin xxxxs @xl':
+    'prefix': 'margin-xxxxs@xl'
+    'body': 'margin-xxxxs@xl'
+
+  'margin xxxs @xl':
+    'prefix': 'margin-xxxs@xl'
+    'body': 'margin-xxxs@xl'
+
+  'margin xxs @xl':
+    'prefix': 'margin-xxs@xl'
+    'body': 'margin-xxs@xl'
+
+  'margin xs @xl':
+    'prefix': 'margin-xs@xl'
+    'body': 'margin-xs@xl'
+
+  'margin sm @xl':
+    'prefix': 'margin-sm@xl'
+    'body': 'margin-sm@xl'
+
+  'margin md @xl':
+    'prefix': 'margin-md@xl'
+    'body': 'margin-md@xl'
+
+  'margin lg @xl':
+    'prefix': 'margin-lg@xl'
+    'body': 'margin-lg@xl'
+
+  'margin xl @xl':
+    'prefix': 'margin-xl@xl'
+    'body': 'margin-xl@xl'
+
+  'margin xxl @xl':
+    'prefix': 'margin-xxl@xl'
+    'body': 'margin-xxl@xl'
+
+  'margin xxxl @xl':
+    'prefix': 'margin-xxxl@xl'
+    'body': 'margin-xxxl@xl'
+
+  'margin xxxxl @xl':
+    'prefix': 'margin-xxxxl@xl'
+    'body': 'margin-xxxxl@xl'
+
+  'margin auto @xl':
+    'prefix': 'margin-auto@xl'
+    'body': 'margin-auto@xl'
+
+  'margin 0 @xl':
+    'prefix': 'margin-0@xl'
+    'body': 'margin-0@xl'
+
+  'margin top xxxxs @xl':
+    'prefix': 'margin-top-xxxxs@xl'
+    'body': 'margin-top-xxxxs@xl'
+
+  'margin top xxxs @xl':
+    'prefix': 'margin-top-xxxs@xl'
+    'body': 'margin-top-xxxs@xl'
+
+  'margin top xxs @xl':
+    'prefix': 'margin-top-xxs@xl'
+    'body': 'margin-top-xxs@xl'
+
+  'margin top xs @xl':
+    'prefix': 'margin-top-xs@xl'
+    'body': 'margin-top-xs@xl'
+
+  'margin top sm @xl':
+    'prefix': 'margin-top-sm@xl'
+    'body': 'margin-top-sm@xl'
+
+  'margin top md @xl':
+    'prefix': 'margin-top-md@xl'
+    'body': 'margin-top-md@xl'
+
+  'margin top lg @xl':
+    'prefix': 'margin-top-lg@xl'
+    'body': 'margin-top-lg@xl'
+
+  'margin top xl @xl':
+    'prefix': 'margin-top-xl@xl'
+    'body': 'margin-top-xl@xl'
+
+  'margin top xxl @xl':
+    'prefix': 'margin-top-xxl@xl'
+    'body': 'margin-top-xxl@xl'
+
+  'margin top xxxl @xl':
+    'prefix': 'margin-top-xxxl@xl'
+    'body': 'margin-top-xxxl@xl'
+
+  'margin top xxxxl @xl':
+    'prefix': 'margin-top-xxxxl@xl'
+    'body': 'margin-top-xxxxl@xl'
+
+  'margin top auto @xl':
+    'prefix': 'margin-top-auto@xl'
+    'body': 'margin-top-auto@xl'
+
+  'margin top 0 @xl':
+    'prefix': 'margin-top-0@xl'
+    'body': 'margin-top-0@xl'
+
+  'margin bottom xxxxs @xl':
+    'prefix': 'margin-bottom-xxxxs@xl'
+    'body': 'margin-bottom-xxxxs@xl'
+
+  'margin bottom xxxs @xl':
+    'prefix': 'margin-bottom-xxxs@xl'
+    'body': 'margin-bottom-xxxs@xl'
+
+  'margin bottom xxs @xl':
+    'prefix': 'margin-bottom-xxs@xl'
+    'body': 'margin-bottom-xxs@xl'
+
+  'margin bottom xs @xl':
+    'prefix': 'margin-bottom-xs@xl'
+    'body': 'margin-bottom-xs@xl'
+
+  'margin bottom sm @xl':
+    'prefix': 'margin-bottom-sm@xl'
+    'body': 'margin-bottom-sm@xl'
+
+  'margin bottom md @xl':
+    'prefix': 'margin-bottom-md@xl'
+    'body': 'margin-bottom-md@xl'
+
+  'margin bottom lg @xl':
+    'prefix': 'margin-bottom-lg@xl'
+    'body': 'margin-bottom-lg@xl'
+
+  'margin bottom xl @xl':
+    'prefix': 'margin-bottom-xl@xl'
+    'body': 'margin-bottom-xl@xl'
+
+  'margin bottom xxl @xl':
+    'prefix': 'margin-bottom-xxl@xl'
+    'body': 'margin-bottom-xxl@xl'
+
+  'margin bottom xxxl @xl':
+    'prefix': 'margin-bottom-xxxl@xl'
+    'body': 'margin-bottom-xxxl@xl'
+
+  'margin bottom xxxxl @xl':
+    'prefix': 'margin-bottom-xxxxl@xl'
+    'body': 'margin-bottom-xxxxl@xl'
+
+  'margin bottom auto @xl':
+    'prefix': 'margin-bottom-auto@xl'
+    'body': 'margin-bottom-auto@xl'
+
+  'margin bottom 0 @xl':
+    'prefix': 'margin-bottom-0@xl'
+    'body': 'margin-bottom-0@xl'
+
+  'margin right xxxxs @xl':
+    'prefix': 'margin-right-xxxxs@xl'
+    'body': 'margin-right-xxxxs@xl'
+
+  'margin right xxxs @xl':
+    'prefix': 'margin-right-xxxs@xl'
+    'body': 'margin-right-xxxs@xl'
+
+  'margin right xxs @xl':
+    'prefix': 'margin-right-xxs@xl'
+    'body': 'margin-right-xxs@xl'
+
+  'margin right xs @xl':
+    'prefix': 'margin-right-xs@xl'
+    'body': 'margin-right-xs@xl'
+
+  'margin right sm @xl':
+    'prefix': 'margin-right-sm@xl'
+    'body': 'margin-right-sm@xl'
+
+  'margin right md @xl':
+    'prefix': 'margin-right-md@xl'
+    'body': 'margin-right-md@xl'
+
+  'margin right lg @xl':
+    'prefix': 'margin-right-lg@xl'
+    'body': 'margin-right-lg@xl'
+
+  'margin right xl @xl':
+    'prefix': 'margin-right-xl@xl'
+    'body': 'margin-right-xl@xl'
+
+  'margin right xxl @xl':
+    'prefix': 'margin-right-xxl@xl'
+    'body': 'margin-right-xxl@xl'
+
+  'margin right xxxl @xl':
+    'prefix': 'margin-right-xxxl@xl'
+    'body': 'margin-right-xxxl@xl'
+
+  'margin right xxxxl @xl':
+    'prefix': 'margin-right-xxxxl@xl'
+    'body': 'margin-right-xxxxl@xl'
+
+  'margin right auto @xl':
+    'prefix': 'margin-right-auto@xl'
+    'body': 'margin-right-auto@xl'
+
+  'margin right 0 @xl':
+    'prefix': 'margin-right-0@xl'
+    'body': 'margin-right-0@xl'
+
+  'margin left xxxxs @xl':
+    'prefix': 'margin-left-xxxxs@xl'
+    'body': 'margin-left-xxxxs@xl'
+
+  'margin left xxxs @xl':
+    'prefix': 'margin-left-xxxs@xl'
+    'body': 'margin-left-xxxs@xl'
+
+  'margin left xxs @xl':
+    'prefix': 'margin-left-xxs@xl'
+    'body': 'margin-left-xxs@xl'
+
+  'margin left xs @xl':
+    'prefix': 'margin-left-xs@xl'
+    'body': 'margin-left-xs@xl'
+
+  'margin left sm @xl':
+    'prefix': 'margin-left-sm@xl'
+    'body': 'margin-left-sm@xl'
+
+  'margin left md @xl':
+    'prefix': 'margin-left-md@xl'
+    'body': 'margin-left-md@xl'
+
+  'margin left lg @xl':
+    'prefix': 'margin-left-lg@xl'
+    'body': 'margin-left-lg@xl'
+
+  'margin left xl @xl':
+    'prefix': 'margin-left-xl@xl'
+    'body': 'margin-left-xl@xl'
+
+  'margin left xxl @xl':
+    'prefix': 'margin-left-xxl@xl'
+    'body': 'margin-left-xxl@xl'
+
+  'margin left xxxl @xl':
+    'prefix': 'margin-left-xxxl@xl'
+    'body': 'margin-left-xxxl@xl'
+
+  'margin left xxxxl @xl':
+    'prefix': 'margin-left-xxxxl@xl'
+    'body': 'margin-left-xxxxl@xl'
+
+  'margin left auto @xl':
+    'prefix': 'margin-left-auto@xl'
+    'body': 'margin-left-auto@xl'
+
+  'margin left 0 @xl':
+    'prefix': 'margin-left-0@xl'
+    'body': 'margin-left-0@xl'
+
+  'margin x xxxxs @xl':
+    'prefix': 'margin-x-xxxxs@xl'
+    'body': 'margin-x-xxxxs@xl'
+
+  'margin x xxxs @xl':
+    'prefix': 'margin-x-xxxs@xl'
+    'body': 'margin-x-xxxs@xl'
+
+  'margin x xxs @xl':
+    'prefix': 'margin-x-xxs@xl'
+    'body': 'margin-x-xxs@xl'
+
+  'margin x xs @xl':
+    'prefix': 'margin-x-xs@xl'
+    'body': 'margin-x-xs@xl'
+
+  'margin x sm @xl':
+    'prefix': 'margin-x-sm@xl'
+    'body': 'margin-x-sm@xl'
+
+  'margin x md @xl':
+    'prefix': 'margin-x-md@xl'
+    'body': 'margin-x-md@xl'
+
+  'margin x lg @xl':
+    'prefix': 'margin-x-lg@xl'
+    'body': 'margin-x-lg@xl'
+
+  'margin x xl @xl':
+    'prefix': 'margin-x-xl@xl'
+    'body': 'margin-x-xl@xl'
+
+  'margin x xxl @xl':
+    'prefix': 'margin-x-xxl@xl'
+    'body': 'margin-x-xxl@xl'
+
+  'margin x xxxl @xl':
+    'prefix': 'margin-x-xxxl@xl'
+    'body': 'margin-x-xxxl@xl'
+
+  'margin x xxxxl @xl':
+    'prefix': 'margin-x-xxxxl@xl'
+    'body': 'margin-x-xxxxl@xl'
+
+  'margin x auto @xl':
+    'prefix': 'margin-x-auto@xl'
+    'body': 'margin-x-auto@xl'
+
+  'margin x 0 @xl':
+    'prefix': 'margin-x-0@xl'
+    'body': 'margin-x-0@xl'
+
+  'margin y xxxxs @xl':
+    'prefix': 'margin-y-xxxxs@xl'
+    'body': 'margin-y-xxxxs@xl'
+
+  'margin y xxxs @xl':
+    'prefix': 'margin-y-xxxs@xl'
+    'body': 'margin-y-xxxs@xl'
+
+  'margin y xxs @xl':
+    'prefix': 'margin-y-xxs@xl'
+    'body': 'margin-y-xxs@xl'
+
+  'margin y xs @xl':
+    'prefix': 'margin-y-xs@xl'
+    'body': 'margin-y-xs@xl'
+
+  'margin y sm @xl':
+    'prefix': 'margin-y-sm@xl'
+    'body': 'margin-y-sm@xl'
+
+  'margin y md @xl':
+    'prefix': 'margin-y-md@xl'
+    'body': 'margin-y-md@xl'
+
+  'margin y lg @xl':
+    'prefix': 'margin-y-lg@xl'
+    'body': 'margin-y-lg@xl'
+
+  'margin y xl @xl':
+    'prefix': 'margin-y-xl@xl'
+    'body': 'margin-y-xl@xl'
+
+  'margin y xxl @xl':
+    'prefix': 'margin-y-xxl@xl'
+    'body': 'margin-y-xxl@xl'
+
+  'margin y xxxl @xl':
+    'prefix': 'margin-y-xxxl@xl'
+    'body': 'margin-y-xxxl@xl'
+
+  'margin y xxxxl @xl':
+    'prefix': 'margin-y-xxxxl@xl'
+    'body': 'margin-y-xxxxl@xl'
+
+  'margin y auto @xl':
+    'prefix': 'margin-y-auto@xl'
+    'body': 'margin-y-auto@xl'
+
+  'margin y 0 @xl':
+    'prefix': 'margin-y-0@xl'
+    'body': 'margin-y-0@xl'
+
   'has-margin @xs':
     'prefix': 'has-margin@xs'
     'body': 'has-margin@xs'
