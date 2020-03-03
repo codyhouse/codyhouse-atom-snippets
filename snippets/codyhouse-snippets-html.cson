@@ -131,6 +131,10 @@
     'prefix': 'items-end'
     'body': 'items-end'
 
+  'items-baseline':
+    'prefix': 'items-baseline'
+    'body': 'items-baseline'
+
   'order-1':
     'prefix': 'order-1'
     'body': 'order-1'
@@ -202,6 +206,10 @@
   'items-end@xs':
     'prefix': 'items-end@xs'
     'body': 'items-end@xs'
+
+  'items-baseline@xs':
+    'prefix': 'items-baseline@xs'
+    'body': 'items-baseline@xs'
   
   'order-1@xs':
     'prefix': 'order-1@xs'
@@ -275,6 +283,10 @@
     'prefix': 'items-end@sm'
     'body': 'items-end@sm'
 
+  'items-baseline@sm':
+    'prefix': 'items-baseline@sm'
+    'body': 'items-baseline@sm'
+
   'order-1@sm':
     'prefix': 'order-1@sm'
     'body': 'order-1@sm'
@@ -346,6 +358,10 @@
   'items-end@md':
     'prefix': 'items-end@md'
     'body': 'items-end@md'
+
+  'items-baseline@md':
+    'prefix': 'items-baseline@md'
+    'body': 'items-baseline@md'
 
   'order-1@md':
     'prefix': 'order-1@md'
@@ -419,6 +435,10 @@
     'prefix': 'items-end@lg'
     'body': 'items-end@lg'
 
+  'items-baseline@lg':
+    'prefix': 'items-baseline@lg'
+    'body': 'items-baseline@lg'
+
   'order-1@lg':
     'prefix': 'order-1@lg'
     'body': 'order-1@lg'
@@ -490,6 +510,10 @@
   'items-end@xl':
     'prefix': 'items-end@xl'
     'body': 'items-end@xl'
+
+  'items-baseline@xl':
+    'prefix': 'items-baseline@xl'
+    'body': 'items-baseline@xl'
 
   'order-1@xl':
     'prefix': 'order-1@xl'
@@ -6331,6 +6355,10 @@
     'prefix': 'ws-nowrap'
     'body': 'ws-nowrap'
 
+  'cursor pointer':
+    'prefix': 'cursor-pointer'
+    'body': 'cursor-pointer'
+
   'text-align center':
     'prefix': 'text-center'
     'body': 'text-center'
@@ -6588,16 +6616,16 @@
     'body': 'color-opacity-90%'
 
   'z-index 1':
-    'prefix': 'zindex-1'
-    'body': 'zindex-1'
+    'prefix': 'z-index-1'
+    'body': 'z-index-1'
 
   'z-index 2':
-    'prefix': 'zindex-2'
-    'body': 'zindex-2'
+    'prefix': 'z-index-2'
+    'body': 'z-index-2'
 
   'z-index 3':
-    'prefix': 'zindex-3'
-    'body': 'zindex-3'
+    'prefix': 'z-index-3'
+    'body': 'z-index-3'
 
   'width xxxxs':
     'prefix': 'width-xxxxs'
