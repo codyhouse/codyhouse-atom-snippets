@@ -6339,6 +6339,10 @@
     'prefix': 'is-hidden'
     'body': 'is-hidden'
 
+  'no-js is hidden':
+    'prefix': 'no-js:is-hidden'
+    'body': 'no-js:is-hidden'
+
   'truncate text':
     'prefix': 'text-truncate'
     'body': 'text-truncate'
