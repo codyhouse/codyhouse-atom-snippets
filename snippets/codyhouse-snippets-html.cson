@@ -5050,6 +5050,10 @@
   'max-width xxxxl':
     'prefix': 'max-width-xxxxl'
     'body': 'max-width-xxxxl'
+  
+  'max-width 100%':
+    'prefix': 'max-width-100%'
+    'body': 'max-width-100%'
 
   'max-width adaptive sm':
     'prefix': 'max-width-adaptive-sm'
@@ -5159,6 +5163,10 @@
     'prefix': 'gap-xxxxl@xs'
     'body': 'gap-xxxxl@xs'
 
+  'gap 0@xs':
+    'prefix': 'gap-0@xs'
+    'body': 'gap-0@xs'
+
   'gap xxxxs@sm':
     'prefix': 'gap-xxxxs@sm'
     'body': 'gap-xxxxs@sm'
@@ -5202,6 +5210,10 @@
   'gap xxxxl@sm':
     'prefix': 'gap-xxxxl@sm'
     'body': 'gap-xxxxl@sm'
+
+  'gap 0@sm':
+    'prefix': 'gap-0@sm'
+    'body': 'gap-0@sm'
 
   'gap xxxxs@md':
     'prefix': 'gap-xxxxs@md'
@@ -5247,6 +5259,10 @@
     'prefix': 'gap-xxxxl@md'
     'body': 'gap-xxxxl@md'
 
+  'gap 0@md':
+    'prefix': 'gap-0@md'
+    'body': 'gap-0@md'
+
   'gap xxxxs@lg':
     'prefix': 'gap-xxxxs@lg'
     'body': 'gap-xxxxs@lg'
@@ -5291,6 +5307,10 @@
     'prefix': 'gap-xxxxl@lg'
     'body': 'gap-xxxxl@lg'
 
+  'gap 0@lg':
+    'prefix': 'gap-0@lg'
+    'body': 'gap-0@lg'
+
   'gap xxxxs@xl':
     'prefix': 'gap-xxxxs@xl'
     'body': 'gap-xxxxs@xl'
@@ -5334,6 +5354,10 @@
   'gap xxxxl@xl':
     'prefix': 'gap-xxxxl@xl'
     'body': 'gap-xxxxl@xl'
+
+  'gap 0@xl':
+    'prefix': 'gap-0@xl'
+    'body': 'gap-0@xl'
 
   'col':
     'prefix': 'col'
@@ -6363,6 +6387,18 @@
     'prefix': 'cursor-pointer'
     'body': 'cursor-pointer'
 
+  'pointer events none':
+    'prefix': 'pointer-events-none'
+    'body': 'pointer-events-none'
+
+  'user select none':
+    'prefix': 'user-select-none'
+    'body': 'user-select-none'
+
+  'user select all':
+    'prefix': 'user-select-all'
+    'body': 'user-select-all'
+
   'text-align center':
     'prefix': 'text-center'
     'body': 'text-center'
@@ -6847,6 +6883,14 @@
     'prefix': 'height-auto'
     'body': 'height-auto'
 
+  'max-height 100%':
+    'prefix': 'max-height-100%'
+    'body': 'max-height-100%'
+
+  'max-height 100vh':
+    'prefix': 'max-height-100vh'
+    'body': 'max-height-100vh'
+
   'media/iframe wrapper':
     'prefix': 'media-wrapper'
     'body': 'media-wrapper'
@@ -6898,6 +6942,10 @@
   'border-3':
     'prefix': 'border-3'
     'body': 'border-3'
+  
+  'border-4':
+    'prefix': 'border-4'
+    'body': 'border-4'
   
   'border background':
     'prefix': 'border-bg'
@@ -7494,6 +7542,10 @@
   'overflow auto':
     'prefix': 'overflow-auto'
     'body': 'overflow-auto'
+
+  'opacity 0':
+    'prefix': 'opacity-0'
+    'body': 'opacity-0'
 
   'opacity 10%':
     'prefix': 'opacity-10%'
