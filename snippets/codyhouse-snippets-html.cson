@@ -5359,6 +5359,30 @@
     'prefix': 'gap-0@xl'
     'body': 'gap-0@xl'
 
+  'col-content':
+    'prefix': 'col-content'
+    'body': 'col-content'
+
+  'col-content@xs':
+    'prefix': 'col-content@xs'
+    'body': 'col-content@xs'
+
+  'col-content@sm':
+    'prefix': 'col-content@sm'
+    'body': 'col-content@sm'
+  
+  'col-content@md':
+    'prefix': 'col-content@md'
+    'body': 'col-content@md'
+
+  'col-content@lg':
+    'prefix': 'col-content@lg'
+    'body': 'col-content@lg'
+
+  'col-content@xl':
+    'prefix': 'col-content@xl'
+    'body': 'col-content@xl'
+
   'col':
     'prefix': 'col'
     'body': 'col'
@@ -6366,6 +6390,10 @@
   'no-js is hidden':
     'prefix': 'no-js:is-hidden'
     'body': 'no-js:is-hidden'
+
+  'print is hidden':
+    'prefix': 'print:is-hidden'
+    'body': 'print:is-hidden'
 
   'truncate text':
     'prefix': 'text-truncate'
