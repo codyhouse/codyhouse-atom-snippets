@@ -35,6 +35,10 @@
     'prefix': 'icon'
     'body': 'icon'
 
+  'icon xxxs':
+    'prefix': 'icon--xxxs'
+    'body': 'icon--xxxs'
+
   'icon xxs':
     'prefix': 'icon--xxs'
     'body': 'icon--xxs'
@@ -62,6 +66,10 @@
   'icon xxl':
     'prefix': 'icon--xxl'
     'body': 'icon--xxl'
+
+  'icon xxxl':
+    'prefix': 'icon--xxxl'
+    'body': 'icon--xxxl'
 
   'icon is-spinning':
     'prefix': 'icon--is-spinning'
