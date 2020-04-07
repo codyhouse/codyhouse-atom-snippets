@@ -6423,9 +6423,13 @@
     'prefix': 'cursor-pointer'
     'body': 'cursor-pointer'
 
-  'pointer events none':
+  'pointer-events none':
     'prefix': 'pointer-events-none'
     'body': 'pointer-events-none'
+
+  'pointer-events auto':
+    'prefix': 'pointer-events-auto'
+    'body': 'pointer-events-auto'
 
   'user select none':
     'prefix': 'user-select-none'
