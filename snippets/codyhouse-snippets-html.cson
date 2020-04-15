@@ -6091,6 +6091,26 @@
     'prefix': 'text-xxxxl'
     'body': 'text-xxxxl'
 
+  'text-xxxxl @xs':
+    'prefix': 'text-xxxxl@xs'
+    'body': 'text-xxxxl@xs'
+
+  'text-xxxxl @sm':
+    'prefix': 'text-xxxxl@sm'
+    'body': 'text-xxxxl@sm'
+
+  'text-xxxxl @md':
+    'prefix': 'text-xxxxl@md'
+    'body': 'text-xxxxl@md'
+
+  'text-xxxxl @lg':
+    'prefix': 'text-xxxxl@lg'
+    'body': 'text-xxxxl@lg'
+
+  'text-xxxxl @xl':
+    'prefix': 'text-xxxxl@xl'
+    'body': 'text-xxxxl@xl'
+
   'text-xxxl':
     'prefix': 'text-xxxl'
     'body': 'text-xxxl'
