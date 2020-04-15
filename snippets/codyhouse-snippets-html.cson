@@ -6087,6 +6087,10 @@
     'prefix': 'offset-11@xl'
     'body': 'offset-11@xl'
 
+  'text-xxxxl':
+    'prefix': 'text-xxxxl'
+    'body': 'text-xxxxl'
+
   'text-xxxl':
     'prefix': 'text-xxxl'
     'body': 'text-xxxl'
@@ -7594,6 +7598,14 @@
   'overflow auto':
     'prefix': 'overflow-auto'
     'body': 'overflow-auto'
+
+  'momentum scrolling':
+    'prefix': 'momentum-scrolling'
+    'body': 'momentum-scrolling'
+
+  'overscroll contain':
+    'prefix': 'overscroll-contain'
+    'body': 'overscroll-contain'
 
   'opacity 0':
     'prefix': 'opacity-0'
