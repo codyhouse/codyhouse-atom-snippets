@@ -6331,6 +6331,10 @@
     'prefix': 'text-bold'
     'body': 'text-bold'
 
+  'font-italic':
+    'prefix': 'font-italic'
+    'body': 'font-italic'
+
   'font-smooth':
     'prefix': 'font-smooth'
     'body': 'font-smooth'
@@ -6730,6 +6734,22 @@
   'z-index 3':
     'prefix': 'z-index-3'
     'body': 'z-index-3'
+
+  'z-index-header':
+    'prefix': 'z-index-header'
+    'body': 'z-index-header'
+
+  'z-index-popover':
+    'prefix': 'z-index-popover'
+    'body': 'z-index-popover'
+
+  'z-index-fixed-element':
+    'prefix': 'z-index-fixed-element'
+    'body': 'z-index-fixed-element'
+
+  'z-index-overlay':
+    'prefix': 'z-index-overlay'
+    'body': 'z-index-overlay'
 
   'width xxxxs':
     'prefix': 'width-xxxxs'
@@ -7674,3 +7694,27 @@
   'object cover':
     'prefix': 'object-cover'
     'body': 'object-cover'
+
+  'isolate':
+    'prefix': 'isolate'
+    'body': 'isolate'
+
+  'blend-multiply':
+    'prefix': 'blend-multiply'
+    'body': 'blend-multiply'
+
+  'blend-overlay':
+    'prefix': 'blend-overlay'
+    'body': 'blend-overlay'
+
+  'flip':
+    'prefix': 'flip'
+    'body': 'flip'
+
+  'flip-x':
+    'prefix': 'flip-x'
+    'body': 'flip-x'
+
+  'flip-y':
+    'prefix': 'flip-y'
+    'body': 'flip-y'
