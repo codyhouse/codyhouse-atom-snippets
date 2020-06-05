@@ -667,6 +667,10 @@
     'prefix': 'margin-auto'
     'body': 'margin-auto'
 
+  'margin 0':
+    'prefix': 'margin-0'
+    'body': 'margin-0'
+
   'margin top xxxxs':
     'prefix': 'margin-top-xxxxs'
     'body': 'margin-top-xxxxs'
@@ -714,6 +718,10 @@
   'margin top auto':
     'prefix': 'margin-top-auto'
     'body': 'margin-top-auto'
+
+  'margin top 0':
+    'prefix': 'margin-top-0'
+    'body': 'margin-top-0'
 
   'margin bottom xxxxs':
     'prefix': 'margin-bottom-xxxxs'
@@ -763,6 +771,10 @@
     'prefix': 'margin-bottom-auto'
     'body': 'margin-bottom-auto'
 
+  'margin bottom 0':
+    'prefix': 'margin-bottom-0'
+    'body': 'margin-bottom-0'
+
   'margin right xxxxs':
     'prefix': 'margin-right-xxxxs'
     'body': 'margin-right-xxxxs'
@@ -811,6 +823,10 @@
     'prefix': 'margin-right-auto'
     'body': 'margin-right-auto'
 
+  'margin right 0':
+    'prefix': 'margin-right-0'
+    'body': 'margin-right-0'
+
   'margin left xxxxs':
     'prefix': 'margin-left-xxxxs'
     'body': 'margin-left-xxxxs'
@@ -858,6 +874,10 @@
   'margin left auto':
     'prefix': 'margin-left-auto'
     'body': 'margin-left-auto'
+
+  'margin left 0':
+    'prefix': 'margin-left-0'
+    'body': 'margin-left-0'
 
   'margin x xxxxs':
     'prefix': 'margin-x-xxxxs'
@@ -2843,6 +2863,10 @@
     'prefix': 'padding-component'
     'body': 'padding-component'
 
+  'padding 0':
+    'prefix': 'padding-0'
+    'body': 'padding-0'
+
   'padding top xxxxs':
     'prefix': 'padding-top-xxxxs'
     'body': 'padding-top-xxxxs'
@@ -2890,6 +2914,10 @@
   'padding top component':
     'prefix': 'padding-top-component'
     'body': 'padding-top-component'
+
+  'padding top 0':
+    'prefix': 'padding-top-0'
+    'body': 'padding-top-0'
 
   'padding bottom xxxxs':
     'prefix': 'padding-bottom-xxxxs'
@@ -2939,6 +2967,10 @@
     'prefix': 'padding-bottom-component'
     'body': 'padding-bottom-component'
 
+  'padding bottom 0':
+    'prefix': 'padding-bottom-0'
+    'body': 'padding-bottom-0'
+
   'padding right xxxxs':
     'prefix': 'padding-right-xxxxs'
     'body': 'padding-right-xxxxs'
@@ -2987,6 +3019,10 @@
     'prefix': 'padding-right-component'
     'body': 'padding-right-component'
 
+  'padding right 0':
+    'prefix': 'padding-right-0'
+    'body': 'padding-right-0'
+
   'padding left xxxxs':
     'prefix': 'padding-left-xxxxs'
     'body': 'padding-left-xxxxs'
@@ -3034,6 +3070,10 @@
   'padding left component':
     'prefix': 'padding-left-component'
     'body': 'padding-left-component'
+
+  'padding left 0':
+    'prefix': 'padding-left-0'
+    'body': 'padding-left-0'
 
   'padding x xxxxs':
     'prefix': 'padding-x-xxxxs'
@@ -6451,6 +6491,10 @@
     'prefix': 'cursor-pointer'
     'body': 'cursor-pointer'
 
+  'cursor default':
+    'prefix': 'cursor-default'
+    'body': 'cursor-default'
+
   'pointer-events none':
     'prefix': 'pointer-events-none'
     'body': 'pointer-events-none'
@@ -6538,6 +6582,30 @@
   'text-align right @xl':
     'prefix': 'text-right@xl'
     'body': 'text-right@xl'
+
+  'text-align justify':
+    'prefix': 'text-justify'
+    'body': 'text-justify'
+
+  'text-align justify @xs':
+    'prefix': 'text-justify@xs'
+    'body': 'text-justify@xs'
+
+  'text-align justify @sm':
+    'prefix': 'text-justify@sm'
+    'body': 'text-justify@sm'
+
+  'text-align justify @md':
+    'prefix': 'text-justify@md'
+    'body': 'text-justify@md'
+
+  'text-align justify @lg':
+    'prefix': 'text-justify@lg'
+    'body': 'text-justify@lg'
+
+  'text-align justify @xl':
+    'prefix': 'text-justify@xl'
+    'body': 'text-justify@xl'
 
   'text-transform uppercase':
     'prefix': 'text-uppercase'
@@ -6687,6 +6755,10 @@
     'prefix': 'color-error-lighter'
     'body': 'color-error-lighter'
 
+  'color opacity 0':
+    'prefix': 'color-opacity-0'
+    'body': 'color-opacity-0'
+
   'color opacity 10%':
     'prefix': 'color-opacity-10%'
     'body': 'color-opacity-10%'
@@ -6795,6 +6867,10 @@
     'prefix': 'width-xxxxl'
     'body': 'width-xxxxl'
 
+  'width 0':
+    'prefix': 'width-0'
+    'body': 'width-0'
+
   'width 10%':
     'prefix': 'width-10%'
     'body': 'width-10%'
@@ -6902,6 +6978,10 @@
   'height xxxxl':
     'prefix': 'height-xxxxl'
     'body': 'height-xxxxl'
+
+  'height 0':
+    'prefix': 'height-0'
+    'body': 'height-0'
 
   'height 10%':
     'prefix': 'height-10%'
@@ -7163,6 +7243,10 @@
     'prefix': 'border-black'
     'body': 'border-black'
 
+  'border opacity 0':
+    'prefix': 'border-opacity-0'
+    'body': 'border-opacity-0'
+
   'border opacity 10%':
     'prefix': 'border-opacity-10%'
     'body': 'border-opacity-10%'
@@ -7214,6 +7298,10 @@
   'radius 50%':
     'prefix': 'radius-50%'
     'body': 'radius-50%'
+
+  'radius full':
+    'prefix': 'radius-full'
+    'body': 'radius-full'
 
   'shadow xs':
     'prefix': 'shadow-xs'
@@ -7430,6 +7518,10 @@
   'background black':
     'prefix': 'bg-black'
     'body': 'bg-black'
+
+  'background opacity 0':
+    'prefix': 'bg-opacity-0'
+    'body': 'bg-opacity-0'
 
   'background opacity 10%':
     'prefix': 'bg-opacity-10%'
