@@ -1,6 +1,6 @@
-# CodyHouse Snippets for Atom
+# CodyFrame Snippets for Atom
 
-A collection of completions for Atom, based on the CodyHouse Framework.
+A collection of CodyFrame completions for Atom.
 
 The extension provides autocompletion for `HTML` (`CSS` utility classes), `SCSS` (custom properties), and `JS` utility functions.
 
