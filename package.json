@@ -1,7 +1,7 @@
 {
   "name": "codyhouse-snippets",
   "main": "./codyhouse-atom-snippets/README.md",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "description": "CodyHouse snippets for Atom",
   "keywords": [
     "sass",
