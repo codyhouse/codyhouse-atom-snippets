@@ -215,9 +215,9 @@
     'prefix': 'textUnit'
     'body': '@include textUnit(${1:textUnit} ${2:textScaleRatio: 1.2});'
 
-  'bounce timing function':
-    'prefix': 'bounce timing function'
-    'body': 'var(--bounce)'
+  'ease-out-back timing function':
+    'prefix': 'ease-out-back timing function'
+    'body': 'var(--ease-out-back)'
 
   'ease-in-out timing function':
     'prefix': 'ease-in-out timing function'
