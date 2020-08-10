@@ -15,19 +15,23 @@
     'prefix': 'btn--subtle'
     'body': 'btn--subtle'
 
-  'button--accent':
+  'button accent':
     'prefix': 'btn--accent'
     'body': 'btn--accent'
 
-  'button sm':
+  'button disabled ':
+    'prefix': 'btn--disabled'
+    'body': 'btn--disabled'
+
+  'button small':
     'prefix': 'btn--sm'
     'body': 'btn--sm'
 
-  'button md':
+  'button medium':
     'prefix': 'btn--md'
     'body': 'btn--md'
 
-  'button lg':
+  'button large':
     'prefix': 'btn--lg'
     'body': 'btn--lg'
 
@@ -7302,6 +7306,22 @@
   'radius full':
     'prefix': 'radius-full'
     'body': 'radius-full'
+
+  'radius top left 0':
+    'prefix': 'radius-top-left-0'
+    'body': 'radius-top-left-0'
+
+  'radius top right 0':
+    'prefix': 'radius-top-right-0'
+    'body': 'radius-top-right-0'
+
+  'radius bottom right 0':
+    'prefix': 'radius-bottom-right-0'
+    'body': 'radius-bottom-right-0'
+
+  'radius bottom left 0':
+    'prefix': 'radius-bottom-left-0'
+    'body': 'radius-bottom-left-0'
 
   'shadow xs':
     'prefix': 'shadow-xs'
