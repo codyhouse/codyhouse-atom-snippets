@@ -5051,18 +5051,6 @@
     'prefix': 'form-label'
     'body': 'form-label'
 
-  'form error message':
-    'prefix': 'form-error-msg'
-    'body': 'form-error-msg'
-
-  'radio list':
-    'prefix': 'radio-list'
-    'body': 'radio-list'
-
-  'checkbox list':
-    'prefix': 'checkbox-list'
-    'body': 'checkbox-list'
-
   'container':
     'prefix': 'container'
     'body': 'container'
