@@ -5035,6 +5035,14 @@
     'prefix': 'form-control'
     'body': 'form-control'
 
+  'form control disabled':
+    'prefix': 'form-control--disabled'
+    'body': 'form-control--disabled'
+
+  'form control error':
+    'prefix': 'form-control--error'
+    'body': 'form-control--error'
+
   'form legend':
     'prefix': 'form-legend'
     'body': 'form-legend'
