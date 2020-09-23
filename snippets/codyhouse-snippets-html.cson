@@ -7859,11 +7859,11 @@
     'prefix': 'isolate'
     'body': 'isolate'
 
-  'blend-multiply':
+  'blend multiply':
     'prefix': 'blend-multiply'
     'body': 'blend-multiply'
 
-  'blend-overlay':
+  'blend overlay':
     'prefix': 'blend-overlay'
     'body': 'blend-overlay'
 
@@ -7879,62 +7879,62 @@
     'prefix': 'flip-y'
     'body': 'flip-y'
   
-  'space-unit-rem':
+  'space-unit rem':
     'prefix': 'space-unit-rem'
     'body': 'space-unit-rem'
 
-  'space-unit-em':
+  'space-unit em':
     'prefix': 'space-unit-em'
     'body': 'space-unit-em'
 
-  'space-unit-px':
+  'space-unit px':
     'prefix': 'space-unit-px'
     'body': 'space-unit-px'
   
-  'text-unit-rem':
+  'text-unit rem':
     'prefix': 'text-unit-rem'
     'body': 'text-unit-rem'
 
-  'text-unit-em':
+  'text-unit em':
     'prefix': 'text-unit-em'
     'body': 'text-unit-em'
 
-  'text-unit-px':
+  'text-unit px':
     'prefix': 'text-unit-px'
     'body': 'text-unit-px'
   
-  'break-word':
+  'break word':
     'prefix': 'break-word'
     'body': 'break-word'
 
-  'text-shadow-xs':
+  'text-shadow xs':
     'prefix': 'text-shadow-xs'
     'body': 'text-shadow-xs'
 
-  'text-shadow-sm':
+  'text-shadow sm':
     'prefix': 'text-shadow-sm'
     'body': 'text-shadow-sm'
 
-  'text-shadow-md':
+  'text-shadow md':
     'prefix': 'text-shadow-md'
     'body': 'text-shadow-md'
 
-  'text-shadow-lg':
+  'text-shadow lg':
     'prefix': 'text-shadow-lg'
     'body': 'text-shadow-lg'
 
-  'text-shadow-xl':
+  'text-shadow xl':
     'prefix': 'text-shadow-xl'
     'body': 'text-shadow-xl'
 
-  'text-shadow-none':
+  'text-shadow none':
     'prefix': 'text-shadow-none'
     'body': 'text-shadow-none'
 
-  'radius-0':
+  'radius 0':
     'prefix': 'radius-0'
     'body': 'radius-0'
   
-  'shadow-none':
+  'shadow none':
     'prefix': 'shadow-none'
     'body': 'shadow-none'
