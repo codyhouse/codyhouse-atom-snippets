@@ -307,6 +307,10 @@
     'prefix': 'space-xxxxl'
     'body': 'var(--space-xxxxl)'
 
+  'space unit':
+    'prefix': 'space-unit'
+    'body': '--space-unit'
+
   'component padding':
     'prefix': 'component-padding'
     'body': 'var(--component-padding)'
@@ -366,6 +370,10 @@
   'text xxxl':
     'prefix': 'text-xxxl'
     'body': 'var(--text-xxxl)'
+
+  'text unit':
+    'prefix': 'text-unit'
+    'body': '--text-unit'
 
   'display value':
     'prefix': 'display'

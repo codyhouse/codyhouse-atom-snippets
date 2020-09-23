@@ -543,6 +543,14 @@
     'prefix': 'flex-grow'
     'body': 'flex-grow'
 
+  'flex-grow-0':
+    'prefix': 'flex-grow-0'
+    'body': 'flex-grow-0'
+
+  'flex-shrink':
+    'prefix': 'flex-shrink'
+    'body': 'flex-shrink'
+
   'flex-shrink-0':
     'prefix': 'flex-shrink-0'
     'body': 'flex-shrink-0'
@@ -551,6 +559,10 @@
     'prefix': 'flex-basis-0'
     'body': 'flex-basis-0'
 
+  'flex-grow@xs':
+    'prefix': 'flex-grow@xs'
+    'body': 'flex-grow@xs'
+
   'flex-grow-0@xs':
     'prefix': 'flex-grow-0@xs'
     'body': 'flex-grow-0@xs'
@@ -558,6 +570,14 @@
   'flex-shrink@xs':
     'prefix': 'flex-shrink@xs'
     'body': 'flex-shrink@xs'
+  
+  'flex-shrink-0@xs':
+    'prefix': 'flex-shrink-0@xs'
+    'body': 'flex-shrink-0@xs'
+
+  'flex-basis-0@xs':
+    'prefix': 'flex-basis-0@xs'
+    'body': 'flex-basis-0@xs'
 
   'flex-grow-0@sm':
     'prefix': 'flex-grow-0@sm'
@@ -575,6 +595,10 @@
     'prefix': 'flex-shrink@sm'
     'body': 'flex-shrink@sm'
 
+  'flex-basis-0@sm':
+    'prefix': 'flex-basis-0@sm'
+    'body': 'flex-basis-0@sm'
+
   'flex-grow-0@md':
     'prefix': 'flex-grow-0@md'
     'body': 'flex-grow-0@md'
@@ -590,6 +614,10 @@
   'flex-shrink@md':
     'prefix': 'flex-shrink@md'
     'body': 'flex-shrink@md'
+
+  'flex-basis-0@md':
+    'prefix': 'flex-basis-0@md'
+    'body': 'flex-basis-0@md'
 
   'flex-grow-0@lg':
     'prefix': 'flex-grow-0@lg'
@@ -607,6 +635,10 @@
     'prefix': 'flex-shrink@lg'
     'body': 'flex-shrink@lg'
 
+  'flex-basis-0@lg':
+    'prefix': 'flex-basis-0@lg'
+    'body': 'flex-basis-0@lg'
+
   'flex-grow-0@xl':
     'prefix': 'flex-grow-0@xl'
     'body': 'flex-grow-0@xl'
@@ -622,6 +654,10 @@
   'flex-shrink@xl':
     'prefix': 'flex-shrink@xl'
     'body': 'flex-shrink@xl'
+
+  'flex-basis-0@xl':
+    'prefix': 'flex-basis-0@xl'
+    'body': 'flex-basis-0@xl'
 
   'margin xxxxs':
     'prefix': 'margin-xxxxs'
@@ -7367,6 +7403,14 @@
     'prefix': 'line-height-heading'
     'body': 'line-height-heading'
 
+  'line-height normal':
+    'prefix': 'line-height-normal'
+    'body': 'line-height-normal'
+
+  'line-height 1':
+    'prefix': 'line-height-1'
+    'body': 'line-height-1'
+
   'vertical space xxs':
     'prefix': 'v-space-xxs'
     'body': 'v-space-xxs'
@@ -7834,3 +7878,63 @@
   'flip-y':
     'prefix': 'flip-y'
     'body': 'flip-y'
+  
+  'space-unit-rem':
+    'prefix': 'space-unit-rem'
+    'body': 'space-unit-rem'
+
+  'space-unit-em':
+    'prefix': 'space-unit-em'
+    'body': 'space-unit-em'
+
+  'space-unit-px':
+    'prefix': 'space-unit-px'
+    'body': 'space-unit-px'
+  
+  'text-unit-rem':
+    'prefix': 'text-unit-rem'
+    'body': 'text-unit-rem'
+
+  'text-unit-em':
+    'prefix': 'text-unit-em'
+    'body': 'text-unit-em'
+
+  'text-unit-px':
+    'prefix': 'text-unit-px'
+    'body': 'text-unit-px'
+  
+  'break-word':
+    'prefix': 'break-word'
+    'body': 'break-word'
+
+  'text-shadow-xs':
+    'prefix': 'text-shadow-xs'
+    'body': 'text-shadow-xs'
+
+  'text-shadow-sm':
+    'prefix': 'text-shadow-sm'
+    'body': 'text-shadow-sm'
+
+  'text-shadow-md':
+    'prefix': 'text-shadow-md'
+    'body': 'text-shadow-md'
+
+  'text-shadow-lg':
+    'prefix': 'text-shadow-lg'
+    'body': 'text-shadow-lg'
+
+  'text-shadow-xl':
+    'prefix': 'text-shadow-xl'
+    'body': 'text-shadow-xl'
+
+  'text-shadow-none':
+    'prefix': 'text-shadow-none'
+    'body': 'text-shadow-none'
+
+  'radius-0':
+    'prefix': 'radius-0'
+    'body': 'radius-0'
+  
+  'shadow-none':
+    'prefix': 'shadow-none'
+    'body': 'shadow-none'
