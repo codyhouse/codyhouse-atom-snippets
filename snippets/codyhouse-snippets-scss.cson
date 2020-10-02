@@ -213,7 +213,7 @@
 
   'textUnit':
     'prefix': 'textUnit'
-    'body': '@include textUnit(${1:textUnit} ${2:textScaleRatio: 1.2});'
+    'body': '@include textUnit(${1:textUnit});'
 
   'ease-out-back timing function':
     'prefix': 'ease-out-back timing function'
