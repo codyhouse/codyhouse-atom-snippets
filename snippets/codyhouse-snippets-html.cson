@@ -9750,3 +9750,71 @@
   'shadow none':
     'prefix': 'shadow-none'
     'body': 'shadow-none'
+
+  'aspect-ratio 16:9':
+    'prefix': 'aspect-ratio-16:9'
+    'body': 'aspect-ratio-16:9'
+
+  'aspect-ratio 4:3':
+    'prefix': 'aspect-ratio-4:3'
+    'body': 'aspect-ratio-4:3'
+
+  'aspect-ratio 1:1':
+    'prefix': 'aspect-ratio-1:1'
+    'body': 'aspect-ratio-1:1'
+
+  'perspective xs':
+    'prefix': 'perspective-xs'
+    'body': 'perspective-xs'
+
+  'perspective sm':
+    'prefix': 'perspective-sm'
+    'body': 'perspective-sm'
+
+  'perspective md':
+    'prefix': 'perspective-md'
+    'body': 'perspective-md'
+
+  'perspective lg':
+    'prefix': 'perspective-lg'
+    'body': 'perspective-lg'
+
+  'perspective xl':
+    'prefix': 'perspective-xl'
+    'body': 'perspective-xl'
+
+  'transform-origin center':
+    'prefix': 'origin-center'
+    'body': 'origin-center'
+
+  'transform-origin top':
+    'prefix': 'origin-top'
+    'body': 'origin-top'
+
+  'transform-origin right':
+    'prefix': 'origin-right'
+    'body': 'origin-right'
+
+  'transform-origin bottom':
+    'prefix': 'origin-bottom'
+    'body': 'origin-bottom'
+
+  'transform-origin left':
+    'prefix': 'origin-left'
+    'body': 'origin-left'
+
+  'transform-origin top-left':
+    'prefix': 'origin-top-left'
+    'body': 'origin-top-left'
+
+  'transform-origin top-right':
+    'prefix': 'origin-top-right'
+    'body': 'origin-top-right'
+
+  'transform-origin bottom-right':
+    'prefix': 'origin-bottom-right'
+    'body': 'origin-bottom-right'
+
+  'transform-origin bottom-left':
+    'prefix': 'origin-bottom-left'
+    'body': 'origin-bottom-left'
