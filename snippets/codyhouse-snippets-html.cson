@@ -6691,6 +6691,26 @@
     'prefix': 'offset-11@xl'
     'body': 'offset-11@xl'
 
+  'offset-0@xs':
+    'prefix': 'offset-0@xs'
+    'body': 'offset-0@xs'
+
+  'offset-0@sm':
+    'prefix': 'offset-0@sm'
+    'body': 'offset-0@sm'
+
+  'offset-0@md':
+    'prefix': 'offset-0@md'
+    'body': 'offset-0@md'
+
+  'offset-0@lg':
+    'prefix': 'offset-0@lg'
+    'body': 'offset-0@lg'
+
+  'offset-0@xl':
+    'prefix': 'offset-0@xl'
+    'body': 'offset-0@xl'
+
   'text-xxxxl':
     'prefix': 'text-xxxxl'
     'body': 'text-xxxxl'
