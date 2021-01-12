@@ -189,11 +189,11 @@
 
   'lhCrop':
     'prefix': 'lhCrop'
-    'body': '@include lhCrop(${1:lineHeight} ${2:var(--font-primary-capital-letter): 1});'
+    'body': '@include lhCrop(${1:lineHeight}, ${2:var(--font-primary-capital-letter): 1});'
 
   'triangle':
     'prefix': 'triangle'
-    'body': '@include triangle(${1:direction: up/down/left/right} ${2:width: 12px} ${3:color});'
+    'body': '@include triangle(${1:direction: up/down/left/right}, ${2:width: 12px}, ${3:color});'
 
   'reset (mixin)':
     'prefix': 'reset'
