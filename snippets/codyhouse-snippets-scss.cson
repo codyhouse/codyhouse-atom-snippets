@@ -201,15 +201,15 @@
 
   'alpha color function':
     'prefix': 'alpha'
-    'body': 'alpha(${1:color}, ${2:opacity: 1});'
+    'body': 'alpha(${1:var(--color-name)}, ${2:opacity: 1});'
 
   'lightness color function':
     'prefix': 'lightness'
-    'body': 'lightness(${1:color}, ${2:lightnessMultiplier: 1});'
+    'body': 'lightness(${1:var(--color-name)}, ${2:lightnessMultiplier: 1});'
 
   'adjustHSLA color function':
     'prefix': 'adjustHSLA'
-    'body': 'adjustHSLA(${1:color}, ${2:hueMultiplier: 1}, ${3:saturationMultiplier: 1}, ${4:lightnessMultiplier: 1}, ${5:opacity: 1});'
+    'body': 'adjustHSLA(${1:var(--color-name)}, ${2:hueMultiplier: 1}, ${3:saturationMultiplier: 1}, ${4:lightnessMultiplier: 1}, ${5:opacity: 1});'
 
   'spaceUnit':
     'prefix': 'spaceUnit'
