@@ -9435,17 +9435,37 @@
     'prefix': 'top-0'
     'body': 'top-0'
 
+  'top 50%':
+    'prefix': 'top-50%'
+    'body': 'top-50%'
+
   'bottom 0':
     'prefix': 'bottom-0'
     'body': 'bottom-0'
+
+  'bottom 50%':
+    'prefix': 'bottom-50%'
+    'body': 'bottom-50%'
 
   'right 0':
     'prefix': 'right-0'
     'body': 'right-0'
 
+  'right 50%':
+    'prefix': 'right-50%'
+    'body': 'right-50%'
+
   'left 0':
     'prefix': 'left-0'
     'body': 'left-0'
+
+  'left 50%':
+    'prefix': 'left-50%'
+    'body': 'left-50%'
+
+  'inset 0':
+    'prefix': 'inset-0'
+    'body': 'inset-0'
   
   'position relative @xs':
     'prefix': 'position-relative@xs'
@@ -9463,6 +9483,10 @@
     'prefix': 'position-sticky@xs'
     'body': 'position-sticky@xs'
 
+  'position static @xs':
+    'prefix': 'position-static@xs'
+    'body': 'position-static@xs'
+
   'top 0 @xs':
     'prefix': 'top-0@xs'
     'body': 'top-0@xs'
@@ -9478,6 +9502,26 @@
   'left 0 @xs':
     'prefix': 'left-0@xs'
     'body': 'left-0@xs'
+
+  'top 50% @xs':
+    'prefix': 'top-50%@xs'
+    'body': 'top-50%@xs'
+
+  'bottom 50% @xs':
+    'prefix': 'bottom-50%@xs'
+    'body': 'bottom-50%@xs'
+
+  'right 50% @xs':
+    'prefix': 'right-50%@xs'
+    'body': 'right-50%@xs'
+
+  'left 50% @xs':
+    'prefix': 'left-50%@xs'
+    'body': 'left-50%@xs'
+
+  'inset 0 @xs':
+    'prefix': 'inset-0@xs'
+    'body': 'inset-0@xs'
 
   'position relative @sm':
     'prefix': 'position-relative@sm'
@@ -9495,6 +9539,10 @@
     'prefix': 'position-sticky@sm'
     'body': 'position-sticky@sm'
 
+  'position static @sm':
+    'prefix': 'position-static@sm'
+    'body': 'position-static@sm'
+
   'top 0 @sm':
     'prefix': 'top-0@sm'
     'body': 'top-0@sm'
@@ -9510,6 +9558,26 @@
   'left 0 @sm':
     'prefix': 'left-0@sm'
     'body': 'left-0@sm'
+
+  'top 50% @sm':
+    'prefix': 'top-50%@sm'
+    'body': 'top-50%@sm'
+
+  'bottom 50% @sm':
+    'prefix': 'bottom-50%@sm'
+    'body': 'bottom-50%@sm'
+
+  'right 50% @sm':
+    'prefix': 'right-50%@sm'
+    'body': 'right-50%@sm'
+
+  'left 50% @sm':
+    'prefix': 'left-50%@sm'
+    'body': 'left-50%@sm'
+
+  'inset 0 @sm':
+    'prefix': 'inset-0@sm'
+    'body': 'inset-0@sm'
   
   'position relative @md':
     'prefix': 'position-relative@md'
@@ -9527,6 +9595,10 @@
     'prefix': 'position-sticky@md'
     'body': 'position-sticky@md'
 
+  'position static @md':
+    'prefix': 'position-static@md'
+    'body': 'position-static@md'
+
   'top 0 @md':
     'prefix': 'top-0@md'
     'body': 'top-0@md'
@@ -9542,6 +9614,26 @@
   'left 0 @md':
     'prefix': 'left-0@md'
     'body': 'left-0@md'
+
+  'top 50% @md':
+    'prefix': 'top-50%@md'
+    'body': 'top-50%@md'
+
+  'bottom 50% @md':
+    'prefix': 'bottom-50%@md'
+    'body': 'bottom-50%@md'
+
+  'right 50% @md':
+    'prefix': 'right-50%@md'
+    'body': 'right-50%@md'
+
+  'left 50% @md':
+    'prefix': 'left-50%@md'
+    'body': 'left-50%@md'
+
+  'inset 0 @md':
+    'prefix': 'inset-0@md'
+    'body': 'inset-0@md'
   
   'position relative @lg':
     'prefix': 'position-relative@lg'
@@ -9559,6 +9651,10 @@
     'prefix': 'position-sticky@lg'
     'body': 'position-sticky@lg'
 
+  'position static @lg':
+    'prefix': 'position-static@lg'
+    'body': 'position-static@lg'
+
   'top 0 @lg':
     'prefix': 'top-0@lg'
     'body': 'top-0@lg'
@@ -9574,6 +9670,26 @@
   'left 0 @lg':
     'prefix': 'left-0@lg'
     'body': 'left-0@lg'
+
+  'top 50% @lg':
+    'prefix': 'top-50%@lg'
+    'body': 'top-50%@lg'
+
+  'bottom 50% @lg':
+    'prefix': 'bottom-50%@lg'
+    'body': 'bottom-50%@lg'
+
+  'right 50% @lg':
+    'prefix': 'right-50%@lg'
+    'body': 'right-50%@lg'
+
+  'left 50% @lg':
+    'prefix': 'left-50%@lg'
+    'body': 'left-50%@lg'
+
+  'inset 0 @lg':
+    'prefix': 'inset-0@lg'
+    'body': 'inset-0@lg'
   
   'position relative @xl':
     'prefix': 'position-relative@xl'
@@ -9591,6 +9707,10 @@
     'prefix': 'position-sticky@xl'
     'body': 'position-sticky@xl'
 
+  'position static @xl':
+    'prefix': 'position-static@xl'
+    'body': 'position-static@xl'
+
   'top 0 @xl':
     'prefix': 'top-0@xl'
     'body': 'top-0@xl'
@@ -9606,6 +9726,26 @@
   'left 0 @xl':
     'prefix': 'left-0@xl'
     'body': 'left-0@xl'
+
+  'top 50% @xl':
+    'prefix': 'top-50%@xl'
+    'body': 'top-50%@xl'
+
+  'bottom 50% @xl':
+    'prefix': 'bottom-50%@xl'
+    'body': 'bottom-50%@xl'
+
+  'right 50% @xl':
+    'prefix': 'right-50%@xl'
+    'body': 'right-50%@xl'
+
+  'left 50% @xl':
+    'prefix': 'left-50%@xl'
+    'body': 'left-50%@xl'
+
+  'inset 0 @xl':
+    'prefix': 'inset-0@xl'
+    'body': 'inset-0@xl'
 
   'overflow hidden':
     'prefix': 'overflow-hidden'
@@ -9698,6 +9838,30 @@
   'flip-y':
     'prefix': 'flip-y'
     'body': 'flip-y'
+
+  'translate by -50%':
+    'prefix': '-translate-50%'
+    'body': '-translate-50%'
+
+  'translateX by -50%':
+    'prefix': '-translate-x-50%'
+    'body': '-translate-x-50%'
+
+  'translateY by -50%':
+    'prefix': '-translate-y-50%'
+    'body': '-translate-y-50%'
+
+  'translate by 50%':
+    'prefix': 'translate-50%'
+    'body': 'translate-50%'
+
+  'translateX by 50%':
+    'prefix': 'translate-x-50%'
+    'body': 'translate-x-50%'
+
+  'translateY by 50%':
+    'prefix': 'translate-y-50%'
+    'body': 'translate-y-50%'
   
   'space-unit rem':
     'prefix': 'space-unit-rem'
