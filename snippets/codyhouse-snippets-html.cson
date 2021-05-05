@@ -5119,6 +5119,10 @@
     'prefix': 'grid'
     'body': 'grid'
 
+  'gap 0':
+    'prefix': 'gap-0'
+    'body': 'gap-0'
+
   'gap xxxxs':
     'prefix': 'gap-xxxxs'
     'body': 'gap-xxxxs'
