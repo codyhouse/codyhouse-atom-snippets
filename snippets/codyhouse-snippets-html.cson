@@ -7023,6 +7023,10 @@
     'prefix': 'display@lg'
     'body': 'display@lg'
 
+  'hide':
+    'prefix': 'hide'
+    'body': 'hide'
+
   'hide @xs':
     'prefix': 'hide@xs'
     'body': 'hide@xs'
@@ -9383,6 +9387,30 @@
     'prefix': 'inline@xl'
     'body': 'inline@xl'
 
+  'display contents':
+    'prefix': 'contents'
+    'body': 'contents'
+
+  'display contents @xs':
+    'prefix': 'contents@xs'
+    'body': 'contents@xs'
+
+  'display contents @sm':
+    'prefix': 'contents@sm'
+    'body': 'contents@sm'
+
+  'display contents @md':
+    'prefix': 'contents@md'
+    'body': 'contents@md'
+
+  'display contents @lg':
+    'prefix': 'contents@lg'
+    'body': 'contents@lg'
+
+  'display contents @xl':
+    'prefix': 'contents@xl'
+    'body': 'contents@xl'
+
   'JS tab focus':
     'prefix': 'js-tab-focus'
     'body': 'js-tab-focus'
@@ -11252,5 +11280,45 @@
     'body': 'visible'
 
   'visibility hidden':
-    'prefix': 'hidden'
-    'body': 'hidden'
+    'prefix': 'invisible'
+    'body': 'invisible'
+
+  'visibility visible @xs':
+    'prefix': 'visible@xs'
+    'body': 'visible@xs'
+
+  'visibility hidden @xs':
+    'prefix': 'invisible@xs'
+    'body': 'invisible@xs'
+
+  'visibility visible @sm':
+    'prefix': 'visible@sm'
+    'body': 'visible@sm'
+
+  'visibility hidden @sm':
+    'prefix': 'invisible@sm'
+    'body': 'invisible@sm'
+
+  'visibility visible @md':
+    'prefix': 'visible@md'
+    'body': 'visible@md'
+
+  'visibility hidden @md':
+    'prefix': 'invisible@md'
+    'body': 'invisible@md'
+
+  'visibility visible @lg':
+    'prefix': 'visible@lg'
+    'body': 'visible@lg'
+
+  'visibility hidden @lg':
+    'prefix': 'invisible@lg'
+    'body': 'invisible@lg'
+
+  'visibility visible @xl':
+    'prefix': 'visible@xl'
+    'body': 'visible@xl'
+
+  'visibility hidden @xl':
+    'prefix': 'invisible@xl'
+    'body': 'invisible@xl'
