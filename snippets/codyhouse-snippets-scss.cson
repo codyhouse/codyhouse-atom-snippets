@@ -49,7 +49,7 @@
 
   'Define Color Variable':
     'prefix': 'defineColorHSL'
-    'body': '@include defineColorHSL(--${1}, ${2:220}, ${3:90}%, ${4:36}%);'
+    'body': '@include defineColorHSL(--${1}, ${2:250}, ${3:84}%, ${4:54}%);'
 
   'color primary darker':
     'prefix': 'color-primary-darker'
@@ -159,9 +159,25 @@
     'prefix': 'color-warning-lighter'
     'body': 'var(--color-warning-lighter)'
 
+  'color background darker':
+    'prefix': 'color-bg-darker'
+    'body': 'var(--color-bg-darker)'
+  
+  'color background dark':
+    'prefix': 'color-bg-dark'
+    'body': 'var(--color-bg-dark)'
+  
   'color background':
     'prefix': 'color-bg'
     'body': 'var(--color-bg)'
+  
+  'color background light':
+    'prefix': 'color-bg-light'
+    'body': 'var(--color-bg-light)'
+  
+  'color background lighter':
+    'prefix': 'color-bg-lighter'
+    'body': 'var(--color-bg-lighter)'
 
   'color contrast lower':
     'prefix': 'color-contrast-lower'
@@ -266,6 +282,14 @@
   'shadow xl':
     'prefix': 'shadow-xl'
     'body': 'var(--shadow-xl)'
+  
+  'inner glow':
+    'prefix': 'inner-glow'
+    'body': 'var(--inner-glow)'
+  
+  'inner glow top':
+    'prefix': 'inner-glow-top'
+    'body': 'var(--inner-glow-top)'
 
   'space xxxxs':
     'prefix': 'space-xxxxs'
@@ -331,9 +355,9 @@
     'prefix': 'line-height-multiplier'
     'body': 'var(--line-height-multiplier)'
 
-  'text vertical space multiplier':
-    'prefix': 'text-vspace-multiplier'
-    'body': 'var(--text-vspace-multiplier)'
+  'text-component vertical space multiplier':
+    'prefix': 'text-space-y-multiplier'
+    'body': 'var(--text-space-y-multiplier)'
 
   'primary font-family':
     'prefix': 'font-primary'
@@ -374,6 +398,10 @@
   'text xxxl':
     'prefix': 'text-xxxl'
     'body': 'var(--text-xxxl)'
+  
+  'text xxxxl':
+    'prefix': 'text-xxxxl'
+    'body': 'var(--text-xxxxl)'
 
   'text unit':
     'prefix': 'text-unit'
@@ -384,20 +412,20 @@
     'body': 'var(--display)'
 
   'z-index header':
-    'prefix': 'zindex-header'
-    'body': 'var(--zindex-header)'
+    'prefix': 'z-index-header'
+    'body': 'var(--z-index-header)'
 
   'z-index popover':
-    'prefix': 'zindex-popover'
-    'body': 'var(--zindex-popover)'
+    'prefix': 'z-index-popover'
+    'body': 'var(--z-index-popover)'
 
   'z-index fixed':
-    'prefix': 'zindex-fixed-element'
-    'body': 'var(--zindex-fixed-element)'
+    'prefix': 'z-index-fixed-element'
+    'body': 'var(--z-index-fixed-element)'
 
   'z-index overlay':
-    'prefix': 'zindex-overlay'
-    'body': 'var(--zindex-overlay)'
+    'prefix': 'z-index-overlay'
+    'body': 'var(--z-index-overlay)'
 
   'max-width xxxxs':
     'prefix': 'max-width-xxxxs'
@@ -442,3 +470,39 @@
   'max-width xxxxl':
     'prefix': 'max-width-xxxxl'
     'body': 'var(--max-width-xxxxl)'
+  
+  'icon xxxs':
+    'prefix': 'icon-xxxs'
+    'body': 'var(--icon-xxxs)'
+  
+  'icon xxs':
+    'prefix': 'icon-xxs'
+    'body': 'var(--icon-xxs)'
+  
+  'icon xs':
+    'prefix': 'icon-xs'
+    'body': 'var(--icon-xs)'
+  
+  'icon sm':
+    'prefix': 'icon-sm'
+    'body': 'var(--icon-sm)'
+  
+  'icon md':
+    'prefix': 'icon-md'
+    'body': 'var(--icon-md)'
+  
+  'icon lg':
+    'prefix': 'icon-lg'
+    'body': 'var(--icon-lg)'
+  
+  'icon xl':
+    'prefix': 'icon-xl'
+    'body': 'var(--icon-xl)'
+  
+  'icon xxl':
+    'prefix': 'icon-xxl'
+    'body': 'var(--icon-xxl)'
+  
+  'icon xxxl':
+    'prefix': 'icon-xxxl'
+    'body': 'var(--icon-xxxl)'
